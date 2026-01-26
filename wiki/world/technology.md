@@ -61,9 +61,9 @@ Different populations on Persephone-7 operate at vastly different technological 
 
 ### Persona Weapons
 
-Weapons embedded with AI cores that develop personalities and bond with wielders.
+Weapons and tools embedded with AI cores that develop personalities and bond with wielders. While typically combat-focused (swords, rifles), any tool can theoretically be made into a persona item.
 
-**Howen** is a persona hoe—unusual because:
+**Howen** is a persona hoe—a type of persona weapon where the "weapon" is a farming tool. This is unusual because:
 - Farming tools are rarely made into persona weapons
 - Her level of consciousness is abnormally high
 - She retains clear memories of being human
