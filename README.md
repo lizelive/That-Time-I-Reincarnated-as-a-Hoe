@@ -14,4 +14,6 @@ Hidden Traits:
 - Kill-focused
 - Psychic hypersensitizer
 
-Cora Barleybloom, a farmer. She was 
+Cora Barleybloom, a farmer. She was was exploring and saw the hole you made.
+The mechnioids guarding the vault didn't take kindly to that.
+She picks you up and escapes.
