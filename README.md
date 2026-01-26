@@ -1,4 +1,4 @@
-# The-Time-I-Reincarnated-as-a-Hoe
+# The Time I Reincarnated as a Hoe
 A persona hoe's rim world journey.
 
 Howen, the hoe.
