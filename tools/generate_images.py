@@ -128,19 +128,37 @@ def build_prompt(image_data: Dict[str, Any], chapter_data: Dict[str, Any]) -> st
     return "\n".join(prompt_parts)
 
 
-def generate_image(prompt: str, token: str, output_path: Path) -> bool:
-    """Generate a single image using the Hugging Face API."""
+def generate_image(
+    prompt: str, 
+    token: str, 
+    output_path: Path,
+    width: int = 768,
+    height: int = 1024,
+    guidance_scale: float = 7.5,
+    num_inference_steps: int = 50
+) -> bool:
+    """Generate a single image using the Hugging Face API.
+    
+    Note: Some parameters may not be supported by all models. The API will
+    ignore unsupported parameters gracefully.
+    """
     headers = {"Authorization": f"Bearer {token}"}
     
+    # Build parameters dict - some models may not support all of these
+    # The HF Inference API typically ignores unsupported parameters
     payload = {
         "inputs": prompt,
         "parameters": {
-            "guidance_scale": 7.5,
-            "num_inference_steps": 50,
-            "width": 768,
-            "height": 1024,  # Manga page proportions
+            "width": width,
+            "height": height,  # Manga page proportions
         }
     }
+    
+    # Add optional parameters that may not be supported by all models
+    if guidance_scale is not None:
+        payload["parameters"]["guidance_scale"] = guidance_scale
+    if num_inference_steps is not None:
+        payload["parameters"]["num_inference_steps"] = num_inference_steps
     
     max_retries = 3
     for attempt in range(max_retries):

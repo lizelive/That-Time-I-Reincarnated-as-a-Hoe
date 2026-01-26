@@ -75,10 +75,12 @@ Imperial technology that "unlocks" psychic potential—actually *limits* it to c
 
 | Power | Effect | Limitation |
 |-------|--------|------------|
-| Word of Trust | Makes targets amenable | **First crack in Cora's trust of the Empire**—realizing they want her to manipulate people |
+| Word of Trust | Makes targets amenable | Weak, requires concentration |
 | Skip | Short-range teleport | 10-meter range max |
 | Burden | Slows targets | Temporary, single target |
 | Focus | Enhanced concentration | Draining to maintain |
+
+> **Note**: Word of Trust is where Cora begins losing trust in the Empire—realizing they want her to manipulate people.
 
 ### Phase 2: Anima-Attuned (Arc 5)
 Natural connection to the psychic field through the anima tree.
