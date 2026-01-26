@@ -37,7 +37,7 @@ A young farmer separated from her ancestral tribe as a baby. Cora's curiosity le
 | [Chitin](./supporting.md#chitin) | Independent | Arc 1 | Megascarab companion |
 | [Elder Barleybloom](./supporting.md#elder-barleybloom) | Barleybloom Tribe | Arc 4 | Cora's great-uncle, tribal leader |
 | [Captain Saren Vex](./supporting.md#captain-saren-vex) | The Deserters | Arc 5 | Rebel commander who wants revenge |
-| [Charles Wheatstone](./supporting.md#charles-wheatstone) | The Opposition | Arc 5 | Noble revolutionary, escape coordinator |
+| [Charles Wheatstone](./supporting.md#charles-wheatstone) | Pre-Collapse AI | Arc 5 | AI from Howen's past, escape coordinator |
 | [Rustwing](./supporting.md#rustwing) | Deserters | Arc 5 | Scout and survivor |
 
 ### Antagonists

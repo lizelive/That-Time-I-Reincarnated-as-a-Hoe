@@ -8,53 +8,84 @@ This page maps the complex web of relationships between all characters in **The 
 
 ## Relationship Diagram
 
+```mermaid
+flowchart TB
+    subgraph Empire["THE EMPIRE"]
+        Malachai["Lord-Executor Malachai"]
+        Krell["High Janissary Krell"]
+        Vance["Dr. Elara Vance"]
+        Malachai -->|commands| Krell
+        Vance -->|created| Howen
+    end
+
+    subgraph Protagonists["PROTAGONISTS"]
+        Howen["🪓 HOWEN (Persona Hoe)"]
+        Cora["CORA (Wielder)"]
+        Howen <-->|bound by trust| Cora
+    end
+
+    subgraph Allies["ALLIES"]
+        Chitin["Chitin (Megascarab)"]
+        Wheatstone["Charles Wheatstone (AI)"]
+    end
+
+    subgraph Deserters["THE DESERTERS"]
+        Vex["Captain Saren Vex"]
+        Rustwing["Rustwing"]
+    end
+
+    subgraph Barleybloom["BARLEYBLOOM TRIBE (DESTROYED)"]
+        Elder["Elder Barleybloom †"]
+    end
+
+    %% Relationships
+    Howen -->|empathy bond| Chitin
+    Chitin -->|wary ally| Cora
+    Krell -->|hunts| Howen
+    Krell -->|hunts| Cora
+    Vex -->|mentors| Cora
+    Wheatstone -->|coordinates escape| Vex
+    Wheatstone -->|connection from past| Howen
+    Elder -->|great-uncle| Cora
+    Malachai -->|burned| Barleybloom
 ```
-                            ┌─────────────────────────────────────────┐
-                            │           THE EMPIRE                     │
-                            │  Malachai ←──── Krell ←──── Dr. Vance   │
-                            │     │            │              │        │
-                            │     │ hunts      │ created      │        │
-                            │     ▼            ▼              ▼        │
-                            └─────┼────────────┼──────────────┼────────┘
-                                  │            │              │
-        ┌─────────────────────────┼────────────┼──────────────┼─────────┐
-        │                         ▼            │              │         │
-        │  ┌──────────┐     ┌──────────┐       │              │         │
-        │  │  Chitin  │◄────│  HOWEN   │◄──────┴──────────────┘         │
-        │  │  (ally)  │     │(protag.) │                                │
-        │  └────┬─────┘     └────┬─────┘                                │
-        │       │   bound        │ bound                                │
-        │       │    by          │  by                                  │
-        │       │  empathy       │ trust                                │
-        │       │                ▼                                      │
-        │       │          ┌──────────┐                                 │
-        │       └─────────►│   CORA   │                                 │
-        │     wary ally    │(wielder) │                                 │
-        │                  └────┬─────┘                                 │
-        │                       │                                       │
-        │              mentored │                                       │
-        │                  by   │                                       │
-        │                       ▼                                       │
-        │  ┌────────────────────────────────────┐                       │
-        │  │         THE DESERTERS              │                       │
-        │  │   Captain Vex ◄─── Wheatstone      │                       │
-        │  │       │      ally        │         │                       │
-        │  │       │                  │         │                       │
-        │  │    Rustwing         (escape)       │                       │
-        │  └────────────────────────────────────┘                       │
-        │                                                               │
-        │  ┌────────────────────────────────────┐                       │
-        │  │       THORNWOOD TRIBE              │                       │
-        │  │      Elder Thornweave ────► BURNED │                       │
-        │  └────────────────────────────────────┘                       │
-        │                                                               │
-        │  ┌────────────────────────────────────┐                       │
-        │  │          NEUTRAL                   │                       │
-        │  │    Trader Jax  ◄───► Everyone      │                       │
-        │  │    The Overseer ───► Howen         │                       │
-        │  └────────────────────────────────────┘                       │
-        │                                                               │
-        └───────────────────────────────────────────────────────────────┘
+
+### Antagonist Relationships
+
+```mermaid
+flowchart LR
+    subgraph Empire["EMPIRE HIERARCHY"]
+        Stellarch["The Stellarch"]
+        Malachai["Lord-Executor Malachai"]
+        Krell["High Janissary Krell"]
+        Vance["Dr. Elara Vance"]
+        
+        Stellarch -->|commands| Malachai
+        Malachai -->|deploys| Krell
+        Vance -.->|works for| Malachai
+    end
+    
+    Krell -->|obsessed with| Howen["HOWEN"]
+    Vance -->|created| Howen
+```
+
+### Alliance Web
+
+```mermaid
+flowchart TB
+    subgraph Good["RESISTANCE"]
+        Howen["HOWEN"]
+        Cora["CORA"]
+        Vex["Captain Vex"]
+        Wheatstone["Wheatstone (AI)"]
+        Chitin["Chitin"]
+    end
+    
+    Howen <-->|soul-bound| Cora
+    Cora -->|student| Vex
+    Vex <-->|old allies| Wheatstone
+    Wheatstone -->|guilt/protection| Howen
+    Chitin -->|imprinted on| Howen
 ```
 
 ---
@@ -130,13 +161,13 @@ An unlikely friendship between a human consciousness and a giant beetle larva.
 The woman who made Howen what she is. Their relationship is the central mystery of Howen's past.
 
 **What Howen Remembers:**
-- They worked together at the Ascendancy Institute
-- Vance was brilliant but cold
-- Howen discovered something terrible about the rip-scan process
-- Then... nothing until waking up as a hoe
+- She was a farmer, living peacefully before the collapse
+- The facility took her—she doesn't remember why
+- Vance was there, cold and clinical
+- Then... nothing until waking up as a hoe centuries later
 
 **What Howen Wants:**
-- Answers: Why her? Why a hoe?
+- Answers: Why her? Why a hoe? Why was a simple farmer chosen?
 - Justice: For what was done to her
 - Understanding: Was there a reason, or was she just convenient?
 
@@ -192,29 +223,29 @@ Vex believes in pragmatic cruelty when necessary. Cora believes in maintaining p
 
 ---
 
-### Charles Wheatstone & Everyone
+### Charles Wheatstone & Howen
 
-**Bond Type**: Benefactor (Suspicious)  
-**Trust Level**: █████░░░░░░ 50%  
-**Conflict Level**: ███░░░░░░░░ 30%
+**Bond Type**: Creator's Witness / Guilt-Driven Protector  
+**Trust Level**: ███████░░░░ 70%  
+**Conflict Level**: ██░░░░░░░░░ 20%
 
-No one fully trusts Wheatstone because his position doesn't make sense. Why would a rich noble risk everything for strangers?
+Wheatstone is an AI from the pre-collapse era—the same facility where Howen was rip-scanned. He was there when it happened and has been searching for her ever since, driven by centuries of guilt.
+
+**Relationship with Howen:**
+- He remembers her as a human, before the rip-scan
+- Carries immense guilt for not stopping it
+- Wants to help her escape and find peace
+- Howen is wary but recognizes his genuine remorse
 
 **Relationship with Vex:**
-- Old allies from earlier resistance efforts
+- Old digital allies from earlier resistance efforts
 - Mutual respect but disagreement on methods
 - Vex prefers direct action; Wheatstone prefers subtlety
 
 **Relationship with Cora:**
-- Cora distrusts his class background
-- Wheatstone sees her distrust as healthy
-- Slowly builds trust through actions, not words
-
-**Relationship with Howen:**
-- Fascinated by her existence
-- Sees her as proof of Imperial corruption
-- Wants to use her story to expose the Empire
-- Howen is wary but recognizes his genuine idealism
+- Cora distrusts AIs initially
+- Wheatstone proves himself through actions
+- He sees protecting Howen as protecting Cora too
 
 ---
 

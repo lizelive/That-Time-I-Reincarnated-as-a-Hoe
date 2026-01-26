@@ -1,6 +1,6 @@
 # Arc 3: Embrace of the Empire
 
-> *"For the first time since awakening, I felt... safe. Fed. Warm. Part of something larger than survival. I should have known happiness that easy comes with a price."*
+> *"For the first time since awakening, I felt... safe. Warm. Part of something larger than survival. Cora was thriving, and through her, so was I. I should have known happiness that easy comes with a price."*
 
 ---
 

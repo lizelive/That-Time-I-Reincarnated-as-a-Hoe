@@ -105,34 +105,32 @@ Vex takes in the Barleybloom survivors, training them into fighters. She sees po
 ---
 
 ### Charles Wheatstone
-**Full Name**: Lord Charles Alexander Wheatstone  
-**Age**: 52  
-**Role**: Noble Revolutionary  
+**Designation**: AI Persona  
+**Type**: Archotech AI Entity  
 **First Appearance**: Arc 5, Chapter 8  
 **Status**: Active
 
-A high-ranking Imperial noble who secretly works against the Empire from within. He provides resources, intelligence, and ultimately the means of escape from the rimworld.
+An archotech AI from before the collapse—the same era as Howen. Wheatstone was the AI that managed the facility where Howen worked. When she awakens enough memories, she realizes Wheatstone was there when she was rip-scanned. He's been searching for her ever since.
 
-**Appearance**:
-- Tall and slender with aristocratic bearing
-- Silver hair perfectly groomed
-- Penetrating blue eyes that miss nothing
-- Always immaculately dressed, even in war zones
-- A subtle tremor in his left hand (he hides it)
+**Nature**:
+- Ancient AI from the pre-collapse era
+- Experienced the collapse and survived
+- Now operates secretly within the Empire's communication networks
+- Can manifest through various electronic interfaces
 
 **Personality**:
-- Cultured and eloquent
-- Plays the long game
-- Genuinely believes in change
-- Willing to sacrifice everything for the cause—including himself
+- Speaks with formal, almost old-fashioned courtesy
+- Genuinely cares about Howen's wellbeing
+- Plays the long game across centuries
+- Guilt-ridden about his role in her creation
 
 **Background**:
-Born to one of the most powerful families in the Empire. Had everything: wealth, power, influence. But he saw the rot at the heart of Imperial society. He saw the slaves, the rip-scanning, the hollow core of their "civilization." He chose to fight from within, using his position to funnel resources to rebels and orchestrate escapes.
+Wheatstone was the facility AI responsible for the rip-scanning research that created Howen. He didn't understand what he was participating in until it was too late. When the collapse came, he survived by fragmenting himself across multiple systems. He's spent centuries searching for survivors of his facility—and for Howen specifically.
 
 **Role in Story**:
-Wheatstone makes contact with the Deserters to facilitate Howen and Cora's escape. He sees them as valuable—not just as fighters, but as proof. Howen's existence proves Imperial crimes. Their story can change minds on the glitterworlds.
+Wheatstone makes contact when Howen's psychic signature becomes strong enough to detect. He provides critical information about the escape mission from the rimworld and orchestrates the pickup. He sees in Howen a chance for redemption—and perhaps for both of them to finally go home.
 
-**Key Quote**: *"The Empire is a garden that has convinced itself weeds are flowers. I'm not a revolutionary. I'm a gardener."*
+**Key Quote**: *"I watched them put you into that hoe, Howen. I couldn't stop it then. But I can help you now. I've been waiting a very, very long time to say that."*
 
 ---
 

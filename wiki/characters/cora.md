@@ -7,9 +7,10 @@
 | Attribute | Value |
 |-----------|-------|
 | **Full Name** | Cora Barleybloom |
-| **Occupation** | Farmer → Imperial Auxiliary → Deserter → Revolutionary |
+| **Occupation** | Tribal → Imperial Auxiliary → Deserter → Revolutionary |
 | **Age** | 19 (at start) |
-| **Origin** | Barleybloom Tribe (ancestral), Rim Settlement (raised) |
+| **Origin** | Barleybloom Tribe (ancestral tribal people) |
+| **Background** | Tribal |
 | **Status** | Active |
 
 ---
@@ -74,7 +75,7 @@ Imperial technology that "unlocks" psychic potential—actually *limits* it to c
 
 | Power | Effect | Limitation |
 |-------|--------|------------|
-| Word of Trust | Makes targets amenable | Weak, requires concentration |
+| Word of Trust | Makes targets amenable | **First crack in Cora's trust of the Empire**—realizing they want her to manipulate people |
 | Skip | Short-range teleport | 10-meter range max |
 | Burden | Slows targets | Temporary, single target |
 | Focus | Enhanced concentration | Draining to maintain |

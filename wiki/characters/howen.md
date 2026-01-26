@@ -8,9 +8,10 @@
 |-----------|-------|
 | **True Name** | Howen Ashford |
 | **Current Form** | Persona Hoe (Agricultural Tool) |
-| **Previous Life** | Human - Archotech Researcher |
+| **Previous Life** | Human - Farmer |
 | **Age** | 34 (at time of rip-scan) + unknown centuries dormant |
-| **Origin** | Urbworld - New Helsinki |
+| **Origin** | Pre-Collapse Earth |
+| **Era** | Pre-Collapse (before the fall of interstellar civilization) |
 | **Status** | Active |
 
 ---
@@ -18,7 +19,7 @@
 ## Physical Description
 
 ### As a Human (Memories)
-Howen remembers herself as a woman of medium height with dark hair often pulled back in a practical ponytail. She wore researcher's attire—practical jumpsuits with too many pockets. Her eyes were a deep brown, described by colleagues as "uncomfortably observant."
+Howen remembers herself as a woman of medium height with dark hair often pulled back in a practical ponytail. She wore simple farmer's clothing—work-stained shirts and sturdy trousers. Her hands were calloused from years of tending crops. Her eyes were a deep brown, described by neighbors as "always watching the sky for weather."
 
 ### As a Persona Hoe
 The hoe that houses Howen's consciousness is a masterwork tool of clearly ancient design:
@@ -45,7 +46,7 @@ When wielded, Howen enhances her user's speed and reflexes, particularly for agr
 ### Hidden Traits (Revealed Over Time)
 
 **Kill-Focused**  
-Buried deep in Howen's psyche is an edge of violence. While she was a researcher, something in the rip-scan process or her experiences in the vault has given her an affinity for ending threats permanently. She feels a disturbing satisfaction when eliminating enemies.
+Buried deep in Howen's psyche is an edge of violence. While she was a peaceful farmer, something in the rip-scan process or her experiences in the vault has given her an affinity for ending threats permanently. She feels a disturbing satisfaction when eliminating enemies.
 
 **Psychic Hypersensitizer**  
 Howen can sense psychic phenomena with extreme sensitivity. This allows her to detect approaching threats, communicate through psychic impressions, and eventually develop more complex abilities.
