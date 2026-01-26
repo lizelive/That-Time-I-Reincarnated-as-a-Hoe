@@ -213,7 +213,7 @@ Mechanoids are autonomous war machines of uncertain origin. Theories include:
 
 ### The Psychic Field
 
-A background radiation of mental energy that permeates space. Some individuals can sense and manipulate it.
+A background radiation of mental energy that permeates space. Some individuals can sense and manipulate it. The Empire claims to have mastered this field through technology. They're lying.
 
 ### Psychic Sensitivity
 
@@ -227,36 +227,87 @@ A background radiation of mental energy that permeates space. Some individuals c
 
 **Howen** is psychically hypersensitive—which allows her unusual awareness but makes her vulnerable to psychic attacks.
 
-### Psycasts (Trained Abilities)
+---
 
-Imperial psycasters can learn abilities through training:
+### Two Paths to Power
 
-| Ability | Effect |
-|---------|--------|
-| Word of Trust | Makes target more amenable |
-| Word of Joy | Induces happiness |
-| Word of Serenity | Calms aggression |
-| Skip | Short-range teleportation |
-| Burden | Slows target movement |
-| Blinding Pulse | Blinds nearby enemies |
-| Vertigo Pulse | Disorients targets |
-| Berserk | Induces combat frenzy |
-| Invisibility | Temporary concealment |
+There are fundamentally two ways to access psychic abilities:
+
+#### Imperial Neurotrainers (Artificial)
+
+The Empire uses neurotrainer technology to "unlock" psychic potential in selected individuals. This is presented as a gift, a sign of favor, proof of civilization's advancement.
+
+**The Truth**: Neurotrainers don't unlock potential—they *limit* it. The technology creates a controlled, dependent connection to the psychic field. Users can only access a fraction of true psychic power, and only in approved ways. This ensures the Empire maintains control.
+
+| Neurotrainer Powers | Effect | Hidden Limitation |
+|---------------------|--------|-------------------|
+| Word of Trust | Makes target amenable | Weak, easily resisted |
+| Skip | Short-range teleportation | 10-meter maximum |
+| Burden | Slows target movement | Single target only |
+| Focus | Enhanced concentration | Draining to maintain |
+
+#### Anima Trees (Natural)
+
+The true source of psychic power: communion with anima trees—ancient growths directly connected to the planet's psychic field. Tribals have known about them for generations. The Empire burns them wherever found, claiming they're "dangerous" and "unstable."
+
+**The Truth**: Natural attunement through anima trees provides access to the full psychic field. Powers are stronger, more varied, and unlimited in growth potential. The Empire suppresses this because uncontrolled power threatens their monopoly.
+
+| Anima-Attuned Powers | Effect | Note |
+|----------------------|--------|------|
+| Word of Command | Overwhelming mental influence | Cannot be resisted |
+| Farskip | Mile-range teleportation | Limited by knowledge, not distance |
+| Paralysis | Complete immobilization | Multiple simultaneous targets |
+| Prescience | Glimpses of future events | Unreliable but improving |
+
+---
+
+### Anima Trees
+
+#### Description
+Anima trees are ancient, massive growths that glow with subtle inner light. Their roots extend deep into the psychic field itself, acting as natural conduits. Standing near one, psychically sensitive individuals can feel the universe *breathing*.
+
+#### Distribution
+- Hidden in remote areas away from Imperial control
+- Protected by tribals who understand their value
+- Actively destroyed by Imperial forces
+- The Deserters have located several and use them strategically
+
+#### Attunement
+To attune to an anima tree requires:
+1. Approaching with open mind
+2. Physical contact (directly or through intermediary)
+3. Willingness to release artificial limitations
+4. Survival of the overwhelming initial connection
+
+The process breaks neurotrainer conditioning, replacing artificial channels with natural ones. It's painful, transformative, and permanent.
+
+---
 
 ### Howen's Unique Abilities
 
-As a persona weapon with human consciousness, Howen develops unusual powers:
+As a persona weapon with human consciousness, Howen develops unusual powers that expand dramatically after anima attunement:
 
-**Psychic Whisper**: Basic emotional communication
-**Growth Acceleration**: Speeds plant development
-**Fungal Communion**: Interfaces with fungal networks
-**Insect Empathy**: Basic connection with insect minds
-**Harvest Frenzy**: Combat enhancement for wielder
-**Root Sense**: Detects movement through soil
-**Bloom of Destruction**: Explosive plant growth
-**Mind Bridge**: Direct telepathic communication
+#### Pre-Attunement (Arc 1-4)
 
-These abilities are unprecedented—persona weapons don't normally develop such range.
+| Ability | Effect |
+|---------|--------|
+| **Psychic Whisper** | Basic emotional communication |
+| **Growth Acceleration** | Speeds plant development |
+| **Fungal Communion** | Interfaces with fungal networks |
+| **Insect Empathy** | Connection with insect minds |
+
+#### Post-Attunement (Arc 5)
+
+| Ability | Effect |
+|---------|--------|
+| **Root Network** | Sense through all connected plant life for miles |
+| **Bloom of Destruction** | Explosive, targeted plant growth |
+| **Life Bridge** | Communicate with any organic being |
+| **Verdant Shield** | Rapid growth creating defensive barriers |
+| **Harvest of Wrath** | Turn all nearby plants into weapons |
+| **Mind Bridge** | Direct telepathic communication, any distance |
+
+Howen's unique nature—human consciousness in archotech vessel—makes her response to anima attunement unprecedented. She becomes something neither the Empire nor the natural world has seen before.
 
 ---
 

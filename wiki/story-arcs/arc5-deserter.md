@@ -1,6 +1,6 @@
 # Arc 5: The Deserter's Path
 
-> *"The rim took my home once. The Empire took it again. Now I'm going to take something back—my future."*
+> *"The Empire taught me to fight. The Deserters taught me why. The anima tree taught me that everything the Empire gave me was a shadow of what I could become."*
 
 ---
 
@@ -8,261 +8,251 @@
 
 **Arc Number**: 5 of 5  
 **Chapters**: 12  
-**Primary Settings**: Thornwood Village, Deserter Camps, Mountain Escape Route  
+**Primary Setting**: Deserter Camps, Anima Groves, Mountain Escape Route  
 **Time Span**: Approximately 3 months  
-**Tone**: High-stakes, action-packed, cathartic
+**Tone**: Fierce, empowering, cathartic
 
 ### Synopsis
 
-Fleeing the Empire, Cora and Howen find sanctuary with the Thornwood Tribe—sanctuary that costs the village everything when Imperial forces burn it in retaliation. Joining the Deserters, they work toward an impossible goal: escape from Persephone-7 entirely. When Charles Wheatstone makes contact with a plan, they embark on a desperate journey to a hidden landing site. The final confrontation with High Janissary Krell determines whether hope survives.
+Grief transforms into purpose as Cora and Howen join the Deserters—former Imperial soldiers who've seen too much and now want to make the Empire *pay*. Here they discover a truth the Empire suppresses: psychic powers flow not from neurotrainers but from communion with the anima trees, ancient growths connected to the psychic field itself. Through this natural connection, Howen achieves power the Empire never imagined possible—and becomes a beacon of hope for the resistance. When Charles Wheatstone offers escape from the rimworld, they face a choice: flee to safety, or stay to fight. In the end, they choose both—leaving to bring reinforcements, to return and finish what they started.
 
 ---
 
 ## Themes
 
-- **Sacrifice**: What we give up for others
-- **Resistance**: Standing against overwhelming power
-- **Hope**: Finding light in darkness
-- **Closure**: Endings that enable beginnings
-- **Found Family**: The bonds we choose
+- **Vengeance**: Making the Empire pay
+- **True Power**: Natural vs. artificial psychic connection
+- **Hope**: Fighting for something worth dying for
+- **Transformation**: From victim to revolutionary
 
 ---
 
 ## Chapter Summaries
 
-### Chapter 1: The Forest Welcomes
-*"Thornwood. The trees themselves have thorns. Perfect metaphor for a place that accepts refugees."*
+### Chapter 1: Among the Broken
+*"Deserters. The Empire calls them traitors. They call themselves the awake. Everyone here has seen the truth."*
 
 **POV**: Cora (arrival)
 
-Guided by tribal scouts, Cora and Howen reach Thornwood Village. The tribals are suspicious but not hostile. Elder Thornweave listens to their story and makes a decision that will cost her people everything.
+The Deserters find them in the wilderness—a patrol seeking other refugees from Imperial "justice." They're brought to Camp Resolve, a hidden base in the badlands. Here are others like them: soldiers who witnessed atrocities, civilians who lost everything, tribals who survived massacres.
 
 **Key Moments**:
-- First encounter with Thornwood scouts
-- Journey through the ancient forest
-- Meeting Elder Thornweave
-- Explaining their situation (partial truth)
-- Thornweave's decision: "The thorns protect the flower."
+- Rescued by Deserter patrol
+- Journey to Camp Resolve
+- Meeting other survivors
+- Seeing the scope of resistance (larger than expected)
+- Everyone has a story of Empire betrayal
 
-**Chapter Hook**: "You may stay. But understand: the Empire does not forget, and they do not forgive."
+**Chapter Hook**: "Tomorrow you meet the Captain. She'll decide if you're truly one of us."
 
 ---
 
-### Chapter 2: Thornwood Hospitality
-*"Simple people with simple lives. Not stupid—simple. They've chosen what matters. I envy them."*
+### Chapter 2: The Deserters' Oath
+*"'We don't just resist,' Captain Vex said. 'We make them pay. For every village burned. Every mind taken. Every life destroyed.'"*
 
-**POV**: Cora (integration)
+**POV**: Howen and Cora (introduction)
 
-Days in the village. Cora helps with tasks—farming, gathering, building. Howen is treated with reverence by some tribals who sense her psychic nature. It's peaceful. It won't last.
+Captain Saren Vex is everything a leader should be: strong, scarred, uncompromising. A former Imperial commander, she deserted after being ordered to massacre a hospital. She interviews Cora and Howen personally, testing their commitment. When she hears about the Barleybloom Tribe, she nods grimly. "They'll answer for that."
 
 **Key Moments**:
-- Daily life in Thornwood
-- Cora learning tribal ways
-- Howen communicating with the village shaman
-- Chitin lurking at the forest edge (tribals avoid it)
-- Rustwing introduced (young scout with tragic past)
+- Meeting Captain Vex
+- Interview about their experiences
+- Vex's backstory (briefly)
+- The Deserters' purpose: not just survival—revenge
+- Acceptance into the ranks
 
-**Chapter Hook**: Smoke on the horizon. Imperial patrols are getting closer.
+**Chapter Hook**: "Before you can fight with us, you need to unlearn what the Empire taught you about power."
 
 ---
 
-### Chapter 3: Elder's Wisdom
-*"'Why risk everything for strangers?' I asked. 'Because if we don't,' she said, 'we become the Empire.'"*
+### Chapter 3: Captain Vex
+*"She was everything I wanted to be and everything I feared becoming. A weapon that chose its own targets."*
 
-**POV**: Howen (philosophical)
+**POV**: Cora (character study)
 
-A conversation between Howen and Elder Thornweave about morality, choice, and what makes a community worth defending. The elder knows what sheltering fugitives might cost. She's made peace with it.
+A closer look at Captain Vex. Her history in Imperial service, the atrocities she committed before she woke up, the rebellion she's built from nothing. She becomes Cora's mentor—harsh, demanding, but seeing potential worth developing.
 
 **Key Moments**:
-- Deep conversation about values
-- Thornweave's philosophy on community
-- Discussion of the Empire's nature
-- Howen sharing her perspective on existence
-- A warning: tribals have seen Janissary scouts
+- Vex's full backstory
+- Training under her guidance
+- Her view on Imperial psychic powers ("Crippled leashes, not true strength")
+- Hints at something called the anima grove
+- A warning: "What I'm going to show you will change everything."
 
-**Chapter Hook**: "They've found us," Thornweave says calmly. "We have perhaps two days."
+**Chapter Hook**: "Tomorrow, we go to the grove. It's time you learned the truth about psychic power."
 
 ---
 
-### Chapter 4: The Fire Comes
-*"Fire arrows arc through the dawn sky like dying stars. Beautiful and terrible."*
+### Chapter 4: Make Them Pay
+*"The Deserters don't just hide and survive. They strike. Every supply line raided is a village not burned. Every officer killed is a war crime not committed."*
 
-**POV**: Cora and Howen (battle)
+**POV**: Cora (raid)
 
-The Imperial assault begins. Krell leads the attack, demanding Cora and Howen be surrendered. Thornweave refuses. The battle is brief, brutal, and one-sided. The tribals fight bravely but are overwhelmed.
+Before the grove, a mission: raiding an Imperial supply convoy. Using guerrilla tactics, the Deserters hit hard and vanish. It's Cora's first combat alongside her new comrades—and it feels *right*. Every crate destroyed is a blow against those who burned her family.
 
 **Key Moments**:
-- Dawn attack
-- Krell's ultimatum, Thornweave's refusal
-- The battle begins
-- Cora fighting alongside tribals
-- The village begins to burn
-- Chitin charges from the forest, buying time
+- Planning the raid
+- Combat alongside Deserters
+- The satisfaction of striking back
+- Finding prisoner manifest (people scheduled for "rehabilitation")
+- Freeing prisoners before vanishing
 
-**Chapter Hook**: Thornweave orders Cora and survivors to flee. "Go. We'll hold them. Go!"
+**Chapter Hook**: Dawn approaches. The grove awaits.
 
 ---
 
-### Chapter 5: What We Lost
-*"I should have refused sanctuary. I should have kept running. More people dead because of me."*
+### Chapter 5: The Anima Grove
+*"Trees that glow with inner light. Roots that pulse with psychic energy. The Empire burns these wherever they find them. Now I understand why."*
 
-**POV**: Cora (grief)
+**POV**: Howen and Cora (revelation)
 
-Flight through the burning forest. A small group of survivors—Cora, Howen, Chitin, Rustwing, and a handful of others. Behind them, Thornwood dies. Cora's guilt is overwhelming; Howen helps her channel it into purpose.
+The anima grove: ancient trees connected directly to the planet's psychic field. Tribals have known about them for generations; the Empire suppresses knowledge of them because they represent power outside Imperial control. Neurotrainers don't "unlock" psychic potential—they *limit* it, creating dependent users. Natural attunement is infinitely more powerful.
 
 **Key Moments**:
-- Escape through flames
-- Counting survivors (few)
-- Grief processing in flight
-- Rustwing's grim determination
-- Discussion of where to go next
-- Mention of Deserter camps in the badlands
+- Journey to the hidden grove
+- First sight of anima trees (awe-inspiring)
+- Explanation of natural vs. artificial psychic power
+- Understanding Imperial suppression
+- The offer: "Attune yourself to the grove. Become what you were meant to be."
 
-**Chapter Hook**: Rustwing knows the way: "There are others who fight. Follow me."
+**Chapter Hook**: Cora places her hand on the tree. The universe opens.
 
 ---
 
-### Chapter 6: Last Stand of the Thorns
-*"Elder Thornweave died on her feet, defending people she'd just met, against an enemy she never asked for. There's honor in that."*
+### Chapter 6: True Power
+*"The neurotrainer gave me tricks. The anima tree gave me a conversation with the universe itself. There's no comparison."*
 
-**POV**: Flashback interspersed with present
+**POV**: Cora (psychic awakening)
 
-A dual-timeline chapter showing Thornweave's final stand while the survivors process their loss. She died giving them time to escape. Her sacrifice was meaningful, even if it hurts.
+Natural attunement is overwhelming and beautiful. Cora's artificially limited psychic connection shatters, replaced by something deeper and stronger. Abilities she could barely access before become effortless. New powers emerge that the Empire never knew existed.
 
 **Key Moments**:
-- Flashback: Thornweave's last battle
-- Present: Survivors mourning
-- The elder's final words (witnessed by a hidden tribal)
-- Krell's frustration at the escape
-- Cora's vow: this death will mean something
+- The attunement process
+- Breaking artificial limitations
+- New abilities flooding in
+- The difference between controlled and natural power
+- Understanding why the Empire fears this
 
-**Chapter Hook**: They reach the edge of the forest. Ahead: the badlands and the Deserters.
+**Chapter Hook**: "Now let's see what happens when you try it."
 
 ---
 
-### Chapter 7: Among the Deserters
-*"Former Imperial soldiers living in caves, fighting their old comrades. Strange new family."*
+### Chapter 7: Howen Ascendant
+*"I was created to be a tool. The anima tree saw something else. For the first time since awakening, I felt... complete."*
 
-**POV**: Cora (joining)
+**POV**: Howen (transformation)
 
-The survivors reach Camp Resolve, the main Deserter base. Captain Saren Vex is initially hostile—former Imperial soldiers could be spies. But when she learns what they know about the Empire, she reconsiders.
+Howen's connection to the anima tree is even more profound. As a consciousness born from stolen humanity and trapped in archotech, she represents a bridge between human and artificial—and the tree recognizes this. Her powers expand exponentially: she can now communicate with any plant, sense through root networks across miles, and grow things that shouldn't exist.
 
 **Key Moments**:
-- Arrival at Camp Resolve
-- Tense meeting with Vex
-- Proving themselves (combat test, information sharing)
-- Accepted provisionally
-- Introduction to Deserter operations
-- Chitin causes concern but Howen vouches
+- Howen touching the tree (through Cora as intermediary)
+- The tree's response (unprecedented)
+- Powers expanding beyond anything seen
+- Understanding her unique nature
+- Becoming something the Empire could never create
 
-**Chapter Hook**: Vex has a proposition: "We've been contacted by someone in the Empire's own nobility. Someone who wants to help."
+**Chapter Hook**: "The Empire has hunters coming. They've found us. Let them come."
 
 ---
 
-### Chapter 8: Learning to Fight Back
-*"Imperial training turned against the Empire. There's poetry in that."*
+### Chapter 8: The Noble's Message
+*"Charles Wheatstone. A lord of the Empire who wants to destroy it. Either the bravest or stupidest noble alive."*
 
-**POV**: Cora and Howen (training/planning)
+**POV**: Cora and Howen (alliance)
 
-Cora shares her Imperial training with the Deserters while learning guerrilla tactics in return. Howen develops new abilities—her plant manipulation has grown more precise, more dangerous. Together, they plan operations.
+Lord Charles Wheatstone arrives at Camp Resolve—a high-ranking Imperial noble who secretly works against the regime. He's part of the Opposition, an underground network within the Empire itself. He offers something precious: escape from the rimworld, passage to a glitterworld where they can expose Imperial crimes and gather allies.
 
 **Key Moments**:
-- Training montage (giving and receiving)
-- Howen's ability development
-- Planning raids on supply lines
-- Rustwing becoming Cora's right hand
-- Chitin serving as scout (terrifying but effective)
-- Intelligence on Krell: he's still hunting them
+- Wheatstone's arrival (disguised)
+- His explanation (Opposition movement)
+- The offer: leave the rim, gather strength, return
+- Skepticism and debate
+- Decision to attempt escape—but first, one more thing
 
-**Chapter Hook**: A message arrives through secret channels: Charles Wheatstone wants to meet.
+**Chapter Hook**: A figure approaches camp. Massive, insectoid, familiar. Chitin has found them.
 
 ---
 
-### Chapter 9: The Noble's Message
-*"A lord of the Empire wants to help us escape the rimworld. Either he's genuine or this is the most elaborate trap ever."*
+### Chapter 9: Chitin's Return
+*"Bigger. Stronger. Still loyal. Chitin crossed half the continent to find us. Now we fight together, one last time."*
 
-**POV**: Howen (analysis)
+**POV**: Howen (reunion)
 
-Wheatstone arrives at the camp in disguise—a considerable risk for a man of his station. He explains his motives, his resources, and his plan: get Howen's story to the wider galaxy, expose the Empire's crimes, maybe change something.
+The megascarab has grown to full adult size—terrifying and magnificent. It tracked Howen's psychic signature across impossible distances. The reunion is joyful; the implications are strategic. With Chitin's strength, Howen's new powers, and Cora's enhanced abilities, they're a force the Empire hasn't faced before.
 
 **Key Moments**:
-- Wheatstone's arrival
-- His explanation (Opposition movement, long game)
-- His interest in Howen (proof of rip-scan abuses)
-- The plan: a ship can extract them from a mountain landing site
-- The complication: Krell is close
-- Decision to proceed despite risks
+- Chitin's dramatic arrival
+- Reunion (emotional, alien)
+- Assessing new capabilities
+- Chitin choosing to join the escape attempt
+- Deserters' awe at the bond
 
-**Chapter Hook**: Three days to reach the landing site. Krell has been tracking Wheatstone.
+**Chapter Hook**: Krell's forces are closing in. The escape window is narrowing.
 
 ---
 
-### Chapter 10: The Path Upward
-*"Three days through contested territory, hunted by the Empire's best, to reach a ship that might not be there. Easy."*
+### Chapter 10: The Final Hunt
+*"Krell has been chasing us since the Barleybloom massacre. He's good. He's relentless. He's about to learn he's not good enough."*
 
-**POV**: Cora (journey)
+**POV**: Cora and Howen (cat and mouse)
 
-The escape group sets out: Cora, Howen, Wheatstone, Rustwing, Chitin, and a small guard. They travel light and fast, using every trick to stay ahead of pursuit. But Krell is anticipating their route.
+The journey to the extraction point becomes a running battle. Krell has brought elite Janissaries, determined to recapture or kill them. But this time, the hunters have become prey. Howen senses their approach through root networks; Cora strikes with enhanced psycasts; Chitin turns flanking maneuvers into disasters.
 
 **Key Moments**:
-- Journey begins
-- Navigating hostile terrain
-- Close calls with Imperial patrols
-- Chitin's scouting proves invaluable
-- Howen sensing pursuit getting closer
-- Day 2: they realize Krell is ahead of them
+- Setting out for the extraction point
+- Krell's pursuit begins
+- Turning ambushes against the ambushers
+- Howen's plant-based detection network
+- Cora's powers surprising Imperial forces
 
-**Chapter Hook**: The path forward is blocked. Krell is waiting.
+**Chapter Hook**: Three days to the extraction. Krell won't stop. Neither will they.
 
 ---
 
-### Chapter 11: Final Confrontation
-*"He's been hunting me across the rimworld. It ends today. One of us doesn't walk away."*
+### Chapter 11: Krell
+*"He found us at the pass. One path forward, no path back. This ends now."*
 
-**POV**: Cora and Howen (battle)
+**POV**: Cora and Howen (climactic battle)
 
-The climactic confrontation. Krell has set an ambush at a mountain pass—the only route to the landing site. There's no way around. Cora must fight through, wielding Howen, while others provide support.
+The final confrontation. Krell has cornered them at a mountain pass, the only route to the extraction point. He steps forward alone—a Janissary tradition, champion against champion. Cora accepts, wielding Howen with full power. The duel is everything both have been building toward.
 
 **Key Moments**:
-- The ambush revealed
-- Initial skirmish (heavy losses on both sides)
-- Cora and Krell face each other
-- The duel: everything they've learned applied
-- Howen's full power unleashed (Bloom of Destruction)
-- Krell's defeat (not death—he withdraws, wounded)
-- Chitin's sacrifice (badly wounded protecting Cora)
+- Krell's challenge
+- Champion's duel
+- Cora and Howen fighting as one
+- Howen's bloom of destruction (explosive plant growth)
+- Krell's defeat (wounded, not killed)
+- The path is clear
 
-**Chapter Hook**: The path is clear. But Chitin is dying, and the ship won't wait.
+**Chapter Hook**: The shuttle descends. A new dawn approaches.
 
 ---
 
 ### Chapter 12: Second Dawn
-*"Home isn't a place. It's the people we choose. And right now, home is rising on the horizon in a shuttle named Second Dawn."*
+*"We leave wounded but alive. The Empire still stands. But now they know: we can hurt them. We will hurt them. And someday, we'll come back to finish this."*
 
 **POV**: Howen and Cora (conclusion)
 
-The survivors reach the landing site. The shuttle descends. Chitin, gravely wounded, refuses to leave—this world is its home. Cora must say goodbye to her strange friend. As the shuttle rises, they look down at Persephone-7: a prison, a crucible, a home they'll never forget.
+The escape succeeds. Chitin stays behind—this world is its home, and the Deserters will need its strength. As the shuttle rises, Cora and Howen look down at Persephone-7: a prison, a crucible, a home they'll never forget. They're not running away—they're going to gather strength, expose the truth, and return.
 
 **Key Moments**:
-- Reaching the landing site
-- The shuttle's arrival
-- Chitin's farewell (staying behind to recover or die)
-- Rustwing's choice (staying to continue the fight)
+- Reaching the extraction point
+- Farewell to Chitin (staying to fight)
+- Farewell to Vex and the Deserters (the war continues)
 - Boarding the shuttle
 - Last look at the rimworld
-- Setting course for the glitterworld and an uncertain future
-- Final conversation: hope, purpose, continuation
+- Setting course for the glitterworld and justice
 
-**Final Lines**: 
+**Final Lines**:
 > *"What happens now?" Cora asks as stars fill the viewport.*
 > 
-> *"We tell our story," Howen replies. "We find allies. We come back stronger."*
+> *"We tell the truth," Howen replies. "About the rip-scanning. About the anima trees. About everything the Empire hides."*
 > 
-> *"And Dr. Vance?"*
+> *"Will anyone believe us?"*
 > 
-> *A pause. "I have questions. She has answers. Someday, we'll have that conversation."*
+> *"They'll believe what I am. I'm the proof."*
 > 
-> *The ship jumps to FTL. The rim falls away. A new chapter begins.*
+> *The ship jumps to FTL. The rim falls away. But someday—someday soon—they'll return.*
 
 ---
 
@@ -271,35 +261,51 @@ The survivors reach the landing site. The shuttle descends. Chitin, gravely woun
 ### Cora's Journey
 | Beginning | Middle | End |
 |-----------|--------|-----|
-| Fugitive | Fighter | Leader |
-| Haunted by past | Confronting present | Facing future |
-| Seeking survival | Finding purpose | Carrying hope |
+| Grieving fugitive | Awakening warrior | Revolutionary |
+| Limited psycast | Naturally attuned | Powerful beyond measure |
+| Fighting to survive | Fighting to avenge | Fighting for everyone |
 
 ### Howen's Journey
 | Beginning | Middle | End |
 |-----------|--------|-----|
-| Hunted | Powerful | Purposeful |
-| Questions about past | Accepting present | Planning future |
-| Isolated consciousness | Part of found family | Ambassador of truth |
+| Traumatized creation | Transcendent being | Living proof |
+| Stolen soul | Connected to life itself | Beacon of hope |
+| Tool | Partner | Legend |
 
 ---
 
-## Key Battles
+## Power Comparison
 
-### Thornwood Defense (Chapter 4)
-- **Combatants**: Imperial Forces vs. Thornwood Tribals + Cora/Howen
-- **Stakes**: Village survival
-- **Resolution**: Imperial victory, village destroyed, survivors escape
+### Cora's Abilities: Before and After Attunement
 
-### Deserter Raids (Chapter 8, referenced)
-- **Combatants**: Deserters vs. Imperial supply lines
-- **Stakes**: Resources, morale
-- **Resolution**: Multiple small victories
+| Before (Neurotrainer) | After (Anima Tree) |
+|-----------------------|-------------------|
+| Word of Trust (weak) | Word of Command (overwhelming) |
+| Skip (short range) | Farskip (mile range) |
+| Burden (temporary) | Paralysis (complete) |
+| Focus (enhanced) | Prescience (future glimpses) |
 
-### Mountain Pass (Chapter 11)
-- **Combatants**: Krell + Janissaries vs. Escape Party
-- **Stakes**: Escape, survival
-- **Resolution**: Escape party breaks through, Krell defeated but alive
+### Howen's New Abilities
+
+| Ability | Effect |
+|---------|--------|
+| **Root Network** | Sense through all connected plant life for miles |
+| **Bloom of Destruction** | Explosive, targeted plant growth |
+| **Life Bridge** | Communicate with any organic being |
+| **Verdant Shield** | Rapid growth creating defensive barriers |
+| **Harvest of Wrath** | Turn all nearby plants into weapons |
+
+---
+
+## Key Quotes
+
+> *"The Empire limits power because unlimited power can't be controlled. We're about to show them what uncontrolled looks like."* — Captain Vex
+
+> *"I was made to be a tool. The anima tree told me I was wrong. I was made to be a gardener. And sometimes gardens need weeding."* — Howen
+
+> *"We'll come back. Not as refugees. As an army."* — Cora
+
+> *"Run, little weapon. Run to your glitterworld masters. Tell them what's coming. I want them afraid."* — Howen to Krell
 
 ---
 
@@ -307,39 +313,25 @@ The survivors reach the landing site. The shuttle descends. Chitin, gravely woun
 
 | Character | Fate |
 |-----------|------|
-| Cora | Escapes to glitterworld |
-| Howen | Escapes to glitterworld |
-| Chitin | Stays on rim (wounded but alive) |
-| Rustwing | Stays to fight |
-| Elder Thornweave | Dead (Chapter 6) |
-| Captain Vex | Continues resistance |
-| Charles Wheatstone | Escapes to continue Opposition work |
-| High Janissary Krell | Alive, defeated, obsessed |
-| Lord-Executor Malachai | Off-page, still in power |
-| Dr. Vance | Unknown, unresolved |
-
----
-
-## Key Quotes
-
-> *"The rim broke me, remade me, tested me. I'm leaving now, but part of me stays. Part of me always will."* — Cora
-
-> *"I've been a researcher, a victim, a weapon, a gardener, a friend. Maybe on the glitterworld, I can figure out what I want to be."* — Howen
-
-> *"You can kill individuals. You can burn villages. You can't kill hope. It grows back, like weeds."* — Elder Thornweave (last words)
-
-> *"This isn't over. I'll find you again. And next time, I won't underestimate you."* — Krell
+| Cora | Escapes, transformed into true psyker |
+| Howen | Escapes, transcended into something new |
+| Chitin | Stays to fight alongside Deserters |
+| Captain Vex | Continues the war |
+| Charles Wheatstone | Facilitates escape, continues Opposition work |
+| High Janissary Krell | Defeated but alive, obsessed |
+| Dr. Vance | At large, continuing research |
+| The Empire | Wounded, still standing, now afraid |
 
 ---
 
 ## Unresolved Threads (Sequel Hooks)
 
-1. **Dr. Vance**: Her full motives remain unknown
-2. **Howen's full past**: Gaps in memory persist
-3. **Krell's hunt**: He survived and is obsessed
-4. **The war continues**: The Deserters fight on
-5. **Chitin's fate**: Wounded but alive, possibly recoverable
-6. **The glitterworld mission**: Exposing the Empire
+1. **The return**: They promised to come back with reinforcements
+2. **Dr. Vance**: Still active, still creating weapons
+3. **Krell's obsession**: He will hunt them across the stars
+4. **The Deserters' war**: Continues on Persephone-7
+5. **The anima trees**: A secret worth spreading
+6. **Howen's nature**: What else can she become?
 
 ---
 
@@ -348,37 +340,26 @@ The survivors reach the landing site. The shuttle descends. Chitin, gravely woun
 | Element | Count |
 |---------|-------|
 | Chapters | 12 |
-| Major Characters | 8+ (Howen, Cora, Chitin, Rustwing, Thornweave, Vex, Wheatstone, Krell) |
-| Locations | 4 (Thornwood, Deserter Camp, Mountain Path, Landing Site) |
-| Named Deaths | 1 (Elder Thornweave) |
-| Major Battles | 3 |
-| Resolutions | 4 |
-| Open Threads | 6 |
+| Major Characters | 8 (Howen, Cora, Chitin, Vex, Wheatstone, Krell, plus others) |
+| Locations | 4 (Deserter Camps, Anima Grove, Pursuit route, Extraction point) |
+| Named Deaths | 0 (main characters survive) |
+| Major Battles | 3 (Supply raid, Running battles, Final duel) |
+| Power-ups | Multiple (both Cora and Howen transform) |
 
 ---
 
-## Series Statistics (Complete)
+## Series Conclusion
 
-| Element | Total |
-|---------|-------|
-| Arcs | 5 |
-| Chapters | 60 |
-| Major Characters | 12 |
-| Key Locations | 10+ |
-| Named Deaths | 3 (Overseer, Thornweave, various) |
-| Major Battles | 11 |
-| Time Span | ~18 months |
+**The Time I Reincarnated as a Hoe** ends not with victory, but with promise. The Empire still stands. The war continues. But our protagonists have become something the Empire cannot control, cannot suppress, cannot stop.
 
----
+They carry the truth:
+- Rip-scanning is murder, not copying
+- Psychic power flows freely from nature
+- Resistance is possible
+- Hope survives
 
-[← Arc 4: Empire's Shadow](./arc4-empire.md) | [Back to Story Arcs](./index.md)
+And they carry a promise: *They will return.*
 
 ---
 
-## Author's Note
-
-*The Time I Reincarnated as a Hoe* ends with escape but not resolution. The rimworld shaped Cora and Howen, tested them, broke them, and remade them. They leave as different people than when they arrived—stronger, sadder, more purposeful.
-
-The Empire still stands. Vance still holds her secrets. Krell still hunts. But sometimes survival is victory enough. And sometimes, the best revenge is living well—and telling your story to everyone who will listen.
-
-Thank you for reading.
+[← Arc 4: The Fall](./arc4-fall.md) | [Back to Story Arcs](./index.md)

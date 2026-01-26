@@ -2,7 +2,7 @@
 
 > *"In this world, the sharpest blade isn't always steel. Sometimes it's purpose."*
 
-A Rimworld-based story following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and redemption on a deadly rimworld.
+A Rimworld-based story following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and vengeance on a deadly rimworld.
 
 ---
 
@@ -18,7 +18,7 @@ Explore the complete wiki for detailed character profiles, world-building, and t
 
 ### Main Characters
 
-**Howen (The Hoe)** — Once Dr. Howen Ashford, an archotech researcher, now a consciousness trapped within a persona farming tool. She awakens in an ancient danger vault with fragmented memories and develops strange psychic abilities related to plant growth.
+**Howen (The Hoe)** — Once Dr. Howen Ashford, an archotech researcher, now a consciousness trapped within a persona farming tool. She awakens in an ancient danger vault with fragmented memories and develops strange psychic abilities related to plant growth. After connecting with the anima trees, she becomes something far more powerful than the Empire ever imagined.
 
 | Trait | Effect |
 |-------|--------|
@@ -27,17 +27,17 @@ Explore the complete wiki for detailed character profiles, world-building, and t
 | Kill-Focused (Hidden) | Disturbing satisfaction from ending threats |
 | Psychic Hypersensitizer (Hidden) | Extreme sensitivity to psychic phenomena |
 
-**Cora Barleybloom** — A young farmer whose village was destroyed by the Shattered Empire. She discovers Howen when investigating a strange hole in a hillside and becomes her wielder, partner, and found family.
+**Cora Barleybloom** — A young farmer separated from her ancestral tribe as a baby. She discovers Howen when investigating a strange hole in a hillside and becomes her wielder, partner, and found family. When she finally finds her people—the Barleybloom Tribe—the Empire burns them. Now she fights for revenge.
 
 ### The Story
 
 The narrative spans **5 arcs** with **12 chapters each** (60 chapters total):
 
-1. **[Awakening](./wiki/story-arcs/arc1-awakening.md)** — Howen regains consciousness in darkness
-2. **[Guardian of the Vault](./wiki/story-arcs/arc2-guardian.md)** — Learning powers, befriending Chitin the megascarab, escaping mechanoids
-3. **[Adventure on the Rim](./wiki/story-arcs/arc3-adventure.md)** — Trading, raiding, joining the Empire
-4. **[Empire's Shadow](./wiki/story-arcs/arc4-empire.md)** — Discovering dark truths, fleeing the Janissaries
-5. **[The Deserter's Path](./wiki/story-arcs/arc5-deserter.md)** — Resistance, sacrifice, and escape from the rimworld
+1. **[Life in the Vault](./wiki/story-arcs/arc1-vault.md)** — Awakening, gardening, befriending Chitin the megascarab, escaping with Cora
+2. **[The Wider Rim](./wiki/story-arcs/arc2-rim.md)** — Survival, trading, learning the world's dangers
+3. **[Embrace of the Empire](./wiki/story-arcs/arc3-empire.md)** — Joining the Empire, comfort and power, the seduction of civilization
+4. **[The Fall](./wiki/story-arcs/arc4-fall.md)** — Discovering the rip-scanning horror, fleeing to the Barleybloom Tribe, watching it burn
+5. **[The Deserter's Path](./wiki/story-arcs/arc5-deserter.md)** — Joining the resistance, true power from the anima trees, escape and vengeance
 
 ---
 
@@ -56,10 +56,10 @@ The narrative spans **5 arcs** with **12 chapters each** (60 chapters total):
 - [Technology & Psychic Powers](./wiki/world/technology.md)
 
 ### [Story Arcs](./wiki/story-arcs/index.md)
-- [Arc 1: Awakening](./wiki/story-arcs/arc1-awakening.md)
-- [Arc 2: Guardian of the Vault](./wiki/story-arcs/arc2-guardian.md)
-- [Arc 3: Adventure on the Rim](./wiki/story-arcs/arc3-adventure.md)
-- [Arc 4: Empire's Shadow](./wiki/story-arcs/arc4-empire.md)
+- [Arc 1: Life in the Vault](./wiki/story-arcs/arc1-vault.md)
+- [Arc 2: The Wider Rim](./wiki/story-arcs/arc2-rim.md)
+- [Arc 3: Embrace of the Empire](./wiki/story-arcs/arc3-empire.md)
+- [Arc 4: The Fall](./wiki/story-arcs/arc4-fall.md)
 - [Arc 5: The Deserter's Path](./wiki/story-arcs/arc5-deserter.md)
 
 ---
@@ -67,10 +67,11 @@ The narrative spans **5 arcs** with **12 chapters each** (60 chapters total):
 ## Key Themes
 
 - **Identity & Humanity**: What makes someone human? Can a farming tool have a soul?
-- **Found Family**: The bonds we choose matter more than the ones we're born with
-- **Power & Corruption**: The Empire's gleaming facade hides brutal oppression
-- **Growth & Adaptation**: From a helpless tool to a force for change
+- **Seduction of Power**: Why intelligent people join oppressive systems
+- **True vs. Artificial Power**: Anima trees vs. Imperial neurotrainers
+- **Found & Lost Family**: The bonds we choose, and those taken from us
+- **Vengeance**: What happens when grief becomes rage
 
 ---
 
-*"The rim breaks most who land upon it. But some... some it remakes into something stronger."*
+*"The Empire gave us power. The anima tree showed us what power really means. Now we're going to show them."*

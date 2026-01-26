@@ -1,15 +1,15 @@
 # Cora Barleybloom
 
-> *"My family grew barley. The Empire grew corpses. I learned which harvest matters more."*
+> *"I found my family twice. The Empire burned them both times. Now I'm going to burn them back."*
 
 ## Basic Information
 
 | Attribute | Value |
 |-----------|-------|
 | **Full Name** | Cora Barleybloom |
-| **Occupation** | Farmer (former), Warrior (current) |
-| **Age** | 19 (at Arc 2) |
-| **Origin** | Barleyhollow Village (destroyed) |
+| **Occupation** | Farmer → Imperial Auxiliary → Deserter → Revolutionary |
+| **Age** | 19 (at start) |
+| **Origin** | Barleybloom Tribe (ancestral), Rim Settlement (raised) |
 | **Status** | Active |
 
 ---
@@ -24,18 +24,18 @@ Cora is a young woman hardened by rimworld life:
 - **Eyes**: Bright green, often described as "too old for her face"
 - **Distinguishing Features**: 
   - Calloused hands from years of manual labor
-  - A scar along her left forearm (mechanoid plasma graze, Arc 2)
+  - A scar along her left forearm (mechanoid plasma graze, Arc 1)
   - Sun-weathered skin with freckles across her nose
 
 ### Attire Evolution
 
-**Arc 2**: Simple farmer's clothing—homespun shirt, sturdy trousers, leather boots worn thin
+**Arc 1**: Simple farmer's clothing—homespun shirt, sturdy trousers, leather boots worn thin
 
-**Arc 3**: Practical trader's gear—a mix of salvaged and purchased items, always with pockets for seeds
+**Arc 2**: Practical trader's gear—a mix of salvaged and purchased items, always with pockets for seeds
 
-**Arc 4**: Imperial auxiliary uniform (ill-fitting, she hates it)
+**Arc 3**: Imperial auxiliary uniform (fits well, she was proud of it)
 
-**Arc 5**: Deserter's practical combat attire—leather and plasteel hybrid armor, Howen always at her hip
+**Arc 4-5**: Deserter's practical combat attire—leather and plasteel hybrid armor, Howen always at her hip
 
 ---
 
@@ -52,17 +52,42 @@ Never stops until the job is done. Can push through exhaustion that would fell o
 **Nimble**  
 Quick reflexes and light on her feet—essential for dodging mechanoid fire.
 
-### Learned Skills (By Arc)
+### Developed Skills (By Arc)
 
 | Arc | Skill | Description |
 |-----|-------|-------------|
-| 2 | **Mechanoid Evasion** | Learned to predict and avoid mechanoid attack patterns |
-| 3 | **Bartering** | Picked up trading skills from merchant caravans |
-| 3 | **Basic Combat** | Fundamental weapon handling (Howen as primary weapon) |
-| 4 | **Imperial Tactics** | Military training from Empire service |
-| 4 | **Reconnaissance** | Scouting and information gathering |
+| 1 | **Mechanoid Evasion** | Learned to predict and avoid mechanoid attack patterns |
+| 2 | **Bartering** | Picked up trading skills from merchant caravans |
+| 2 | **Basic Combat** | Fundamental weapon handling (Howen as primary weapon) |
+| 3 | **Imperial Tactics** | Military training from Empire service |
+| 3 | **Neurotrainer Psycasts** | Word of Trust, Skip, Burden, Focus |
+| 4 | **Survival** | Living off the land, evading pursuit |
 | 5 | **Guerrilla Warfare** | Hit-and-run tactics learned from the Deserters |
-| 5 | **Leadership** | Inspiring others through example |
+| 5 | **True Psycast** | Anima-attuned powers (vastly superior) |
+
+---
+
+## Psychic Abilities
+
+### Phase 1: Neurotrainer (Arc 3)
+Imperial technology that "unlocks" psychic potential—actually *limits* it to controllable levels.
+
+| Power | Effect | Limitation |
+|-------|--------|------------|
+| Word of Trust | Makes targets amenable | Weak, requires concentration |
+| Skip | Short-range teleport | 10-meter range max |
+| Burden | Slows targets | Temporary, single target |
+| Focus | Enhanced concentration | Draining to maintain |
+
+### Phase 2: Anima-Attuned (Arc 5)
+Natural connection to the psychic field through the anima tree.
+
+| Power | Effect | Note |
+|-------|--------|------|
+| Word of Command | Overwhelming mental influence | Cannot be resisted |
+| Farskip | Mile-range teleportation | Requires sight or knowledge |
+| Paralysis | Complete immobilization | Multiple targets possible |
+| Prescience | Glimpses of immediate future | Unreliable but growing |
 
 ---
 
@@ -70,135 +95,122 @@ Quick reflexes and light on her feet—essential for dodging mechanoid fire.
 
 ### Core Traits
 
-- **Curious**: Her curiosity led her to discover Howen; it continues to drive her forward
+- **Curious**: Her curiosity led her to discover Howen; it drives her to understand everything
 - **Stubborn**: Once committed, she doesn't back down
 - **Compassionate**: Cares deeply about others, sometimes to her detriment
-- **Traumatized**: Carries deep wounds from her family's death, manifesting as nightmares and occasional episodes
-- **Growing**: Evolves from frightened farmgirl to capable warrior
+- **Adapts**: Changes with circumstances without losing herself
+- **Burns Hot**: Her anger, once roused, is formidable
 
 ### Internal Conflicts
 
-1. **Survivor's Guilt**: Why did she survive when her family didn't?
-2. **Revenge vs. Justice**: Does she want to destroy the Empire or fix it?
-3. **Trust Issues**: Opening up to others means risking loss again
-4. **Violence**: Struggling with the person she's becoming—a killer instead of a grower
+1. **Survivor's Guilt**: Why does she survive when others die?
+2. **The Cost of Power**: Is revenge worth what she's becoming?
+3. **Trust vs. Pragmatism**: Can she open up to people again?
+4. **Empire Indoctrination**: Unlearning things she was taught to believe
 
 ### Growth Arc
 
-**Beginning**: Cora is reactive, driven by fear and circumstance. She picks up Howen by accident and runs because she has no choice.
+**Beginning**: Cora is reactive, driven by circumstance. She picks up Howen by accident and runs because she has no choice.
 
-**Middle**: She begins making choices. Joining the Empire, leaving the Empire, standing with the tribals—these are HER decisions.
+**Middle (Empire)**: She builds confidence, competence, and purpose—but within a corrupt system that flatters her growth.
 
-**End**: Cora becomes proactive, leading others into danger with clear purpose. She accepts her losses and fights for a future rather than against a past.
+**End**: She becomes proactive, choosing her battles, fighting for principles rather than survival, transformed into something dangerous to oppressors.
 
 ---
 
 ## Backstory
 
-### Barleyhollow
-Cora grew up in a small farming village called Barleyhollow, named for the golden fields that surrounded it. The village was independent, paying tribute to no faction, surviving through isolation and luck.
+### The Barleybloom Tribe
+Cora's ancestral people: farmers, traditionalists, and stubborn independents who refused to submit to Imperial tribute. They live in hidden valleys, maintaining old ways.
 
-### The Barleybloom Family
-- **Father (Holden)**: Village elder and master farmer. Taught Cora everything about growing things.
-- **Mother (Senna)**: Healer and herbalist. Died of plague when Cora was 12.
-- **Brother (Tomas)**: Older by three years. Cora adored him.
-- **Grandmother (Nana Bloom)**: Keeper of old stories. Told Cora about the world before the collapse.
+### Separation
+Cora was separated from the tribe as a baby during an Imperial raid. She was found and raised by a rim settlement, never knowing her heritage until Arc 4.
 
-### The Burning
-When Cora was 16, the **Shattered Empire** decided Barleyhollow's independence was an affront. A unit of Imperial troops arrived with a demand: tribute in goods, labor, and conscripts.
+### The Reunion (Arc 4)
+After fleeing the Empire, Cora finds the Barleybloom Tribe—her family. Elder Barleybloom, her great-uncle, welcomes her home. For a week, she has everything she never knew she wanted.
 
-Her father refused.
-
-The village was burned. The adults were executed. The children were taken as slaves. Cora escaped only because Tomas hid her in the root cellar and told her to stay quiet no matter what she heard.
-
-She stayed quiet. She heard everything.
-
-### Survival
-For three years, Cora wandered. She worked fields for food, avoided patrols, trusted no one. She eventually found work at a small farmstead near an ancient danger site—work that put her in the path of a freshly-opened vault.
+### The Burning (Arc 4)
+The Empire tracks her to the tribe and burns them for harboring a fugitive. Everything Cora gains, she loses again. This time, she decides to make someone pay.
 
 ---
 
 ## Relationships
 
 ### With Howen
-**Bond Type**: Partner, Found Family  
-**Status**: Unbreakable Trust
+**Bond Type**: Partner, Found Family, Soul-Bond  
+**Status**: Unbreakable
 
-At first, Cora thought Howen was just a strange tool that made her hungry. Learning the truth—that there was a person inside—changed everything. Howen is the first being she's trusted since Barleyhollow. Their bond transcends the wielder/weapon relationship.
+What began as accidental discovery became the deepest relationship either has known. Through anima attunement, their bond becomes even more profound—Howen can feel through Cora, and Cora can think with Howen's precision.
 
-> *"She's not a tool. She's my friend. My family. The only thing in this whole rim-forsaken world that hasn't let me down."*
+> *"She's not a tool. She's not a weapon. She's my other half. The part that thinks when I feel too much."*
 
-### With Her Past
-**Bond Type**: Trauma  
-**Status**: Healing
+### With the Barleybloom Tribe (Memory)
+**Bond Type**: Lost Family  
+**Status**: Grief, Motivation
 
-Cora carries Barleyhollow with her always. The fire, the screams, Tomas's final act of love. Throughout the story, she slowly processes this grief, moving from victim to survivor to someone fighting for others who face the same fate.
+The tribe represents everything she could have had. Their loss fuels her fury.
 
-### With Chitin
-**Bond Type**: Wary Acceptance  
-**Status**: Grudging Fondness
+### With Captain Vex
+**Bond Type**: Mentor/Student  
+**Status**: Respect, Growing Trust
 
-The megascarab is Howen's friend, which makes it Cora's... acquaintance. She's never fully comfortable around the giant insect, but she appreciates its loyalty and comes to respect it.
+Vex sees her younger self in Cora and pushes her hard to become the weapon she can be.
 
 ### With the Empire
 **Bond Type**: Complex Hatred  
 **Status**: War
 
-Cora's relationship with the Empire is pure rage tempered by tactical patience. She wants it destroyed but learns that blind hatred serves no one. Her arc involves channeling that rage into effective action.
-
-### With Charles Wheatstone
-**Bond Type**: Respectful Alliance  
-**Status**: Growing Trust
-
-The noble who helps them escape the rimworld. Cora initially distrusts him—he's everything she should hate. But she learns that allies come in unexpected forms.
+She was seduced by their promises, believed their lies, benefited from their training. That makes the betrayal worse.
 
 ---
 
 ## Combat Style
 
 ### Weapon: Howen
-Cora wields Howen not as a traditional weapon but as an extension of herself. Their psychic bond allows for:
+Cora wields Howen as an extension of herself. Their psychic bond allows for:
 - Enhanced reflexes through Howen's warnings
 - Precise strikes guided by Howen's experience
 - Environmental manipulation (rapid plant growth to entangle enemies)
+- Combined psycast amplification
 
 ### Tactics
 
-**Early Arcs**: Evasion and survival. Hit only when necessary, run when possible.
+**Early (Arc 1-2)**: Evasion and survival. Hit only when necessary, run when possible.
 
-**Middle Arcs**: Disciplined Imperial training. Formation fighting, ranged combat.
+**Middle (Arc 3)**: Disciplined Imperial training. Formation fighting, tactical precision.
 
-**Late Arcs**: Guerrilla specialist. Uses terrain, plants, and surprise to overcome superior numbers.
+**Late (Arc 4-5)**: Guerrilla specialist. Uses terrain, plants, psycasts, and surprise to overcome superior numbers.
 
 ### Notable Battles
 
-1. **Vault Escape (Arc 2)**: First combat experience; mostly running and desperate strikes
-2. **Centipede Trap (Arc 2)**: Tactical victory using environment
-3. **Imperial Training Grounds (Arc 4)**: Formal combat education
-4. **Thornwood Defense (Arc 5)**: Leading villagers against Imperial forces
-5. **Final Escape (Arc 5)**: Fighting through Janissaries to reach the ship
+1. **Vault Escape (Arc 1)**: First combat experience; desperate, improvised, successful
+2. **Centipede Trap (Arc 1)**: Tactical victory using environment
+3. **Raider Ambush (Arc 2)**: First human kills, psychological impact
+4. **Warlord Battle (Arc 2)**: First major victory, combined arms with Chitin
+5. **Barleybloom Defense (Arc 4)**: Hopeless stand, tragic retreat
+6. **Krell Duel (Arc 5)**: Champion combat, full power unleashed
 
 ---
 
 ## Notable Quotes
 
-> *"I didn't pick up a magic farming tool and become a hero. I picked up Howen and learned that even the smallest person—or smallest consciousness—can change the world. One seed at a time."*
+> *"The Empire didn't just kill my family. They made me complicit first. They made me believe."*
 
-> *"The Empire took everything. My home. My family. My childhood. They don't get to take my future."*
+> *"I used to dream about Barleyhollow every night. Then I stopped remembering it. Then I found it again. Now I dream about fire."*
 
-> *"I used to dream about Barleyhollow every night. The fire. The screams. Now I dream about fields again. Different fields. Fields we'll plant together."*
+> *"Howen asks me what I'll do when this is over. I tell her there is no 'over.' Not until the Empire is ashes."*
 
-> *"Howen asks me what I'll do when this is over. I tell her I don't know how to think about 'over.' But maybe... maybe I'll grow barley again."*
+> *"The anima tree showed me what I could be. The Empire showed me what I should fight. I'm not running anymore."*
 
 ---
 
 ## Trivia
 
-- Cora still carries seeds from Barleyhollow's heirloom barley strain in a pouch around her neck
-- She hums her mother's lullaby when doing repetitive tasks
+- Cora still carries seeds from both her rim settlement and the Barleybloom fields
+- She hums her adoptive mother's lullaby when doing repetitive tasks
 - Despite her hatred of the Empire, she admits their combat training was excellent
-- She's allergic to devilstrand but refuses to let it stop her from harvesting it
-- Her favorite constellation is "The Plowman"—she used to watch it with her father
+- Her favorite constellation is "The Plowman"—visible from the Barleybloom valley
+- She names her psycast abilities after people she's lost
 
 ---
 

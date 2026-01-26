@@ -186,92 +186,58 @@ Imperial territory shows:
 
 ---
 
-## Arc 4: Barleyhollow Ruins
+## Arc 4: The Barleybloom Valley
 
 ### Overview
 
-The remains of Cora's home village, destroyed by the Empire three years before the story begins.
+The hidden home of the Barleybloom Tribe—Cora's ancestral people. A fertile valley concealed from Imperial notice for generations, where traditional farmers maintain their independence.
 
 ### Physical Description
 
-**Current State**:
-- Burned buildings collapsed into rubble
-- Vegetation reclaiming the streets
-- Grave markers (some formal, most improvised)
-- The barley fields have gone wild
+**The Valley**:
+- Surrounded by steep hills that block line of sight
+- Fertile bottomland fed by mountain streams
+- Golden barley fields stretching across the valley floor
+- Dense forest on the hillsides providing concealment
 
-**The Root Cellar**:
-- Where Cora hid during the massacre
-- Still intact beneath collapsed farmhouse
-- Contains Cora's childhood belongings
-- Scene of pivotal emotional moment
+**The Village**:
+- Traditional wooden buildings with thatched roofs
+- Central gathering hall where the elder holds council
+- Shared granaries and brewing houses
+- Population: ~150 before destruction
 
-**The Village Square**:
-- Where the executions occurred
-- Now overgrown with thornbushes
-- A makeshift memorial has been placed
-- Someone has been leaving flowers
+*Description*: A community built around agriculture and family. Children run through barley fields taller than they are. Elders sit on porches, sharing stories and watching the grain sway. The smell of fresh bread and fermenting barley-beer fills the air.
 
-### Atmosphere
+**The Elder's Hall**:
+- Largest building in the village
+- Where Marcus Barleybloom holds council
+- Decorated with family histories woven into tapestries
+- Where Cora learns of her heritage
 
-- Oppressive silence
-- The smell of old char mixed with growing things
-- Wind through empty buildings
-- Sense of lives interrupted
+### The Reunion (Arc 4, Chapter 8)
 
-### Story Significance
+Cora arrives as a fugitive and finds family:
+- Recognition by Elder Barleybloom
+- Learning her ancestry
+- A week of belonging
+- Peace before the storm
 
-Cora's return here:
-- Confronts her trauma directly
-- Provides closure (partial)
-- Reveals that others remember
-- Strengthens her resolve
+### The Burning (Arc 4, Chapter 10-11)
 
----
-
-## Arc 5: Thornwood Forest
-
-### Overview
-
-Dense, ancient forest home to the Thornwood Tribe. A place of natural beauty and hidden danger.
-
-### Physical Description
-
-**The Forest Proper**:
-- Massive thornwood trees (some 500+ years old)
-- Dense canopy creating permanent twilight
-- Undergrowth of thorny bushes and ferns
-- Hidden paths known only to tribals
-
-**Thornwood Village**:
-- Built among and within the trees
-- Platforms and bridges connecting structures
-- Central gathering ground around an ancient tree
-- Population: ~200 before destruction
-
-*Description*: Homes that seem to grow from the trees themselves, carved from living wood without killing it. Rope bridges sway between platforms. Children play in branches while elders tend herb gardens. A community in harmony with its environment.
-
-**Sacred Grove**:
-- Tribal spiritual center
-- Where Elder Thornweave meditates
-- Said to be psychically active
-- Later: where Thornweave makes her last stand
-
-### The Burning (Arc 5, Chapter 6)
-
-After sheltering Cora and Howen, the village is destroyed:
-- Imperial forces surround it at dawn
-- Fire arrows ignite the trees
-- Fighting is desperate but brief
-- Survivors flee into the deeper forest
+The Empire tracks Cora here:
+- Krell leads the assault at dawn
+- The tribe fights with farming tools and hunting bows
+- Fire consumes the barley fields
+- Elder Barleybloom dies defending the retreat
+- Total destruction—no village remains
 
 ### Story Significance
 
-Thornwood represents:
-- What the Empire destroys
-- The cost of sheltering fugitives
-- The tribal way of life
-- A wound that fuels the rebellion
+The Barleybloom Valley represents:
+- The family Cora never knew
+- Everything the Empire destroys
+- Personal stakes for the conflict
+- The final push toward vengeance
 
 ---
 
@@ -309,7 +275,44 @@ The Deserter camps show:
 - Organized resistance is possible
 - Former enemies can become allies
 - The cost of continuous war
-- Where Cora becomes a soldier
+- Where Cora becomes a warrior
+
+---
+
+## Arc 5: The Anima Grove
+
+### Overview
+
+A sacred location where anima trees grow—ancient conduits to the psychic field that the Empire desperately wants destroyed.
+
+### Physical Description
+
+**The Approach**:
+- Through dense, seemingly impassable forest
+- Path known only to Deserters and select tribals
+- Psychically sensitive individuals feel it pulling them
+
+**The Grove**:
+- Clearing containing seven massive anima trees
+- Trees glow with faint inner light
+- Air feels charged with energy
+- Ground covered in soft, luminescent moss
+
+*Description*: The trees are unlike anything else on the rim. Their bark shimmers with internal luminescence, their leaves whisper without wind, and their roots pulse visibly with psychic energy. Standing among them, you feel the universe breathing.
+
+**The Attunement Pool**:
+- Natural spring at the grove's center
+- Drinking the water enhances psychic perception
+- Where attunement rituals occur
+- Cora and Howen transform here
+
+### Story Significance
+
+The Anima Grove represents:
+- True power vs. Imperial control
+- The Empire's greatest fear
+- Transformation and growth
+- Hope for those who seek it
 
 ---
 

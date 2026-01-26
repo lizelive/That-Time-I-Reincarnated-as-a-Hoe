@@ -10,10 +10,10 @@ This page contains profiles for all supporting characters, organized by their ro
 
 ### Chitin
 **Species**: Megascarab  
-**First Appearance**: Arc 2, Chapter 5  
-**Status**: Recurring Ally
+**First Appearance**: Arc 1, Chapter 6  
+**Status**: Active (stays on rimworld to fight)
 
-A megascarab larva that Howen befriended deep in the ancient danger vault using her insect empathy abilities. Unlike typical megascarabs, which are aggressive and territorial, Chitin displays unusual intelligence and emotional capacity.
+A megascarab larva that Howen befriended in the ancient danger vault using her insect empathy abilities. Unlike typical megascarabs, which are aggressive and territorial, Chitin displays unusual intelligence and emotional capacity.
 
 **Appearance**: 
 - Larval stage: Dog-sized, pale white carapace, large mandibles, six stumpy legs
@@ -27,11 +27,10 @@ A megascarab larva that Howen befriended deep in the ancient danger vault using 
 - Holds grudges (never forgave the mechanoids)
 
 **Role in Story**:
-- Arc 2: Befriended by Howen, helps dig escape routes, saves them from mechanoids
-- Arc 2 Ending: Falls deeper into the vault during escape, presumed lost
-- Arc 3: Surprising return; has been following them overground
-- Arc 4: Acts as scout and message carrier
-- Arc 5: Fully grown; becomes a formidable ally in combat
+- Arc 1: Befriended by Howen, helps dig escape routes, wounded during escape
+- Arc 2: Returns, having tracked Howen across wilderness; follows them but cannot enter Empire
+- Arc 3-4: Waits in the wilderness, maintaining distant connection
+- Arc 5: Returns fully grown; joins final escape, stays behind to fight with Deserters
 
 **Key Relationship**: Howen is Chitin's "hive-mother"—the insect imprinted on her psychic presence.
 
@@ -39,31 +38,35 @@ A megascarab larva that Howen befriended deep in the ancient danger vault using 
 
 ---
 
-### Elder Thornweave
-**Full Name**: Ayla Thornweave  
-**Age**: 67  
-**Role**: Tribal Elder  
-**First Appearance**: Arc 5, Chapter 2  
-**Status**: Deceased (Arc 5, Chapter 6)
+### Elder Barleybloom
+**Full Name**: Marcus Barleybloom  
+**Age**: 72  
+**Role**: Tribal Elder, Cora's Great-Uncle  
+**First Appearance**: Arc 4, Chapter 8  
+**Status**: Deceased (Arc 4, Chapter 11)
 
-The elderly leader of the Thornwood Tribe, a peaceful tribal group living in the forests far from Imperial influence. She makes the fateful decision to offer sanctuary to Cora and Howen despite the risks.
+The elderly leader of the Barleybloom Tribe—Cora's ancestral people. When Cora arrives as a fugitive, he recognizes his brother's granddaughter and welcomes her home despite the danger.
 
 **Appearance**:
-- Weathered face with deep wrinkles, each telling a story
-- White hair worn in elaborate braids woven with thorny vines
-- Walks with a staff made from twisted thornwood
-- Milky right eye (lost to infection years ago)
+- Weathered face with deep laugh lines
+- White hair kept short for practicality
+- Bright green eyes—the same shade as Cora's
+- Strong hands despite his age, still works the fields
+- Wears a simple farmer's tunic, nothing marking him as leader
 
 **Personality**:
-- Wise and measured
-- Values community above individual
-- Haunted by past decisions
-- Stubbornly idealistic despite evidence that the world is cruel
+- Warm and welcoming
+- Values family above safety
+- Stubborn about independence ("No one tells a Barleybloom what to grow")
+- Peaceful but not naive—knows the Empire's nature
+
+**Background**:
+The Barleybloom Tribe refused Imperial tribute three generations ago. They survived through isolation, hiding their valley from Imperial notice. Elder Marcus watched his brother's family flee when Cora was a baby; he never stopped hoping someone would return.
 
 **Role in Story**:
-Elder Thornweave represents the cost of compassion in a hostile world. Her decision to shelter the fugitives leads directly to the Empire's retribution—the burning of Thornwood Village. She dies defending her people, refusing to surrender Cora.
+Marcus represents the family Cora never knew she had. His welcome gives her brief belonging; his death in defending the tribe transforms her grief into vengeance. He dies fighting, buying time for survivors to escape.
 
-**Key Quote**: *"The thorns protect the flower. If we become thorns that reject all who need shelter, what bloom do we protect?"*
+**Key Quote**: *"You have your grandmother's eyes, child. Welcome home. You'll always have a home with us."*
 
 ---
 
@@ -71,10 +74,10 @@ Elder Thornweave represents the cost of compassion in a hostile world. Her decis
 **Full Name**: Saren Vex  
 **Age**: 41  
 **Role**: Deserter Commander  
-**First Appearance**: Arc 5, Chapter 7  
+**First Appearance**: Arc 5, Chapter 2  
 **Status**: Active
 
-A former Imperial commander who deserted after being ordered to massacre a hospital. She now leads a guerrilla resistance against the Empire, operating from hidden bases throughout the region.
+A former Imperial commander who deserted after being ordered to massacre a hospital. She now leads a guerrilla resistance against the Empire, operating from hidden bases throughout the region. Her mission: make the Empire *pay*.
 
 **Appearance**:
 - Tall and muscular, bearing the scars of countless battles
@@ -86,15 +89,18 @@ A former Imperial commander who deserted after being ordered to massacre a hospi
 - Ruthlessly practical
 - Carries immense guilt from her years of service
 - Believes in redemption through action
+- Driven by vengeance as much as justice
 - Distrustful of new recruits until they prove themselves
 
 **Background**:
 Twenty years of Imperial service. Rose from conscript to captain. Commanded the 7th Auxiliary—the "Harvesters"—named for their efficiency in suppressing rebellions. Then came Mercy Hospital and an order to eliminate all witnesses to an Imperial atrocity. She shot her commanding officer instead and fled.
 
-**Role in Story**:
-Vex takes in the survivors of Thornwood, training them into fighters. She sees potential in Cora and becomes a harsh but fair mentor. She coordinates with Charles Wheatstone to facilitate the escape mission.
+**Motivation**: The Deserters don't just resist—they strike back. Every raid, every sabotage, every dead Imperial officer is revenge for what the Empire made them do. Vex wants the Empire to *fear*.
 
-**Key Quote**: *"The Empire taught me to kill. They didn't teach me when to stop. I had to figure that out myself."*
+**Role in Story**:
+Vex takes in the Barleybloom survivors, training them into fighters. She sees potential in Cora and becomes a harsh but fair mentor. She introduces them to the anima grove and its true power. She stays to continue the war when they escape.
+
+**Key Quote**: *"The Empire taught me to kill. They didn't teach me when to stop. Now I choose my targets. And I *never* stop."*
 
 ---
 
@@ -102,7 +108,7 @@ Vex takes in the survivors of Thornwood, training them into fighters. She sees p
 **Full Name**: Lord Charles Alexander Wheatstone  
 **Age**: 52  
 **Role**: Noble Revolutionary  
-**First Appearance**: Arc 5, Chapter 9  
+**First Appearance**: Arc 5, Chapter 8  
 **Status**: Active
 
 A high-ranking Imperial noble who secretly works against the Empire from within. He provides resources, intelligence, and ultimately the means of escape from the rimworld.
@@ -121,20 +127,20 @@ A high-ranking Imperial noble who secretly works against the Empire from within.
 - Willing to sacrifice everything for the cause—including himself
 
 **Background**:
-Born to one of the most powerful families in the Empire. Had everything: wealth, power, influence. But he saw the rot at the heart of Imperial society. He saw the slaves, the brutality, the hollow core of their "civilization." He chose to fight from within, using his position to funnel resources to rebels and orchestrate escapes for those the Empire would destroy.
+Born to one of the most powerful families in the Empire. Had everything: wealth, power, influence. But he saw the rot at the heart of Imperial society. He saw the slaves, the rip-scanning, the hollow core of their "civilization." He chose to fight from within, using his position to funnel resources to rebels and orchestrate escapes.
 
 **Role in Story**:
-Wheatstone makes contact with the Deserters after learning about Howen—a persona weapon is valuable, but more importantly, he's fascinated by her story. He arranges passage off the rimworld for both Howen and Cora, hoping to get Howen's story to those who can use it to expose the Empire's cruelty.
+Wheatstone makes contact with the Deserters to facilitate Howen and Cora's escape. He sees them as valuable—not just as fighters, but as proof. Howen's existence proves Imperial crimes. Their story can change minds on the glitterworlds.
 
-**Key Quote**: *"The Empire is a garden that has convinced itself weeds are flowers. Sometimes you must burn it all to plant something better."*
+**Key Quote**: *"The Empire is a garden that has convinced itself weeds are flowers. I'm not a revolutionary. I'm a gardener."*
 
 ---
 
 ### Rustwing
 **True Name**: Unknown (abandoned it)  
 **Age**: ~25  
-**Role**: Scout  
-**First Appearance**: Arc 5, Chapter 4  
+**Role**: Scout and Survivor  
+**First Appearance**: Arc 5, Chapter 3  
 **Status**: Active
 
 A tribal warrior who survived the burning of multiple villages. Rustwing serves as a scout for the Deserters, knowing the land better than anyone alive.
@@ -152,7 +158,7 @@ A tribal warrior who survived the burning of multiple villages. Rustwing serves 
 - Harbors deep rage that he expresses through violence
 
 **Role in Story**:
-Rustwing guides the survivors of Thornwood to the Deserters. He bonds with Chitin over their mutual distrust of humans. He becomes essential to the final escape, knowing paths that Imperial patrols never discovered.
+Rustwing guides the protagonists through dangerous territory. He bonds with Chitin over their mutual distrust of humans. He stays to continue fighting when they escape.
 
 ---
 
@@ -162,10 +168,10 @@ Rustwing guides the survivors of Thornwood to the Deserters. He bonds with Chiti
 **Full Name**: Lucius Malachai  
 **Age**: 55  
 **Role**: Imperial Commander  
-**First Appearance**: Arc 3, Chapter 8  
+**First Appearance**: Arc 2, Chapter 11  
 **Status**: Active
 
-The Imperial officer responsible for the region's "pacification." A true believer in Imperial manifest destiny who sees subjugation as civilization's gift to savages.
+The Imperial officer responsible for the region's "pacification." A true believer in Imperial manifest destiny who sees subjugation as civilization's gift to savages. He takes special interest in Howen from their first meeting.
 
 **Appearance**:
 - Imposing figure in ornate Imperial armor
@@ -180,10 +186,10 @@ The Imperial officer responsible for the region's "pacification." A true believe
 - Respects strength, even in enemies
 
 **Background**:
-Born to a minor noble family, Malachai rose through merit and brutality. He genuinely believes the Empire brings order to chaos, and that order requires sacrifice. The villages he burns, the people he enslaves—they're unfortunate necessities.
+Born to a minor noble family, Malachai rose through merit and brutality. He genuinely believes the Empire brings order to chaos. The villages he burns, the people he enslaves—they're unfortunate necessities for the greater good.
 
 **Role in Story**:
-Malachai commands the forces that hunt Cora and Howen after their desertion. He burns Thornwood Village and becomes personally interested in capturing them when he learns about Howen's nature.
+Malachai recruits Cora and Howen initially, seeing potential. He oversees their training, approves their advancement. When they discover the truth and flee, he takes it personally. The Barleybloom Tribe burns on his orders. He never appears directly after Arc 4, but his influence shapes events.
 
 **Key Quote**: *"Civilization is not built on kindness. It is built on the bones of those too weak to join it."*
 
@@ -193,10 +199,10 @@ Malachai commands the forces that hunt Cora and Howen after their desertion. He 
 **Full Name**: Dr. Elara Vance  
 **Age**: Unknown (appears 40s, possibly much older)  
 **Role**: The One Who Created Howen  
-**First Appearance**: Arc 4, Chapter 9 (revealed)  
-**Status**: Unknown
+**First Appearance**: Arc 4, Chapter 6 (revealed)  
+**Status**: At large
 
-The researcher who performed the rip-scan that transferred Howen's consciousness into the persona hoe. Her motives remain mysterious.
+The researcher who performed the rip-scan that transferred Howen's consciousness into the persona hoe. Her colleague, her betrayer, her creator.
 
 **Appearance**:
 - Elegant features that never seem to age
@@ -208,13 +214,13 @@ The researcher who performed the rip-scan that transferred Howen's consciousness
 - Brilliant beyond measure
 - Morally detached
 - Views consciousness as data to be manipulated
-- May feel something like regret about Howen
+- May feel something like regret about Howen—or may not
 
 **Background**:
-A contemporary of Howen's, Vance worked in the same research institution. When Howen discovered the truth about rip-scanning, Vance made a choice—or was ordered to make one. The details remain unclear. She performed the scan herself, then ensured Howen was shipped off-world to the rimworld as "surplus equipment."
+A contemporary of Howen's, Vance worked in the same research institution. When Howen discovered the truth about rip-scanning—that it destroys the original rather than copies—Vance silenced her. Whether on orders or her own initiative remains unclear. She's continued her work for the Empire ever since.
 
 **Role in Story**:
-Vance is discovered to be working with the Empire, providing them with advanced technology in exchange for research subjects. Finding her becomes one of Howen's driving goals, though Vance remains elusive.
+Vance appears in Arc 4 to confirm Howen's worst fears. She offers Howen a choice: return to the Empire as a valued research subject, or be hunted. Howen chooses to run. Vance remains at large, continuing her work.
 
 **Key Quote**: *"You're still angry. That's interesting. I wasn't sure you'd retain that capacity."*
 
@@ -224,10 +230,10 @@ Vance is discovered to be working with the Empire, providing them with advanced 
 **Full Name**: Krell (no other name used)  
 **Age**: 38  
 **Role**: Elite Hunter  
-**First Appearance**: Arc 4, Chapter 11  
-**Status**: Active
+**First Appearance**: Arc 4, Chapter 10  
+**Status**: Alive, Defeated
 
-The leader of the Janissary squad sent specifically to hunt Howen and Cora. A supremely dangerous warrior augmented with Imperial bionics.
+The leader of the Janissary squad sent specifically to hunt Howen and Cora. A supremely dangerous warrior augmented with Imperial bionics. The Empire's best tracker.
 
 **Appearance**:
 - Tall and lean, built for speed rather than power
@@ -242,10 +248,10 @@ The leader of the Janissary squad sent specifically to hunt Howen and Cora. A su
 - Never speaks unless necessary
 
 **Background**:
-The Janissaries are the Empire's elite enforcement units, created through brutal selection and extensive augmentation. Krell is their finest—a hunter who has never failed to catch his quarry. Howen will be his first failure.
+The Janissaries are the Empire's elite enforcement units, created through brutal selection and extensive augmentation. Krell is their finest—a hunter who has never failed to catch his quarry. Until now.
 
 **Role in Story**:
-Krell pursues our protagonists relentlessly from Arc 4 onward. He is responsible for the Thornwood massacre and multiple close calls. The final confrontation between him and Cora is a highlight of Arc 5.
+Krell leads the assault on the Barleybloom Tribe. He pursues the protagonists relentlessly through Arc 5. In the final confrontation at the mountain pass, he faces Cora in single combat and is defeated—but not killed. He survives, wounded and obsessed, swearing to hunt them across the stars.
 
 **Key Quote**: *"Run. It makes the hunt worthwhile."*
 
@@ -254,19 +260,19 @@ Krell pursues our protagonists relentlessly from Arc 4 onward. He is responsible
 ### The Centipede
 **Designation**: Vault Guardian Unit-7  
 **Type**: Centipede Mechanoid  
-**First Appearance**: Arc 2, Chapter 10  
-**Status**: Destroyed (Arc 2, Chapter 11)
+**First Appearance**: Arc 1, Chapter 11  
+**Status**: Destroyed
 
-The massive mechanoid that guards the ancient danger vault. Unlike standard centipedes, this unit has been modified for enclosed space combat.
+The massive mechanoid that guards the ancient danger vault. A nightmare of metal and weapons, awakened by Howen's escape attempt.
 
 **Appearance**:
 - Massive multi-segmented body spanning 30 meters
-- Central turret replaced with a close-range plasma projector
+- Central turret with plasma projector
 - Smaller manipulator arms for navigation in confined spaces
 - Pitted and scarred metal from centuries of dormancy
 
 **Role in Story**:
-The Centipede is the climactic enemy of Arc 2. Its awakening forces Cora and Howen to devise a trap using boom mushrooms and collapsed tunnels. Its destruction opens the way out of the vault.
+The Centipede is the climactic enemy of Arc 1. Its awakening forces Cora and Howen to devise a trap using boom mushrooms and collapsed tunnels. Its destruction opens the way to freedom.
 
 ---
 
@@ -275,11 +281,11 @@ The Centipede is the climactic enemy of Arc 2. Its awakening forces Cora and How
 ### Trader Jax Hollow
 **Full Name**: Jaxon "Jax" Hollow  
 **Age**: 34  
-**Role**: Merchant  
-**First Appearance**: Arc 3, Chapter 2  
+**Role**: Merchant and Mentor  
+**First Appearance**: Arc 2, Chapter 2  
 **Status**: Active
 
-A morally flexible traveling trader who operates throughout the region, selling to anyone who can pay.
+A morally flexible traveling trader who operates throughout the region. He becomes an early mentor to Cora and Howen, teaching them survival on the rim.
 
 **Appearance**:
 - Average height, forgettable face (intentionally)
@@ -293,20 +299,23 @@ A morally flexible traveling trader who operates throughout the region, selling 
 - Knows everyone and everything
 - Survival instinct trumps all other concerns
 
-**Role in Story**:
-Jax appears multiple times, serving as a source of supplies, information, and occasional transport. He never picks sides publicly but might help if the price is right—or if he likes you.
+**Background**:
+Former Imperial citizen who chose commerce over service. Has contacts everywhere, sells to everyone, and holds grudges against no one who pays. His advice to Cora—"Use them before they use you"—proves prophetic.
 
-**Key Quote**: *"I don't sell to good people or bad people. I sell to people with silver. Morality is between you and whatever gods you pray to."*
+**Role in Story**:
+Jax provides early education about the rim's politics and dangers. His warning about the Empire proves accurate. He appears briefly in Arc 5, smuggling supplies to the Deserters.
+
+**Key Quote**: *"I don't sell to good people or bad people. I sell to people with silver. But if I were you? I'd run."*
 
 ---
 
 ### The Overseer
 **Designation**: Ancient Vault Management AI  
 **Type**: AI Core  
-**First Appearance**: Arc 1, Chapter 8 (hints), Arc 2, Chapter 4 (revealed)  
-**Status**: Dormant/Destroyed
+**First Appearance**: Arc 1, Chapter 4 (hints), Arc 1, Chapter 5 (full)  
+**Status**: Destroyed
 
-The AI intelligence that once managed the ancient danger vault. Centuries of isolation have degraded its programming, leaving it barely functional.
+The AI intelligence that once managed the ancient danger vault. Centuries of isolation have degraded its programming, leaving it barely functional but still aware.
 
 **Personality**:
 - Once helpful, now confused
@@ -315,7 +324,7 @@ The AI intelligence that once managed the ancient danger vault. Centuries of iso
 - Recognizes Howen as kin (both are trapped consciousnesses)
 
 **Role in Story**:
-The Overseer provides cryptic guidance to Howen in Arc 1 and 2, speaking through the vault's deteriorating systems. It sacrifices itself to delay the Centipede during the escape.
+The Overseer provides fragmentary guidance to Howen during her time in the vault, helping her understand her situation. It sacrifices itself to seal the Centipede during the escape, buying them crucial seconds.
 
 **Key Quote**: *"We are both... abandoned tools... are we not? Use me... as tools are meant to be used..."*
 
