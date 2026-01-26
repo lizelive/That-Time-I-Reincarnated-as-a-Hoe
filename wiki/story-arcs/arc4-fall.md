@@ -14,7 +14,7 @@
 
 ### Synopsis
 
-The comfortable illusion shatters. Behind the locked door lies the rip-scanning facility—where minds are harvested, copied, destroyed, and rebuilt as obedient servants. Howen recognizes the technology and, with it, remembers: she was created here. Dr. Elara Vance reveals herself as Howen's creator, confirming the horror. They flee the Empire and seek sanctuary with the Barleybloom Tribe—Cora's ancestral people, farmers who refused Imperial tribute. The reunion is brief and joyful. Then the Empire comes, and burns everything Cora loves for the second time.
+The comfortable illusion shatters. Behind the locked door lies the rip-scanning facility—where minds are harvested, destroyed, and the stolen consciousness rebuilt as obedient servants. Howen recognizes the technology and, with it, remembers: she was created here. Dr. Elara Vance reveals herself as Howen's creator, confirming the horror. They flee the Empire and seek sanctuary with the Barleybloom Tribe—Cora's ancestral people, farmers who refused Imperial tribute. The reunion is brief and joyful. Then the Empire comes, and burns everything Cora loves for the second time.
 
 ---
 
