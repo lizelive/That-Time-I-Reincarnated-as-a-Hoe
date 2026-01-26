@@ -8,8 +8,8 @@ Makes the wielder hunger
 
 Traits:
 - Hunger pangs
-- Psychic hypersensitizer
 - Fast mover
+
 Hidden Traits:
 - Kill-focused
 - Psychic hypersensitizer
