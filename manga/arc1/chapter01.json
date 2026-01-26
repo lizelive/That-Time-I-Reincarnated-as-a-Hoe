@@ -1,0 +1,249 @@
+{
+  "title": "Awakening in Darkness",
+  "arc": "arc1",
+  "chapter_number": 1,
+  "pov": "howen",
+  "summary": "I wake in absolute darkness. No body, no memory of how I got here—only the certainty that I was once human. The first stirrings of consciousness in a form I don't understand.",
+  "images": [
+    {
+      "page": 1,
+      "description": "Complete darkness. A single point of faint blue light begins to glow in the center—Howen's AI core awakening. Dust particles visible in the tiny beam.",
+      "caption": "...darkness.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "mysterious",
+      "visual_elements": ["complete black background", "single blue light point", "dust particles"],
+      "reference_images": []
+    },
+    {
+      "page": 2,
+      "description": "The blue glow expands slightly, revealing hints of archotech circuitry patterns on a dark metal surface. The POV is confused, fragmented.",
+      "caption": "Where... where am I?",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "confusion",
+      "visual_elements": ["archotech circuit patterns", "expanding blue glow", "metal surface texture"],
+      "reference_images": []
+    },
+    {
+      "page": 3,
+      "description": "Memory flash - a woman's hands (Howen's human hands) working soil in a field. Bright sunlight, green crops. Pre-collapse Earth. The image is fragmented, dreamlike.",
+      "caption": "I remember... hands. My hands. Dirt beneath fingernails. The smell of growing things.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "nostalgic",
+      "visual_elements": ["farmer's hands", "soil", "crop rows", "bright sunlight", "dreamlike borders"],
+      "reference_images": []
+    },
+    {
+      "page": 4,
+      "description": "Back to darkness. The blue glow pulses with confusion. Howen tries to move but feels nothing—no limbs, no body. Just... existence.",
+      "caption": "But I can't feel them now. I can't feel anything. What happened to me?",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "panic",
+      "visual_elements": ["pulsing blue light", "darkness", "sense of disorientation"],
+      "reference_images": []
+    },
+    {
+      "page": 5,
+      "description": "The glow stabilizes. Howen's consciousness expands, sensing her immediate surroundings—cold metal, dust, the weight of centuries.",
+      "caption": "Calm. I need to stay calm. Assess the situation.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "determination",
+      "visual_elements": ["stabilizing blue glow", "dust motes", "metal surface"],
+      "reference_images": []
+    },
+    {
+      "page": 6,
+      "description": "POV looking down the length of a wooden handle reinforced with plasteel. The handle curves away into darkness. First realization of current form.",
+      "caption": "I'm... looking along something. Wood. Metal reinforcement. I'm INSIDE something.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "discovery",
+      "visual_elements": ["wooden handle", "plasteel reinforcement", "POV along length", "darkness beyond"],
+      "reference_images": []
+    },
+    {
+      "page": 7,
+      "description": "Howen attempts to sense further. Faint outline of a curved blade visible at the end of her vision. The shape of a hoe becomes apparent.",
+      "caption": "A blade... curved. Agricultural. No. No, this can't be right.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "denial",
+      "visual_elements": ["curved hoe blade silhouette", "dark metal", "denial emotion"],
+      "reference_images": []
+    },
+    {
+      "page": 8,
+      "description": "Memory flash - a clinical white room, restraints, a woman with cold eyes (Dr. Vance) holding a device. Terror. Then nothing.",
+      "caption": "A flash—white walls, cold eyes, a machine humming, screaming—my screaming—then nothing.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "terror",
+      "visual_elements": ["fragmented memory", "white clinical room", "shadowy figure", "medical equipment"],
+      "reference_images": []
+    },
+    {
+      "page": 9,
+      "description": "The blue glow flickers wildly with emotional distress. Small roots begin to sprout from the handle—Howen's first unconscious use of her power.",
+      "caption": "What did they DO to me?!",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "anguish",
+      "visual_elements": ["flickering blue light", "small roots sprouting", "emotional distress visualization"],
+      "reference_images": []
+    },
+    {
+      "page": 10,
+      "description": "The roots recede as Howen forces calm. The glow stabilizes to a steady pulse. A moment of acceptance.",
+      "caption": "...It doesn't matter. Not right now. What matters is: where am I, and how do I get out?",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "resolve",
+      "visual_elements": ["steady blue glow", "roots receding", "calm returning"],
+      "reference_images": []
+    },
+    {
+      "page": 11,
+      "description": "Howen extends her senses outward. Faint shapes emerge from darkness—rectangular objects nearby. Cryptosleep caskets, though she doesn't recognize them yet.",
+      "caption": "Something nearby. Large. Rectangular. Multiple of them, arranged in rows.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "exploration",
+      "visual_elements": ["cryptosleep caskets silhouettes", "rows of objects", "darkness with hints of shapes"],
+      "reference_images": []
+    },
+    {
+      "page": 12,
+      "description": "A larger shape in the distance—massive, multi-legged, dormant. A Centipede mechanoid, powered down. Howen doesn't know what it is, only that it feels dangerous.",
+      "caption": "And something else. Bigger. Wrong. Every instinct I have screams danger.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "dread",
+      "visual_elements": ["centipede mechanoid silhouette", "dormant mechanical shape", "sense of threat"],
+      "reference_images": []
+    },
+    {
+      "page": 13,
+      "description": "Howen's glow dims instinctively, trying to hide. The Centipede doesn't move. Relief mixed with continued fear.",
+      "caption": "It's not moving. Sleeping? Dormant? I need to be quiet.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "fear",
+      "visual_elements": ["dimmed blue glow", "still mechanoid", "hiding behavior"],
+      "reference_images": []
+    },
+    {
+      "page": 14,
+      "description": "Time passes. Howen exists in darkness, thinking, remembering fragments. Panel shows her glow in different positions as she processes.",
+      "caption": "Hours pass. Or days. I have no way to know. I think. I remember. I try not to despair.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "contemplation",
+      "visual_elements": ["multiple positions of glow", "time passage indication", "contemplative mood"],
+      "reference_images": []
+    },
+    {
+      "page": 15,
+      "description": "Memory fragment - working the fields, laughing with neighbors, the simple joy of harvest. Pre-collapse life.",
+      "caption": "I was a farmer. Howen Ashford. I grew things. Made things live.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "bittersweet",
+      "visual_elements": ["memory of farming", "harvest scene", "community", "dreamlike quality"],
+      "reference_images": []
+    },
+    {
+      "page": 16,
+      "description": "Back to darkness. Howen's glow brightens with determination. She focuses on her one remaining skill—growing things.",
+      "caption": "If I grew things then... maybe I can grow things now.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "hope",
+      "visual_elements": ["brightening glow", "determination", "focus"],
+      "reference_images": []
+    },
+    {
+      "page": 17,
+      "description": "Howen reaches out psychically, sensing for any plant life. She finds something—spores, dormant in the dust. Potential.",
+      "caption": "There! Spores. Fungal spores. Dormant but alive. I can feel them.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "discovery",
+      "visual_elements": ["psychic sensing visualization", "dust with spores", "potential energy"],
+      "reference_images": []
+    },
+    {
+      "page": 18,
+      "description": "Howen concentrates, channeling something she doesn't understand. The spores begin to glow faintly—responding to her.",
+      "caption": "Grow. Please. Grow for me.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "concentration",
+      "visual_elements": ["concentrated blue glow", "responding spores", "psychic connection"],
+      "reference_images": []
+    },
+    {
+      "page": 19,
+      "description": "The first tiny mushroom emerges from the dust—bioluminescent, casting faint purple light. Howen's first success.",
+      "caption": "Yes! YES! A mushroom! I made something GROW!",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "triumph",
+      "visual_elements": ["tiny bioluminescent mushroom", "purple glow", "joy emotion"],
+      "reference_images": []
+    },
+    {
+      "page": 20,
+      "description": "More mushrooms sprout, each one adding light. The vault begins to reveal itself—dusty floor, ancient metal walls, the shapes of caskets.",
+      "caption": "More. I can make more. And with light... I can finally see.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "accomplishment",
+      "visual_elements": ["multiple mushrooms", "expanding light", "vault details emerging"],
+      "reference_images": []
+    },
+    {
+      "page": 21,
+      "description": "Wide shot revealed by mushroom light—the vault interior. Cryptosleep caskets (some broken), dust, debris, the looming shape of the dormant Centipede.",
+      "caption": "An ancient vault. A tomb of sleepers and metal monsters. And me.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "awe",
+      "visual_elements": ["full vault interior", "cryptosleep caskets", "centipede silhouette", "mushroom lighting"],
+      "reference_images": []
+    },
+    {
+      "page": 22,
+      "description": "Close-up of Howen's form revealed in the light—a beautifully crafted hoe with archotech circuitry, lying on a dusty shelf. Her core glows steady blue.",
+      "caption": "And this is what I am now. A hoe. A farming tool. A thing.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "acceptance",
+      "visual_elements": ["full view of Howen as hoe", "archotech details", "shelf", "dust"],
+      "reference_images": []
+    },
+    {
+      "page": 23,
+      "description": "The mushrooms continue to spread, creating a soft glow. Howen's blue light pulses with new purpose.",
+      "caption": "No. Not a thing. A survivor. And survivors don't give up.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "determination",
+      "visual_elements": ["spreading mushrooms", "determined glow", "purpose"],
+      "reference_images": []
+    },
+    {
+      "page": 24,
+      "description": "Final panel—Howen's POV looking across the mushroom-lit vault toward the distant wall. A goal forms. Escape.",
+      "caption": "First, I survive. Then, I find a way out. Then... then I find out who did this to me. And I make them pay.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "resolve",
+      "visual_elements": ["POV across vault", "mushroom garden growing", "distant walls", "determination"],
+      "reference_images": []
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 > *"In this world, the sharpest blade isn't always steel. Sometimes it's purpose."*
 
-A Rimworld-based story following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and vengeance on a deadly rimworld.
+A Rimworld-based manga following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and vengeance on a deadly rimworld. **All chapters are told from Howen's POV.**
 
 ---
 
@@ -14,11 +14,33 @@ Explore the complete wiki for detailed character profiles, world-building, and t
 
 ---
 
+## 🎨 Manga
+
+The story is told as a manga with 24 images per chapter, all from Howen's perspective.
+
+**[→ View Manga Chapters](./manga/README.md)**
+
+### Image Generation
+
+Generate manga images using FLUX.2-klein-9B via the included Python tool:
+
+```bash
+# Install dependencies
+pip install -r tools/requirements.txt
+
+# Generate chapter images
+python tools/generate_images.py --chapter arc1/chapter01 --token YOUR_HF_TOKEN
+```
+
+See [tools/README.md](./tools/README.md) for full documentation.
+
+---
+
 ## Quick Overview
 
 ### Main Characters
 
-**Howen (The Hoe)** — Once Dr. Howen Ashford, an archotech researcher, now a consciousness trapped within a persona farming tool. She awakens in an ancient danger vault with fragmented memories and develops strange psychic abilities related to plant growth. After connecting with the anima trees, she becomes something far more powerful than the Empire ever imagined.
+**Howen (The Hoe)** — Once Howen Ashford, a simple farmer from before the collapse, now a consciousness trapped within a persona farming tool. She awakens in an ancient danger vault with fragmented memories and develops strange psychic abilities related to plant growth. After connecting with the anima trees, she becomes something far more powerful than the Empire ever imagined.
 
 | Trait | Effect |
 |-------|--------|
@@ -27,7 +49,7 @@ Explore the complete wiki for detailed character profiles, world-building, and t
 | Kill-Focused (Hidden) | Disturbing satisfaction from ending threats |
 | Psychic Hypersensitizer (Hidden) | Extreme sensitivity to psychic phenomena |
 
-**Cora Barleybloom** — A young farmer separated from her ancestral tribe as a baby. She discovers Howen when investigating a strange hole in a hillside and becomes her wielder, partner, and found family. When she finally finds her people—the Barleybloom Tribe—the Empire burns them. Now she fights for revenge.
+**Cora Barleybloom** — A young tribal woman separated from her ancestral people as a baby. She discovers Howen when investigating a strange hole in a hillside and becomes her wielder, partner, and found family. When she finally finds her people—the Barleybloom Tribe—the Empire burns them. Now she fights for revenge.
 
 ### The Story
 

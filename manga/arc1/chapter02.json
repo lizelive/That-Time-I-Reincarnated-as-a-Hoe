@@ -1,0 +1,249 @@
+{
+  "title": "The Garden Grows",
+  "arc": "arc1",
+  "chapter_number": 2,
+  "pov": "howen",
+  "summary": "I cultivate my mushroom garden, testing the limits of my new abilities. But I'm not alone in this vault—something moves in the deeper darkness.",
+  "images": [
+    {
+      "page": 1,
+      "description": "Opening shot of Howen's mushroom garden, now expanded. Multiple bioluminescent species glow in different colors—purple, blue, pale green. Beautiful but alien.",
+      "caption": "Day 7. Or what I'm calling Day 7. The garden grows.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "pride",
+      "visual_elements": ["expansive mushroom garden", "multiple colors", "bioluminescence", "vault floor"],
+      "reference_images": ["arc1/chapter01/page_20.png"]
+    },
+    {
+      "page": 2,
+      "description": "Close-up of Howen's blade, with tiny fungal threads connecting her to the nearby mushrooms. She's learned to extend her influence.",
+      "caption": "I can feel them all. Every spore, every cap, every mycelium thread. They're... part of me now.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "wonder",
+      "visual_elements": ["fungal threads", "Howen's blade close-up", "connection visualization"],
+      "reference_images": []
+    },
+    {
+      "page": 3,
+      "description": "Howen experiments—a mushroom grows rapidly under her focused attention, then shrinks back when she releases. Testing control.",
+      "caption": "Grow. Stop. Grow. Stop. I'm getting better at this. More precise.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "experimentation",
+      "visual_elements": ["mushroom growing/shrinking", "focus lines", "control demonstration"],
+      "reference_images": []
+    },
+    {
+      "page": 4,
+      "description": "A different mushroom type—this one glows red when Howen focuses on it. She senses it's different. Volatile.",
+      "caption": "This one feels... dangerous. The spores spark when they touch air. Boom mushroom. I should be careful with these.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "caution",
+      "visual_elements": ["red glowing mushroom", "spark effects", "dangerous atmosphere"],
+      "reference_images": []
+    },
+    {
+      "page": 5,
+      "description": "Sound effect panel—skittering noises from the darkness beyond the garden. Howen's core flickers with alarm.",
+      "caption": "What was that?",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "alarm",
+      "visual_elements": ["sound effect lines", "darkness beyond garden", "flickering core light"],
+      "reference_images": []
+    },
+    {
+      "page": 6,
+      "description": "Howen dims her glow, watching the edge of the darkness. Multiple small shapes move just beyond the light.",
+      "caption": "Something's out there. Multiple somethings. Small, fast, chitinous.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "tension",
+      "visual_elements": ["dimmed light", "small shapes in darkness", "watchful waiting"],
+      "reference_images": []
+    },
+    {
+      "page": 7,
+      "description": "An insect emerges into the mushroom light—a megascarab nymph, small and curious. Translucent carapace, large eyes reflecting the bioluminescence.",
+      "caption": "Insects. Young ones. They're... watching the mushrooms. Watching me.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "curiosity",
+      "visual_elements": ["megascarab nymph", "translucent carapace", "curious posture", "reflected light"],
+      "reference_images": []
+    },
+    {
+      "page": 8,
+      "description": "More nymphs emerge, drawn by the light. They cluster at the edge of the garden, antennae waving. One nibbles tentatively at a mushroom.",
+      "caption": "They're hungry. The garden must be the only food source down here.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "understanding",
+      "visual_elements": ["multiple nymphs", "feeding behavior", "antennae movement", "garden edge"],
+      "reference_images": []
+    },
+    {
+      "page": 9,
+      "description": "Howen makes a decision—she deliberately grows a cluster of mushrooms toward the insects. An offering.",
+      "caption": "If I'm going to be stuck here with them, we might as well be friends.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "generosity",
+      "visual_elements": ["mushrooms growing toward insects", "offering gesture", "deliberate cultivation"],
+      "reference_images": []
+    },
+    {
+      "page": 10,
+      "description": "The nymphs respond eagerly, clicking mandibles and consuming the offered mushrooms. One larger nymph looks directly at Howen, curious.",
+      "caption": "That one's bigger than the others. Bolder too. It's staring at me.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "connection",
+      "visual_elements": ["feeding nymphs", "one larger nymph staring", "eye contact", "curious posture"],
+      "reference_images": []
+    },
+    {
+      "page": 11,
+      "description": "The larger nymph approaches Howen cautiously. Up close, Howen can see a distinctive crack in its carapace forming a lightning bolt pattern.",
+      "caption": "Careful, little one. I won't hurt you.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "gentle",
+      "visual_elements": ["approaching nymph", "lightning bolt crack", "gentle interaction", "close proximity"],
+      "reference_images": []
+    },
+    {
+      "page": 12,
+      "description": "The nymph touches Howen's handle with its antennae. A spark of connection—Howen feels the insect's simple emotions. Hunger. Curiosity. Safety.",
+      "caption": "I can feel it. Simple thoughts, simple feelings, but there. Hunger. Curiosity. And... it feels safe here. With me.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "bond",
+      "visual_elements": ["antenna touching handle", "psychic connection spark", "emotional bond visualization"],
+      "reference_images": []
+    },
+    {
+      "page": 13,
+      "description": "Montage of days passing—the garden expands, the nymphs become regular visitors, the crack-marked nymph always closest to Howen.",
+      "caption": "Days pass. The garden grows. The insects become... family? Is that the right word for a farmer and her pests?",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "growth",
+      "visual_elements": ["time passage", "expanding garden", "regular visitors", "growing bond"],
+      "reference_images": []
+    },
+    {
+      "page": 14,
+      "description": "The crack-marked nymph (Chitin) sleeping curled against Howen's handle. Howen's core glows warmly—affection she didn't expect to feel.",
+      "caption": "I've started calling this one Chitin. The crack in its shell... it looks like a lightning bolt. Distinctive. Special.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "affection",
+      "visual_elements": ["sleeping Chitin", "warm glow", "protective posture", "peaceful scene"],
+      "reference_images": []
+    },
+    {
+      "page": 15,
+      "description": "Sudden disturbance—the nymphs scatter in panic. A rumbling sound from the depths. Something larger is moving.",
+      "caption": "No. Something's wrong. They're terrified.",
+      "characters": ["howen", "chitin"],
+      "location": "vault",
+      "mood": "fear",
+      "visual_elements": ["scattering insects", "panic motion lines", "deep rumbling effect", "fear response"],
+      "reference_images": []
+    },
+    {
+      "page": 16,
+      "description": "From the darkness, a massive shape emerges—an adult megascarab, the size of a horse. Black-green carapace, massive mandibles. It approaches the garden.",
+      "caption": "Mother. Or Queen. Or just... very, very big.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "awe",
+      "visual_elements": ["adult megascarab", "massive size", "imposing approach", "mandibles"],
+      "reference_images": []
+    },
+    {
+      "page": 17,
+      "description": "The adult megascarab examines the mushroom garden. Its antennae wave, sensing. It doesn't attack—instead, it seems... grateful?",
+      "caption": "It's not attacking. It's... checking on the food source. On its children. On me.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "tension release",
+      "visual_elements": ["examining antennae", "garden inspection", "curious not aggressive", "relief"],
+      "reference_images": []
+    },
+    {
+      "page": 18,
+      "description": "Chitin approaches its mother, pressing against the massive leg. The adult nuzzles down. Family moment.",
+      "caption": "Family. Even for insects, family matters.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "tenderness",
+      "visual_elements": ["Chitin with mother", "nuzzling", "family bonding", "size comparison"],
+      "reference_images": []
+    },
+    {
+      "page": 19,
+      "description": "The adult megascarab looks directly at Howen. For a moment, their eyes—one organic, one a glowing core—meet. An understanding passes.",
+      "caption": "It knows I've been feeding them. Taking care of them. And it... accepts me.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "acceptance",
+      "visual_elements": ["eye contact", "glowing core", "compound eyes", "mutual understanding"],
+      "reference_images": []
+    },
+    {
+      "page": 20,
+      "description": "The adult departs back into the darkness, but Chitin stays behind. It settles beside Howen, a choice made.",
+      "caption": "Chitin doesn't follow. It chooses to stay with me. Its mother permits it. I have... a friend.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "belonging",
+      "visual_elements": ["departing adult", "Chitin staying", "choice moment", "new bond"],
+      "reference_images": []
+    },
+    {
+      "page": 21,
+      "description": "Time skip—Chitin has grown larger, now cat-sized. It helps tend the garden, turning soil with its mandibles. A partnership.",
+      "caption": "Weeks pass. Chitin grows. We work together now. A farmer needs helpers, even in a tomb.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "partnership",
+      "visual_elements": ["larger Chitin", "gardening together", "soil turning", "teamwork"],
+      "reference_images": []
+    },
+    {
+      "page": 22,
+      "description": "The garden has expanded dramatically. Organized sections—edible mushrooms, light mushrooms, and a careful patch of the volatile red ones.",
+      "caption": "The garden is thriving. I've learned which mushrooms feed, which light, and which... might be useful later.",
+      "characters": ["howen"],
+      "location": "mushroom_garden",
+      "mood": "accomplishment",
+      "visual_elements": ["organized garden sections", "variety of mushrooms", "careful cultivation", "planning"],
+      "reference_images": []
+    },
+    {
+      "page": 23,
+      "description": "Howen's POV looking toward the vault wall. Beyond it, she can sense... something. Fresh air? Open space? A way out.",
+      "caption": "I can feel something beyond that wall. Movement. Air. Life. The outside world.",
+      "characters": ["howen"],
+      "location": "vault",
+      "mood": "hope",
+      "visual_elements": ["vault wall", "sensing visualization", "hope lines", "distant goal"],
+      "reference_images": []
+    },
+    {
+      "page": 24,
+      "description": "Final panel—Howen beside Chitin, both looking at the same wall. The red boom mushrooms glow ominously in the background. A plan forming.",
+      "caption": "I have a garden. I have a friend. And I have those explosive mushrooms. It's time to start planning my escape.",
+      "characters": ["howen", "chitin"],
+      "location": "mushroom_garden",
+      "mood": "determination",
+      "visual_elements": ["Howen and Chitin together", "boom mushrooms in background", "wall target", "planning expression"],
+      "reference_images": []
+    }
+  ]
+}
