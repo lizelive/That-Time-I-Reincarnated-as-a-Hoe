@@ -1,0 +1,32 @@
+{
+  "character_id": "howen",
+  "name": "Howen Ashford",
+  "type": "persona_weapon",
+  "form": "sentient_hoe",
+  "visual_description": "An elegant farming hoe with a curved blade of dark metal inlaid with glowing blue archotech circuitry. The wooden handle is aged oak reinforced with plasteel bands, showing both ancient craftsmanship and advanced technology. A soft blue light pulses from the blade's core, varying in intensity with emotion.",
+  "reference_prompt": "A beautifully crafted farming hoe resting against ancient stone, its curved dark metal blade inlaid with intricate blue archotech circuit patterns that pulse with soft inner light. The aged oak handle shows master craftsmanship, reinforced with gleaming plasteel bands. Dust motes catch the ethereal blue glow emanating from the blade's core. Dramatic side lighting creates deep shadows highlighting the contrast between organic wood and technological metal. Style: Science fiction artifact photography with mystical undertones. Mood: Ancient, powerful, waiting.",
+  "key_visual_elements": [
+    "curved dark metal blade",
+    "blue archotech circuit patterns (glowing)",
+    "aged oak handle",
+    "plasteel reinforcement bands",
+    "pulsing blue core light",
+    "dust and age patina"
+  ],
+  "emotional_states": {
+    "calm": "steady, soft blue glow",
+    "excited": "bright, pulsing blue light",
+    "angry": "intense, flickering blue-white",
+    "sad": "dim, slow-pulsing blue",
+    "fearful": "dimmed, barely visible blue",
+    "determined": "strong, steady bright blue"
+  },
+  "pov_notes": "All scenes from Howen's perspective. She cannot see herself unless reflected or shown in another character's view. Her vision comes from the blade area, looking along the handle or outward.",
+  "origin": "Pre-collapse Earth farmer rip-scanned into persona weapon form",
+  "powers": [
+    "Plant growth acceleration",
+    "Psychic connection to vegetation",
+    "Soil sensing",
+    "Eventually: anima tree attunement for true psychic power"
+  ]
+}

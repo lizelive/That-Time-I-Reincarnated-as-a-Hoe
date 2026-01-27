@@ -1,0 +1,25 @@
+{
+  "image_id": "arc1_ch02_006",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 6,
+  "pov": "howen",
+  "prompt": "Multiple sets of tiny scratch marks converging on a single mushroom that has been partially eaten, its cap showing small mandible marks. The feeding pattern is deliberate, leaving the root system intact. Something has been farming from the farmer. The damaged mushroom still glows faintly, the feeding wounds visible in the purple light. Style: Evidence of life, feeding behavior documentation. Mood: Surprise, respect, intelligence recognized.",
+  "caption": "They had been eating. Carefully. Leaving enough to regrow.",
+  "narration": "Whatever they were, they understood cultivation. They took only what the garden could spare. That meant intelligence.",
+  "characters": [
+    "howen"
+  ],
+  "character_refs": [
+    "references/characters/howen.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "respect",
+  "technical_notes": ""
+}

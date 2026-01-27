@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch03_021",
+  "arc": 2,
+  "chapter": 3,
+  "chapter_title": "The Raid",
+  "page": 21,
+  "pov": "howen",
+  "prompt": "Pirates attack the caravan. Cora fights while I guide her strikes. Our first real combat together, blood on my blade. We earn our place. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Combat visualization. Mood: Violence's cost.",
+  "caption": "Chapter 3, Page 21",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "violence's cost",
+  "technical_notes": ""
+}

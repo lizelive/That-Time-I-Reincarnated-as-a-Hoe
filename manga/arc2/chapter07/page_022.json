@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch07_022",
+  "arc": 2,
+  "chapter": 7,
+  "chapter_title": "A Better Life",
+  "page": 22,
+  "pov": "howen",
+  "prompt": "We join the Empire. Hot food, clean water, medical care. After the vault and the rim, it feels like salvation. Even I dare to hope. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Joining visualization. Mood: New beginnings.",
+  "caption": "Chapter 7, Page 22",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "new beginnings",
+  "technical_notes": ""
+}

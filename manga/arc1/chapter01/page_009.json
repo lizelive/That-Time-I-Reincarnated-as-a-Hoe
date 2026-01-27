@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_009",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 9,
+  "pov": "howen",
+  "prompt": "The blue glow flickers wildly with emotional distress, the light source itself seeming to scream. From the wooden handle, small green roots begin to sprout—Howen's first unconscious use of her plant-growth power, triggered by trauma. The roots reach blindly, desperately, seeking something solid to anchor to. The surrounding darkness seems to pulse with her anguish. Wild blue light alternating with new green plant glow creates chaotic shadows as roots emerge. Style: Power awakening, emotional overflow visualization. Mood: Anguish, rage, loss of control.",
+  "caption": "What did they DO to me?!",
+  "narration": "Rage. Grief. Horror. They tore through me, and something ANSWERED.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["wildly flickering blue light", "roots sprouting from handle", "green plant glow", "chaotic shadows", "emotional distress visualization"],
+  "lighting": "Wild flickering blue mixed with emerging green plant-light, chaotic",
+  "mood": "anguish",
+  "technical_notes": "First power manifestation. Roots should look desperate, grasping. Light chaos reflects emotion."
+}

@@ -1,0 +1,55 @@
+{
+  "chapter_id": "arc1_ch02",
+  "arc": 1,
+  "arc_title": "Life in the Vault",
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "pov": "howen",
+  "total_pages": 24,
+  "summary": "With light comes growth. My mushroom garden expands, and I begin to understand this vault's ecosystem. But I am not alone\u2014something skitters in the darkness. Small, curious, hungry. The megascarab nymphs have noticed my garden.",
+  "themes": [
+    "Growth",
+    "Discovery",
+    "First contact",
+    "Building trust"
+  ],
+  "character_development": {
+    "howen": "Grows confident in her abilities. Begins to see her new form as a gift, not a curse. First attempt at communication with other beings."
+  },
+  "key_moments": [
+    "Garden expansion (1-4)",
+    "Discovering the nymphs (5-8)",
+    "First encounter with Chitin (9-12)",
+    "Feeding the nymphs (13-16)",
+    "Naming Chitin (17-20)",
+    "Mutual protection pact (21-24)"
+  ],
+  "page_files": [
+    "page_001.json",
+    "page_002.json",
+    "page_003.json",
+    "page_004.json",
+    "page_005.json",
+    "page_006.json",
+    "page_007.json",
+    "page_008.json",
+    "page_009.json",
+    "page_010.json",
+    "page_011.json",
+    "page_012.json",
+    "page_013.json",
+    "page_014.json",
+    "page_015.json",
+    "page_016.json",
+    "page_017.json",
+    "page_018.json",
+    "page_019.json",
+    "page_020.json",
+    "page_021.json",
+    "page_022.json",
+    "page_023.json",
+    "page_024.json"
+  ],
+  "next_chapter": "arc1/chapter03",
+  "previous_chapter": "arc1/chapter01"
+}

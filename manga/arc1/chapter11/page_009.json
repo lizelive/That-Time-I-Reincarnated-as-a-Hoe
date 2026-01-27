@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch11_009",
+  "arc": 1,
+  "chapter": 11,
+  "chapter_title": "Breaking Free",
+  "page": 9,
+  "pov": "howen",
+  "prompt": "Cora climbs toward a crack of natural light, Howen strapped to her back. The mushroom-lit vault falls away below them, purple glow fading as real daylight grows above. Stone and earth and roots pass as they ascend. The journey upward is difficult but filled with hope. Transition lighting from purple-blue below to warm amber above, the promise of sky. Style: Ascent sequence, emergence journey. Mood: Bittersweet, hopeful, forward motion.",
+  "caption": "Page 9 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "hopeful",
+  "technical_notes": ""
+}

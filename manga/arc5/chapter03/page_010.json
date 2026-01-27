@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch03_010",
+  "arc": 5,
+  "chapter": 3,
+  "chapter_title": "Unlearning the Trainers",
+  "page": 10,
+  "pov": "howen",
+  "prompt": "The neurotrainers taught shortcuts, but they also placed limits. The anima trees require us to unlearn, to reconnect with the true psychic field. It's painful but necessary. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: True growth.",
+  "caption": "Chapter 3, Page 10",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "captain_vex"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/captain_vex.json"
+  ],
+  "location": "anima_grove",
+  "location_refs": [
+    "references/locations/anima_grove.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "true",
+  "technical_notes": ""
+}

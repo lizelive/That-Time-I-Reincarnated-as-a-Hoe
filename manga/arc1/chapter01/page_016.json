@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_016",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 16,
+  "pov": "howen",
+  "prompt": "Back to the vault, but Howen's glow brightens with determination now. She focuses on her one remaining skill—growing things. The light intensifies with purpose, casting stronger shadows, illuminating more of the nearby surface. A plan begins to form. The darkness feels less oppressive, more like a canvas waiting to be filled. Brightening blue light with clear purpose, stronger shadows defining the space, determination visible in light intensity and stability. Style: Resolve moment, hope igniting. Mood: Hope, determination, the farmer's instinct.",
+  "caption": "If I grew things then... maybe I can grow things now.",
+  "narration": "I was a farmer. Whatever they had made me, that truth remained. And farmers make things grow.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["brightening blue glow", "purposeful light", "stronger shadows", "determination visualization", "darkness as canvas"],
+  "lighting": "Strong purposeful blue glow, clear illumination, hopeful brightness",
+  "mood": "hope",
+  "technical_notes": "Transition moment - light should feel like it has direction, purpose, reaching outward."
+}

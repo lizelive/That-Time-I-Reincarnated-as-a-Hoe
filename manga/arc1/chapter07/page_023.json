@@ -1,0 +1,31 @@
+{
+  "image_id": "arc1_ch07_023",
+  "arc": 1,
+  "chapter": 7,
+  "chapter_title": "Waking the Giant",
+  "page": 23,
+  "pov": "howen",
+  "prompt": "The Centipede mechanoid activates, red sensor lights blazing to life along its massive segmented body. Cora grips Howen tight as they run through the vault, purple mushroom light strobing as they pass. Behind them, the war machine unfolds its weapons. A Scorcher mechanoid joins the pursuit, heat shimmer visible around its flamethrower. Chaos of red warning lights, purple mushroom glow, and the blue flash of Howen's terrified light. Style: Action horror, pursuit sequence. Mood: Terror, urgency, survival.",
+  "caption": "Page 23 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "centipede",
+    "scorcher"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/centipede.json",
+    "references/characters/scorcher.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "terror",
+  "technical_notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_023",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 23,
+  "pov": "howen",
+  "prompt": "The mushroom garden continues to spread, purple light filling more of the vault. Howen's blue glow pulses with new purpose—bright, steady, determined. The combination of colors creates an otherworldly beauty in the ancient tomb. Life conquering death, light conquering darkness. Hope made manifest in fungal form. Spreading mushroom garden, purple and blue light combining, vault transformed into strange garden, purpose visible in light intensity. Style: Transformation scene, hope visualization. Mood: Determination, defiance, life asserting itself.",
+  "caption": "No. Not a thing. A survivor. And survivors don't give up.",
+  "narration": "I rejected the word 'thing.' I was Howen Ashford. Farmer. Survivor. And I would not stop until I was free.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["expanding mushroom garden", "blue and purple light combined", "vault as strange garden", "determined glow intensity", "life filling death space"],
+  "lighting": "Rich purple-blue combined glow, garden of light growing, shadows further retreated",
+  "mood": "determination",
+  "technical_notes": "Show the vault transforming - no longer just a tomb but becoming a garden. Hope made visible."
+}

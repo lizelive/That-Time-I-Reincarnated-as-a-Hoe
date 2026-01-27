@@ -1,0 +1,50 @@
+{
+  "chapter_id": "arc5_ch01",
+  "arc": 5,
+  "arc_title": "The Deserter's Path",
+  "chapter": 1,
+  "chapter_title": "Captain Vex",
+  "pov": "howen",
+  "total_pages": 24,
+  "summary": "The Deserters' leader\u2014Captain Vex, former Imperial officer with a burned face and burning eyes. She questions us, tests us, finally accepts us. She lost everything too.",
+  "themes": [
+    "New leadership",
+    "Shared purpose",
+    "Testing trust"
+  ],
+  "character_development": {
+    "howen": "Meeting Captain Vex, proving worth.",
+    "cora": "Becomes revolutionary leader."
+  },
+  "key_moments": [
+    "See summary for chapter 1"
+  ],
+  "page_files": [
+    "page_001.json",
+    "page_002.json",
+    "page_003.json",
+    "page_004.json",
+    "page_005.json",
+    "page_006.json",
+    "page_007.json",
+    "page_008.json",
+    "page_009.json",
+    "page_010.json",
+    "page_011.json",
+    "page_012.json",
+    "page_013.json",
+    "page_014.json",
+    "page_015.json",
+    "page_016.json",
+    "page_017.json",
+    "page_018.json",
+    "page_019.json",
+    "page_020.json",
+    "page_021.json",
+    "page_022.json",
+    "page_023.json",
+    "page_024.json"
+  ],
+  "next_chapter": "arc5/chapter02",
+  "previous_chapter": "arc4/chapter12"
+}

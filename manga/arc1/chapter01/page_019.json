@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_019",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 19,
+  "pov": "howen",
+  "prompt": "The first tiny mushroom emerges from the ancient dust—a small bioluminescent fungus casting faint purple light. It's barely the size of a fingertip, but it glows with life. Howen's first success, her first proof that she is still a farmer at heart. The purple light joins her blue, creating new color in the darkness. Single small bioluminescent mushroom glowing purple-violet, emerging from dust, new light source in the darkness, triumph in miniature. Style: First growth, life triumph, new light born. Mood: Triumph, joy, proof of self.",
+  "caption": "Yes! YES! A mushroom! I made something GROW!",
+  "narration": "Tiny. Glowing. Alive because I willed it so. In that moment, I knew—I was still a farmer. Nothing could take that from me.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["small bioluminescent mushroom", "purple-violet glow", "emerging from dust", "blue and purple light mixing", "new life in ancient tomb"],
+  "lighting": "Purple mushroom glow joining blue archotech light, new color in darkness",
+  "mood": "triumph",
+  "technical_notes": "Small but significant - this tiny mushroom represents everything. Purple-blue color mix."
+}

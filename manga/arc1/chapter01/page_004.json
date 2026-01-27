@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_004",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 4,
+  "pov": "howen",
+  "prompt": "Back to darkness, the warm memory torn away. The blue glow pulses erratically now, flickering with emotional distress—fast, uneven, panicked. The light expands and contracts as Howen tries to move but feels nothing, no limbs, no body, just existence without form. The pulse pattern visualizes panic: bright-dim-bright-dim in rapid succession. Surrounding darkness seems to press in closer. A single question mark shape seems to form in the flickering light pattern. Style: Abstract emotional visualization, existential horror. Mood: Panic, disorientation, loss of self.",
+  "caption": "But I can't feel them now. I can't feel anything. What happened to me?",
+  "narration": "I reached for my body and found void. No arms. No legs. No heartbeat. Just... awareness, floating in nothing.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["erratic pulsing blue light", "darkness pressing in", "no body visualization", "panic pulse pattern"],
+  "lighting": "Flickering blue light, erratic rhythm, emotional distress visualization",
+  "mood": "panic",
+  "technical_notes": "Show light instability through blur/pulse. Darkness should feel oppressive, closing in."
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch06_024",
+  "arc": 5,
+  "chapter": 6,
+  "chapter_title": "Making Them Pay",
+  "page": 24,
+  "pov": "howen",
+  "prompt": "We join Deserter raids against the Empire. Supply lines. Outposts. Recruiting missions that become rescue missions. Each victory is a debt repaid. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: Revolution.",
+  "caption": "Chapter 6, Page 24",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "captain_vex"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/captain_vex.json"
+  ],
+  "location": "deserter_base",
+  "location_refs": [
+    "references/locations/deserter_base.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "revolution",
+  "technical_notes": ""
+}

@@ -1,0 +1,21 @@
+{
+  "character_id": "centipede",
+  "name": "The Centipede",
+  "type": "mechanoid",
+  "visual_description": "A massive mechanoid war machine - a giant centipede-like construct of dark metal and glowing sensors. Multiple armored segments, each with weapon mounts. Red sensor lights glow along its length. Heavy charge blaster mounted on front segment. Moves on dozens of articulated metal legs.",
+  "reference_prompt": "A terrifying mechanoid centipede war machine fills the frame, its massive segmented body of dark gunmetal armor stretching into shadow. Dozens of articulated metal legs grip the ground, each joint precise and deadly. Red sensor lights glow along its length like malevolent eyes. A heavy charge blaster dominates its front segment, barrel still smoking. Harsh industrial lighting from above casts deep shadows between armor plates, while red warning lights reflect off its polished metal surfaces. Style: Military science fiction, mechanical horror. Mood: Overwhelming, unstoppable, alien menace.",
+  "key_visual_elements": [
+    "massive segmented metal body",
+    "dark gunmetal armor plating",
+    "dozens of articulated legs",
+    "red glowing sensor lights",
+    "heavy charge blaster (front)",
+    "each segment has weapon mounts"
+  ],
+  "states": {
+    "dormant": "dark sensors, legs folded, still",
+    "awakening": "red lights flickering on, legs twitching",
+    "active": "bright red sensors, weapon tracking, legs moving",
+    "combat": "weapons firing, full speed movement, terrifying"
+  }
+}

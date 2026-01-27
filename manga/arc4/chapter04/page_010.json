@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch04_010",
+  "arc": 4,
+  "chapter": 4,
+  "chapter_title": "Preparing to Fight",
+  "page": 10,
+  "pov": "howen",
+  "prompt": "The tribe won't abandon their home. They arm themselves with primitive weapons and ancient courage. Cora trains them as best she can. I grow defensive mushrooms. Defiance theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Last stand prep.",
+  "caption": "Chapter 4, Page 10",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_village",
+  "location_refs": [
+    "references/locations/barleybloom_village.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "last",
+  "technical_notes": ""
+}

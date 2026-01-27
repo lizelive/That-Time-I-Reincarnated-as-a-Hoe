@@ -1,0 +1,25 @@
+{
+  "image_id": "arc1_ch02_005",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 5,
+  "pov": "howen",
+  "prompt": "Small scratch marks visible in the dust near the edge of the mushroom garden, leading away into darkness. The marks are too small to be the Centipede, too regular to be random\u2014something has been visiting. The mushroom light catches the grooves in the dust, highlighting the mysterious trail. Purple light from the garden catches the edges of the scratch marks, making them visible against the ancient dust. Style: Mystery clue, tracking detail. Mood: Curiosity, intrigue, something new.",
+  "caption": "Something had been here. Something small.",
+  "narration": "I found the marks one cycle\u2014scratch lines in the dust, circling my garden's edge. Watching. Curious. Or hungry.",
+  "characters": [
+    "howen"
+  ],
+  "character_refs": [
+    "references/characters/howen.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "curiosity",
+  "technical_notes": ""
+}

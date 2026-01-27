@@ -1,0 +1,22 @@
+{
+  "location_id": "barleybloom_burning",
+  "name": "Barleybloom Village (Burning)",
+  "type": "destroyed_settlement",
+  "visual_description": "The once-peaceful village consumed by Imperial attack. Buildings ablaze, smoke filling the sky. Bodies of villagers. Imperial soldiers executing survivors. The anima tree burns, its psychic death scream felt rather than heard. Utter devastation.",
+  "reference_prompt": "The once-peaceful village burns in the night, flames consuming thatched roofs and wooden walls while thick smoke chokes the amber-tinted sky. Imperial soldiers in polished armor move methodically through the destruction, weapons raised. Bodies of villagers lie where they fell. At the village center, the ancient anima tree blazes like a torch, its burning sending waves of psychic anguish through the air visible as distortion ripples. The ring of anima grass has been trampled and scorched black. Firelight casts everything in hellish orange and red, smoke creating shifting shadows that obscure the full horror. Style: War photography, atrocity documentation aesthetic. Mood: Horrific, devastating, rage-inducing, pivotal.",
+  "key_visual_elements": [
+    "buildings engulfed in flames",
+    "thick smoke obscuring sky",
+    "Imperial soldiers (armored)",
+    "bodies of villagers",
+    "anima tree burning",
+    "psychic distortion visible",
+    "trampled anima grass (black)",
+    "hellish orange-red lighting"
+  ],
+  "lighting": {
+    "primary": "raging firelight (orange-red)",
+    "secondary": "smoke-filtered moonlight",
+    "psychic": "distortion ripples around dying tree"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_024",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 24,
+  "pov": "howen",
+  "prompt": "Final panel\u2014Howen's POV looking over her domain: the glowing mushroom garden spreading across the vault floor, Chitin resting contentedly nearby, other nymphs visible at the garden's edges. A community has formed. Life persists. Wide shot of the garden sanctuary with its varied inhabitants, purple and blue light mixing, peace in the darkness. Style: Sanctuary established, community portrait. Mood: Hope, accomplishment, the family grows.",
+  "caption": "My garden. My friend. My family. Small as it was, it was mine.",
+  "narration": "I came to this darkness alone. But I was not alone anymore. And that made all the difference.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "hope",
+  "technical_notes": ""
+}

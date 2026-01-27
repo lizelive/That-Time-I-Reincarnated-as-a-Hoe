@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_018",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 18,
+  "pov": "howen",
+  "prompt": "Howen pulses her light in a specific pattern\u2014three short, one long\u2014and the nymph's antennae perk up, responding. The pattern repeats, and the nymph seems to understand it is being addressed directly. Communication through light-morse. Blue light pulses in deliberate pattern, the nymph's posture shifting to attention as it recognizes being named. Style: Naming ceremony, light-language. Mood: Solemn, significant, identity granted.",
+  "caption": "Chitin. I will call you Chitin.",
+  "narration": "The name came from what it was\u2014chitin, the substance of its shell. Simple. True. A good name for a good friend.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "significance",
+  "technical_notes": ""
+}

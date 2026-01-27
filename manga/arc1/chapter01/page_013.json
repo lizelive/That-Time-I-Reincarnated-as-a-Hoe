@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_013",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 13,
+  "pov": "howen",
+  "prompt": "Howen's blue glow dims instinctively, pulling back, trying to hide—a prey response to a predator. The mechanoid doesn't stir, its sensors remaining dark. Relief mixes with continued fear as the massive shape stays dormant. The darkness feels protective now. Blue light reduced to minimum, the vast mechanoid shape still and silent, darkness wrapping around like a protective blanket. Style: Hiding behavior, survival instinct. Mood: Fear, relief, caution.",
+  "caption": "It's not moving. Sleeping? Dormant? I need to be quiet.",
+  "narration": "I dimmed myself without knowing how. Instinct. The prey response to something that could destroy you without effort.",
+  "characters": ["howen", "centipede"],
+  "character_refs": ["references/characters/howen.json", "references/characters/centipede.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["dimmed blue glow", "dormant mechanoid shape", "darkness as protection", "stillness", "relief in darkness"],
+  "lighting": "Minimal blue glow, barely visible, mechanoid lost in shadows",
+  "mood": "fear",
+  "technical_notes": "Show Howen deliberately hiding her light. The predator-prey dynamic."
+}

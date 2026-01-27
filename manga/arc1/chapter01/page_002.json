@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_002",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 2,
+  "pov": "howen",
+  "prompt": "The blue glow expands slightly, its light now catching the edge of dark metal surfaces nearby—hints of archotech circuitry patterns visible in the illumination. The patterns are geometric, alien, beautiful in their precision. Dust motes drift lazily through the expanding light. The perspective feels disoriented, fragmented, as if the viewer is seeing for the first time and doesn't yet understand what sight means. Soft blue light creates gentle gradients on the metal surface, revealing texture of ancient technology. Style: Close-up technology detail, awakening consciousness aesthetic. Mood: Confusion, discovery, the world taking shape.",
+  "caption": "Where... where am I?",
+  "narration": "Then light. My light, I realized—though I didn't know what 'I' meant anymore.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["expanding blue glow", "archotech circuit patterns", "dark metal surface", "dust motes", "fragmented perspective"],
+  "lighting": "Expanding blue point source revealing nearby metal surfaces, soft gradients",
+  "mood": "confusion",
+  "technical_notes": "Show circuitry patterns emerging from darkness. Sense of POV being uncertain, wobbly."
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_010",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 10,
+  "pov": "howen",
+  "prompt": "Howen deliberately brightens her blue glow in a slow pulse\u2014not threatening, but communicating. A greeting of light. The nymph's antennae wave in response, sensing the change. Its body relaxes slightly, mandibles unclenching. First communication attempt. Blue light pulses in deliberate rhythm, the nymph's body language shifting from fear to curiosity as it responds to the pattern. Style: Communication attempt, light language. Mood: Hope, reaching out, connection forming.",
+  "caption": "Hello, little one.",
+  "narration": "I had no voice. But I had light. And so I spoke the only way I could\u2014in pulses, in brightening, in the language of the living glow.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "hope",
+  "technical_notes": ""
+}

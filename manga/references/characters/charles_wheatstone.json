@@ -1,0 +1,21 @@
+{
+  "character_id": "charles_wheatstone",
+  "name": "Charles Wheatstone",
+  "type": "ai",
+  "visual_description": "An archotech AI that manifests through electronic interfaces. When visible, appears as shifting geometric patterns in blue and gold, sometimes coalescing into a suggestion of a kindly face. In screens, appears as flowing text and wireframe imagery. Presence indicated by flickering lights and humming electronics.",
+  "reference_prompt": "A holographic manifestation of an ancient AI hovers above a damaged terminal, its form composed of shifting geometric patterns in deep blue and warm gold. The patterns occasionally coalesce into the suggestion of a kindly face—abstract but somehow gentle. Glowing wireframe lines trace complex algorithms in the air around it, while nearby screens flicker with cascading text. The presence seems both impossibly ancient and genuinely caring. Soft blue-gold light emanates from the manifestation itself, creating its own ethereal illumination that pulses like a heartbeat. Style: Abstract AI visualization, archotech aesthetic. Mood: Ancient, benevolent, digital guardian.",
+  "key_visual_elements": [
+    "shifting geometric patterns",
+    "blue and gold color palette",
+    "suggestion of kindly face",
+    "wireframe elements",
+    "cascading text on screens",
+    "causes electronics to flicker"
+  ],
+  "manifestation_types": {
+    "terminal": "Text and simple graphics on screen",
+    "holographic": "Full geometric projection",
+    "ambient": "Flickering lights, humming electronics"
+  },
+  "origin": "Pre-collapse archotech AI, knew Howen before she was rip-scanned, searching for her ever since"
+}

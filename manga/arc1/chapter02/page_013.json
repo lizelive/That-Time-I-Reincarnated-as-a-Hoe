@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_013",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 13,
+  "pov": "howen",
+  "prompt": "More nymphs emerge from the darkness, emboldened by the first one's success. Four, five, six pale forms enter the mushroom garden, their compound eyes bright with hunger and hope. The first nymph\u2014the one with the lightning mark\u2014positions itself between Howen and the newcomers, as if introducing them. Multiple nymphs in the purple glow, arranged in a loose cluster, the lightning-marked one nearest to Howen. Style: Family arrival, introduction scene. Mood: Growing community, trust spreading.",
+  "caption": "The brave one brought its siblings. Or its colony. Family, either way.",
+  "narration": "One became many. They trusted the lightning-marked one, and it trusted me. Trust can spread like spores in the right conditions.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "community",
+  "technical_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch10_005",
+  "arc": 4,
+  "chapter": 10,
+  "chapter_title": "Following the Rumors",
+  "page": 5,
+  "pov": "howen",
+  "prompt": "Survivors speak of others who fight the Empire\u2014the Deserters. Former soldiers who saw the truth. They hide in the mountains. We must find them. New direction theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Search begins.",
+  "caption": "Chapter 10, Page 5",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "search",
+  "technical_notes": ""
+}

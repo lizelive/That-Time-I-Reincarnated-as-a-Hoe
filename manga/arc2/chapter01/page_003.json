@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch01_003",
+  "arc": 2,
+  "chapter": 1,
+  "chapter_title": "First Steps",
+  "page": 3,
+  "pov": "howen",
+  "prompt": "The rimworld is harsh but beautiful. Cora and I learn to survive together\u2014hunting, foraging, making camp. I discover my powers work on all plants, not just mushrooms. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Survival visualization. Mood: Discovery.",
+  "caption": "Chapter 1, Page 3",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "discovery",
+  "technical_notes": ""
+}

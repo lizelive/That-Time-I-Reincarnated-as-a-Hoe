@@ -1,0 +1,23 @@
+{
+  "location_id": "imperial_city",
+  "name": "Imperial Stellarchy City",
+  "type": "settlement",
+  "faction": "empire",
+  "visual_description": "A gleaming city of the Shattered Empire. Clean streets, ornate architecture mixing classical columns with high technology. Citizens in fine clothing. Soldiers in polished power armor. Holographic displays and propaganda. Hover vehicles. Hidden surveillance everywhere. Beautiful but oppressive.",
+  "reference_prompt": "A gleaming Imperial city rises in ordered splendor, its architecture an imposing blend of classical columns and advanced technology. Clean streets of polished stone stretch between buildings of white marble faced with holographic displays showing Imperial propaganda. Citizens in fine layered clothing walk past soldiers in polished power armor who stand at attention. Hover vehicles glide silently overhead while automated drones monitor from above. The beauty feels oppressive, too perfect, too controlled. Warm afternoon light reflects off the polished surfaces, while shadows seem deliberately absent from the main thoroughfares. Style: Authoritarian utopia, Imperial science fiction aesthetic. Mood: Beautiful, oppressive, watched, false perfection.",
+  "key_visual_elements": [
+    "classical columns with high-tech elements",
+    "white marble and polished metal",
+    "holographic propaganda displays",
+    "citizens in fine clothing",
+    "soldiers in polished power armor",
+    "hover vehicles",
+    "surveillance drones",
+    "too clean, too perfect"
+  ],
+  "lighting": {
+    "day": "bright, shadowless (engineered)",
+    "night": "soft ambient lighting, no darkness",
+    "artificial": "holographic blue and gold"
+  }
+}

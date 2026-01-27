@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_022",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 22,
+  "pov": "howen",
+  "prompt": "Close-up of Howen's form fully revealed in the mushroom light—a beautifully crafted farming hoe lying on a dusty shelf. The wooden handle shows centuries of age but remains solid. Plasteel reinforcement bands gleam. The curved blade bears intricate archotech circuitry that pulses with steady blue light—her consciousness made visible. She is beautiful in a way, despite being a tool. Detailed close-up of Howen as hoe, archotech circuitry glowing blue, aged wood grain visible, plasteel reflecting purple light, dust around, shelf beneath. Style: Character portrait, identity reveal. Mood: Acceptance, strange beauty, this is what I am.",
+  "caption": "And this is what I am now. A hoe. A farming tool. A thing.",
+  "narration": "I looked at myself for the first time. A hoe. Centuries old. Beautiful, in its way. And alive with something that had once been human.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["howen full view as hoe", "archotech circuitry detail", "aged wood grain", "plasteel bands", "blue core glow", "dusty shelf", "mushroom light on surface"],
+  "lighting": "Purple mushroom light from below, blue archotech glow from within, detail-revealing illumination",
+  "mood": "acceptance",
+  "technical_notes": "Character portrait of Howen. Show her as beautiful despite being a tool. The circuitry is her soul made visible."
+}

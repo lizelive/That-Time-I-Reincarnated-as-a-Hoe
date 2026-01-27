@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch09_002",
+  "arc": 2,
+  "chapter": 9,
+  "chapter_title": "Brothers and Sisters",
+  "page": 2,
+  "pov": "howen",
+  "prompt": "Cora makes friends in the auxiliary\u2014fellow soldiers who accept her and her strange weapon. Community forms around us once more. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Friendship visualization. Mood: Military bonds.",
+  "caption": "Chapter 9, Page 2",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "military bonds",
+  "technical_notes": ""
+}

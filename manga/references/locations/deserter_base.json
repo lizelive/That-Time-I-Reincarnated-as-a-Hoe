@@ -1,0 +1,23 @@
+{
+  "location_id": "deserter_base",
+  "name": "Deserter Hidden Base",
+  "type": "military_camp",
+  "faction": "deserters",
+  "visual_description": "A hidden military encampment in rough terrain, built from salvaged Imperial equipment and natural camouflage. Tents and prefab shelters tucked into rocky overhangs. Modified vehicles under camo netting. Training grounds. An intact anima tree nearby—their secret weapon. Defiant atmosphere.",
+  "reference_prompt": "A hidden military encampment spreads through a rocky canyon, camouflaged from above by netting and natural overhangs. Salvaged Imperial equipment sits alongside jury-rigged defenses—modified vehicles, repurposed weapons, improvised armor. Tents and prefab shelters cluster in protected alcoves where Deserter soldiers train and plan. Spray-painted symbols of defiance mark every surface. In a protected grotto nearby, an intact anima tree glows with soft psychic light, carefully hidden and reverently tended. The whole base speaks of desperate determination and righteous fury. Harsh daylight filters through the camo netting, creating dappled patterns of light and shadow across the military gear. Style: Guerrilla military camp, resistance aesthetic. Mood: Defiant, desperate, determined, vengeful.",
+  "key_visual_elements": [
+    "rocky canyon setting",
+    "camo netting overhead",
+    "salvaged Imperial equipment",
+    "modified vehicles",
+    "tents and prefab shelters",
+    "Deserter symbols (spray-painted)",
+    "training grounds",
+    "anima tree in hidden grotto"
+  ],
+  "lighting": {
+    "day": "dappled through camo netting",
+    "night": "minimal (light discipline)",
+    "anima": "soft glow from hidden grove"
+  }
+}

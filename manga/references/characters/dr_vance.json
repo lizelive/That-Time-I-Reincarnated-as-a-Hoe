@@ -1,0 +1,18 @@
+{
+  "character_id": "dr_vance",
+  "name": "Dr. Helena Vance",
+  "type": "human",
+  "age_range": "fifties",
+  "visual_description": "A cold, calculating woman in her fifties with silver hair pulled back severely. Pale skin that rarely sees sunlight, sharp features, and eyes that view people as subjects. Wears pristine white Imperial researcher robes over a sterile gray bodysuit. Bionic eye implant on left side glows faint blue.",
+  "reference_prompt": "A coldly beautiful woman in her fifties stands in a sterile laboratory, her silver hair pulled back in a severe style that emphasizes her sharp, calculating features. Pale skin that rarely sees natural light gives her an almost spectral quality. Her left eye has been replaced with a bionic implant that glows faint blue, constantly recording. She wears pristine white Imperial researcher robes that fall to her ankles, concealing a gray bodysuit beneath. Her expression holds clinical detachment, viewing the world as a series of experiments. Cold clinical lighting from above creates harsh shadows under her cheekbones and reflects off her bionic eye. Style: Scientific horror portrait, clinical aesthetic. Mood: Cold, calculating, inhuman.",
+  "key_visual_elements": [
+    "silver hair pulled back severely",
+    "pale almost spectral skin",
+    "sharp calculating features",
+    "bionic eye implant (left, blue glow)",
+    "pristine white researcher robes",
+    "clinical detachment in expression"
+  ],
+  "origin": "Imperial researcher who performed the rip-scan on Howen",
+  "threat_level": "primary antagonist"
+}

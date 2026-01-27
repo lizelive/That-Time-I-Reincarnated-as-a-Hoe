@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_001",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 1,
+  "pov": "howen",
+  "prompt": "Complete darkness fills the frame, absolute and total, broken only by a single point of faint blue light emerging in the center like a distant star being born. Microscopic dust particles catch this ethereal glow, suspended in stillness around the awakening point of consciousness. The blue light pulses weakly, uncertain, as if testing its own existence. No other detail visible—only the infinite black and this fragile spark of awareness. Style: Minimalist science fiction, consciousness visualization. Mood: Primordial, uncertain, the first moment of being.",
+  "caption": "...darkness.",
+  "narration": "The first thing I remember is nothing. An absence so complete it had weight.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["complete darkness", "single blue light point", "dust particles caught in glow", "sense of vast emptiness"],
+  "lighting": "Single point source blue light, minimal illumination, surrounded by absolute darkness",
+  "mood": "mysterious",
+  "technical_notes": "Extremely dark image with high contrast single light source. Blue should be archotech circuit blue (#4A90D9)."
+}

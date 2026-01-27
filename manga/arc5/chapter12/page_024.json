@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch12_024",
+  "arc": 5,
+  "chapter": 12,
+  "chapter_title": "Going Home",
+  "page": 24,
+  "pov": "howen",
+  "prompt": "The ship launches. Cora and I watch the rimworld shrink below us. Chitin\u2014somehow alive, somehow present\u2014clicks beside us. Wheatstone guides us toward the stars. Toward home. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: Hope for future.",
+  "caption": "Chapter 12, Page 24",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "hope",
+  "technical_notes": ""
+}

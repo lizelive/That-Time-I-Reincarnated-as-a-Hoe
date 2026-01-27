@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch08_004",
+  "arc": 4,
+  "chapter": 8,
+  "chapter_title": "Ashes and Survivors",
+  "page": 4,
+  "pov": "howen",
+  "prompt": "The valley is ash. Most of the tribe is dead. A handful of survivors huddle together, including Cora and me. The Empire did this. Because of us. Aftermath theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Survivors' burden.",
+  "caption": "Chapter 8, Page 4",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_burning",
+  "location_refs": [
+    "references/locations/barleybloom_burning.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "survivors'",
+  "technical_notes": ""
+}

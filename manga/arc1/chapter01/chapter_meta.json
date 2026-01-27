@@ -1,0 +1,41 @@
+{
+  "chapter_id": "arc1_ch01",
+  "arc": 1,
+  "arc_title": "Life in the Vault",
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "pov": "howen",
+  "total_pages": 24,
+  "summary": "I wake in absolute darkness with no body, no memory of how I got here—only fragments of a life as a farmer named Howen Ashford. I discover I exist within a farming hoe, trapped in an ancient vault with dormant dangers. Using my innate connection to growing things, I create bioluminescent mushrooms, bringing light to my prison and taking my first steps toward escape.",
+  "themes": [
+    "Identity crisis",
+    "Survival instinct",
+    "Finding purpose in adversity",
+    "The farmer's connection to life"
+  ],
+  "character_development": {
+    "howen": "From confusion and despair to acceptance and determination. Discovers her power to grow things persists despite her transformation."
+  },
+  "key_moments": [
+    "First consciousness (page 1-2)",
+    "Memory of human life (page 3)",
+    "Realization of tool form (page 6-7)",
+    "Trauma flash (page 8)",
+    "First power manifestation (page 9)",
+    "Discovery of spores (page 17)",
+    "First mushroom grows (page 19)",
+    "Full vault revealed (page 21)",
+    "Self-acceptance (page 22-23)",
+    "Goal established (page 24)"
+  ],
+  "page_files": [
+    "page_001.json", "page_002.json", "page_003.json", "page_004.json",
+    "page_005.json", "page_006.json", "page_007.json", "page_008.json",
+    "page_009.json", "page_010.json", "page_011.json", "page_012.json",
+    "page_013.json", "page_014.json", "page_015.json", "page_016.json",
+    "page_017.json", "page_018.json", "page_019.json", "page_020.json",
+    "page_021.json", "page_022.json", "page_023.json", "page_024.json"
+  ],
+  "next_chapter": "arc1/chapter02",
+  "previous_chapter": null
+}

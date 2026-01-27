@@ -1,0 +1,29 @@
+{
+  "image_id": "arc1_ch08_012",
+  "arc": 1,
+  "chapter": 8,
+  "chapter_title": "Through Fire and Fungus",
+  "page": 12,
+  "pov": "howen",
+  "prompt": "Boom mushrooms detonate in a chain reaction as the Scorcher's flames trigger them. The explosion is massive\u2014orange fire meeting red spore clouds in a cataclysmic blast. Cora shields herself with Howen as debris and heat wash over them. The Scorcher staggers, damaged by its own element turned against it. Apocalyptic orange and red lighting, explosion illuminating the vault in chaos. Style: Explosion sequence, action climax. Mood: Desperate, explosive, triumphant.",
+  "caption": "Page 12 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "scorcher"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/scorcher.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "explosive",
+  "technical_notes": ""
+}
