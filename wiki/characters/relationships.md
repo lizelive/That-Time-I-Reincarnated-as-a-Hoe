@@ -10,18 +10,18 @@ This page maps the complex web of relationships between all characters in **The 
 
 ```mermaid
 flowchart TB
+    subgraph Protagonists["PROTAGONISTS"]
+        Howen["🪓 HOWEN (Persona Hoe)"]
+        Cora["CORA (Wielder)"]
+        Howen <-->|bound by trust| Cora
+    end
+
     subgraph Empire["THE EMPIRE"]
         Malachai["Lord-Executor Malachai"]
         Krell["High Janissary Krell"]
         Vance["Dr. Elara Vance"]
         Malachai -->|commands| Krell
         Vance -->|created| Howen
-    end
-
-    subgraph Protagonists["PROTAGONISTS"]
-        Howen["🪓 HOWEN (Persona Hoe)"]
-        Cora["CORA (Wielder)"]
-        Howen <-->|bound by trust| Cora
     end
 
     subgraph Allies["ALLIES"]
