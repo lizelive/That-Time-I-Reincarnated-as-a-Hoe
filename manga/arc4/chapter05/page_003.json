@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch05_003",
+  "arc": 4,
+  "chapter": 5,
+  "chapter_title": "The Night Before",
+  "page": 3,
+  "pov": "howen",
+  "prompt": "A feast before battle. Stories and songs around the fire. The anima tree pulses with gathered emotion. For one night, we are simply family. Calm before storm theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Final peace.",
+  "caption": "Chapter 5, Page 3",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_village",
+  "location_refs": [
+    "references/locations/barleybloom_village.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "final",
+  "technical_notes": ""
+}

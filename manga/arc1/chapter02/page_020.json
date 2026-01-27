@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_020",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 20,
+  "pov": "howen",
+  "prompt": "Chitin presses itself against Howen's shelf, as close as it can get to the hoe without touching\u2014a gesture of affection and trust. Howen's blue glow brightens warmly in response. Two outcasts in the dark, neither alone anymore. Intimate close-up of Chitin's carapace near Howen's wooden handle, warmth visible in the shared glow. Style: Affection display, companionship portrait. Mood: Warmth, belonging, found family.",
+  "caption": "We had each other now. Tool and insect against the dark.",
+  "narration": "Strange family. But then, what family isn't strange from the outside? What matters is that it works.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "belonging",
+  "technical_notes": ""
+}

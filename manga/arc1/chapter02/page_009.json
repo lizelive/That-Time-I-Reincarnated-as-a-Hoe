@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_009",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 9,
+  "pov": "howen",
+  "prompt": "The megascarab nymph freezes as it notices Howen's blue glow pulsing\u2014they are aware of each other now. The nymph's compound eyes are fixed on the hoe, its mandibles twitching uncertainly. Neither moves. The moment of mutual recognition stretches. Blue archotech light and purple mushroom glow mix, both reflected in the nymph's compound eyes as it stares at Howen. Style: Mutual recognition, frozen moment. Mood: Breathless tension, potential, understanding forming.",
+  "caption": "It saw me. Really SAW me.",
+  "narration": "We stared at each other\u2014the farmer-become-tool and the insect child. Two lost things in the dark, trying to survive.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "recognition",
+  "technical_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc3_ch11_010",
+  "arc": 3,
+  "chapter": 11,
+  "chapter_title": "Running for the Mountains",
+  "page": 10,
+  "pov": "howen",
+  "prompt": "Through forests and fields, we flee. The Janissaries are relentless, their psycasts reaching for our minds. But we have each other, and we will not stop. Imperial setting growing darker, trust eroding. Howen's POV witnessing the cracks in paradise. Style: Thriller unfolding. Mood: Chase.",
+  "caption": "Chapter 11, Page 10",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "chase",
+  "technical_notes": ""
+}

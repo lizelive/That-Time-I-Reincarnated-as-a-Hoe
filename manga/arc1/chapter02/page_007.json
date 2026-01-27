@@ -1,0 +1,25 @@
+{
+  "image_id": "arc1_ch02_007",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 7,
+  "pov": "howen",
+  "prompt": "Howen's POV staring intently into the darkness beyond the garden's edge, where faint movement can be detected\u2014multiple small shapes shifting in the shadow, the barest glint of compound eyes catching the light before withdrawing. The watchers have been watching back. Dim purple light reaches into darkness, catching brief reflections from multiple pairs of compound eyes before they retreat. Style: Predator/prey reversal, mutual observation. Mood: Tension, mutual awareness, first contact approaching.",
+  "caption": "I watched the darkness. The darkness watched back.",
+  "narration": "Eyes. Many eyes. Compound eyes that caught my light and retreated. They were afraid of me\u2014as I had been afraid of the Centipede.",
+  "characters": [
+    "howen"
+  ],
+  "character_refs": [
+    "references/characters/howen.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "tension",
+  "technical_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch02_005",
+  "arc": 2,
+  "chapter": 2,
+  "chapter_title": "Trader's Road",
+  "page": 5,
+  "pov": "howen",
+  "prompt": "We encounter our first humans\u2014a trader caravan. Strange looks at the talking hoe, but they have food and news. The Empire is expanding. War is coming. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Commerce visualization. Mood: Outsider status.",
+  "caption": "Chapter 2, Page 5",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "outsider status",
+  "technical_notes": ""
+}

@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_023",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 23,
+  "pov": "howen",
+  "prompt": "The danger passed, Chitin relaxes and returns to Howen's side. But both remain alert, watching. The garden is a sanctuary now, but sanctuaries must be defended. Chitin settled near Howen but still watchful, the garden peaceful but vigilant. Style: Post-danger calm, continued vigilance. Mood: Relief, vigilance, partnership confirmed.",
+  "caption": "We survived. Together.",
+  "narration": "Not every threat can be faced alone. I had tried solitude; it nearly broke me. Chitin showed me another way.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "partnership",
+  "technical_notes": ""
+}

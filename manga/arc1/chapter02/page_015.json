@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_015",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 15,
+  "pov": "howen",
+  "prompt": "The nymphs feed contentedly throughout the garden, no longer afraid, moving freely through the purple light. The lightning-marked one rests near Howen, not eating, just present. Companionship forming. The garden has become a shared space, a community. Multiple nymphs scattered through the mushroom garden feeding, with the lightning-marked one resting peacefully near Howen's shelf. Style: Community meal, shared space. Mood: Peace, contentment, belonging forming.",
+  "caption": "They stopped being afraid. I stopped being alone.",
+  "narration": "Company. After so long in solitary darkness, I had company. Small, strange, chitinous company\u2014but company nonetheless.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "contentment",
+  "technical_notes": ""
+}

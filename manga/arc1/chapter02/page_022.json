@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_022",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 22,
+  "pov": "howen",
+  "prompt": "Howen's light blazes bright in warning, adding her voice to Chitin's threat display. The noise in the darkness stops\u2014something has thought better of approaching. The garden is defended by light and chitin both. Combined blue and purple glow intensifies, creating a wall of light against the threatening darkness. Style: Defensive display, territory marking. Mood: Defiant, united, stronger together.",
+  "caption": "And I would burn for it. My light became our weapon.",
+  "narration": "Together we were more than either alone. The farmer and the beetle, united against the monsters in the dark.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "defiance",
+  "technical_notes": ""
+}

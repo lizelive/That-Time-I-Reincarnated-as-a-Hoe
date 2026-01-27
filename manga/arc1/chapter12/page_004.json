@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch12_004",
+  "arc": 1,
+  "chapter": 12,
+  "chapter_title": "The World Above",
+  "page": 4,
+  "pov": "howen",
+  "prompt": "Cora emerges from the earth into brilliant amber-tinted sunlight, holding Howen up to see the sky. The rimworld stretches to the horizon\u2014rugged terrain, alien vegetation, two small moons visible even in daylight. Howen's blue light pulses with wonder as she sees sky for the first time in her new existence. Golden hour sunlight pours over them, the vast landscape spread below, hope and danger in equal measure. Style: Emergence triumph, landscape reveal. Mood: Wonder, freedom, vastness.",
+  "caption": "Page 4 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "wonder",
+  "technical_notes": ""
+}

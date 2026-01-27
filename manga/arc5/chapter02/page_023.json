@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch02_023",
+  "arc": 5,
+  "chapter": 2,
+  "chapter_title": "The Anima Grove",
+  "page": 23,
+  "pov": "howen",
+  "prompt": "The Deserters guard a hidden grove with multiple anima trees. They take us there, and I feel the psychic resonance like coming home. True power awaits. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: Hope restored.",
+  "caption": "Chapter 2, Page 23",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "captain_vex"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/captain_vex.json"
+  ],
+  "location": "anima_grove",
+  "location_refs": [
+    "references/locations/anima_grove.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "hope",
+  "technical_notes": ""
+}

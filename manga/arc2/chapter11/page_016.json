@@ -1,0 +1,27 @@
+{
+  "image_id": "arc2_ch11_016",
+  "arc": 2,
+  "chapter": 11,
+  "chapter_title": "Rising Stars",
+  "page": 16,
+  "pov": "howen",
+  "prompt": "Our victories earn recognition. Promotions, better quarters, respect. The Empire rewards its useful tools. We are very useful. POV from Howen. Golden rimworld light mixes with Imperial technology. Style: Success visualization. Mood: Pride.",
+  "caption": "Chapter 11, Page 16",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "pride",
+  "technical_notes": ""
+}

@@ -1,0 +1,25 @@
+{
+  "image_id": "arc1_ch02_003",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 3,
+  "pov": "howen",
+  "prompt": "A dangerous-looking mushroom with a swollen red cap sits isolated from the others, surrounded by a careful ring of smaller mushrooms keeping distance. The red cap pulses with an ominous internal glow, its surface textured like taut skin about to burst. Other mushrooms lean away from it. Red warning glow from the dangerous mushroom contrasts with the safe purple glow of the surrounding garden. Style: Warning coloration, natural danger. Mood: Caution, respect for power, dangerous potential.",
+  "caption": "The Boompuffs could blow a hole through steel when they burst. I kept them far from the Centipede. Far from everything.",
+  "narration": "Some tools are too dangerous for careless hands. But a farmer learns which plants heal and which ones kill\u2014and when each is needed.",
+  "characters": [
+    "howen"
+  ],
+  "character_refs": [
+    "references/characters/howen.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "caution",
+  "technical_notes": ""
+}

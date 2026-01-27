@@ -1,0 +1,27 @@
+{
+  "image_id": "arc3_ch12_001",
+  "arc": 3,
+  "chapter": 12,
+  "chapter_title": "Finding Barleybloom",
+  "page": 1,
+  "pov": "howen",
+  "prompt": "We reach the valley. It's real\u2014golden barley fields, thatched roofs, an anima tree glowing at the heart of the village. Cora weeps. She's come home. Imperial setting growing darker, trust eroding. Howen's POV witnessing the cracks in paradise. Style: Thriller unfolding. Mood: Arrival.",
+  "caption": "Chapter 12, Page 1",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_village",
+  "location_refs": [
+    "references/locations/barleybloom_village.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "arrival",
+  "technical_notes": ""
+}

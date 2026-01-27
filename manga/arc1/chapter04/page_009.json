@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch04_009",
+  "arc": 1,
+  "chapter": 4,
+  "chapter_title": "The First Voice",
+  "page": 9,
+  "pov": "howen",
+  "prompt": "Howen senses vibrations through the vault, the first sign of external life. Chitin presses against her, sensing her excitement. The mushroom garden pulses with her emotion, light patterns shifting. Beyond the ancient walls, something is coming. Style: Anticipation building, sensing beyond. Mood: Hope, fear, preparation.",
+  "caption": "Page 9 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "anticipation",
+  "technical_notes": ""
+}

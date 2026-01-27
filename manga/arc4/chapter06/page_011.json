@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch06_011",
+  "arc": 4,
+  "chapter": 6,
+  "chapter_title": "Fire in the Valley",
+  "page": 11,
+  "pov": "howen",
+  "prompt": "The Empire comes at dawn. Soldiers, walkers, flame weapons. The valley burns. Tribal warriors fall. Cora fights with desperate fury, but there are too many. Invasion theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Overwhelming force.",
+  "caption": "Chapter 6, Page 11",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_burning",
+  "location_refs": [
+    "references/locations/barleybloom_burning.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "overwhelming",
+  "technical_notes": ""
+}

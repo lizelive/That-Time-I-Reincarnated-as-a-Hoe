@@ -1,0 +1,29 @@
+{
+  "image_id": "arc1_ch09_013",
+  "arc": 1,
+  "chapter": 9,
+  "chapter_title": "The Clever Trap",
+  "page": 13,
+  "pov": "howen",
+  "prompt": "The massive Centipede charges into Howen's trap\u2014a carefully prepared section of vault where mushrooms hide structural weaknesses. The floor collapses under the war machine's weight, ancient metal giving way. The Centipede falls, scrabbling at the edges, red sensors flashing in rage. Cora and Howen watch from safety. Dramatic collapse lighting, red mechanoid lights falling into darkness, dust rising. Style: Trap springing, victory moment. Mood: Triumphant, relieved, costly.",
+  "caption": "Page 13 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "centipede"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/centipede.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "triumph",
+  "technical_notes": ""
+}

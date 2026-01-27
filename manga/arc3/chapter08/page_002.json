@@ -1,0 +1,27 @@
+{
+  "image_id": "arc3_ch08_002",
+  "arc": 3,
+  "chapter": 8,
+  "chapter_title": "Cora's Family",
+  "page": 2,
+  "pov": "howen",
+  "prompt": "The files show more. Cora's tribe\u2014Barleybloom. Not destroyed by raiders. Destroyed by the Empire, harvesting subjects. Cora's family died for persona weapons. Imperial setting growing darker, trust eroding. Howen's POV witnessing the cracks in paradise. Style: Thriller unfolding. Mood: Cora's trauma.",
+  "caption": "Chapter 8, Page 2",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "cora's",
+  "technical_notes": ""
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch10_001",
+  "arc": 5,
+  "chapter": 10,
+  "chapter_title": "United Front",
+  "page": 1,
+  "pov": "howen",
+  "prompt": "The Deserters agree. Other resistance cells join. Even some Imperial defectors. For the first time, we have a real chance. This is bigger than revenge\u2014it's revolution. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: Greater purpose.",
+  "caption": "Chapter 10, Page 1",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "greater",
+  "technical_notes": ""
+}

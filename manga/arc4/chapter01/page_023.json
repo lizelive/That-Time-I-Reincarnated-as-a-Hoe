@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch01_023",
+  "arc": 4,
+  "chapter": 1,
+  "chapter_title": "Welcome Home",
+  "page": 23,
+  "pov": "howen",
+  "prompt": "The tribe accepts Cora, daughter of a daughter. They're wary of me but grateful for her return. The anima tree calls to something deep within us both. Acceptance theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Anima tree introduction.",
+  "caption": "Chapter 1, Page 23",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "barleybloom_village",
+  "location_refs": [
+    "references/locations/barleybloom_village.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "anima",
+  "technical_notes": ""
+}

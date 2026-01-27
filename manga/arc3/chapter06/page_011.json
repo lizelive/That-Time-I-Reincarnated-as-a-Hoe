@@ -1,0 +1,27 @@
+{
+  "image_id": "arc3_ch06_011",
+  "arc": 3,
+  "chapter": 6,
+  "chapter_title": "Dr. Vance's Records",
+  "page": 11,
+  "pov": "howen",
+  "prompt": "We find the records. Dr. Helena Vance, researcher. Subjects: farmers, chosen for their connection to growth. The process: rip-scanning. Survival rate: zero. Imperial setting growing darker, trust eroding. Howen's POV witnessing the cracks in paradise. Style: Thriller unfolding. Mood: Truth revealed.",
+  "caption": "Chapter 6, Page 11",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "imperial_city",
+  "location_refs": [
+    "references/locations/imperial_city.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "truth",
+  "technical_notes": ""
+}

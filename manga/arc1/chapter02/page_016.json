@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch02_016",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 16,
+  "pov": "howen",
+  "prompt": "Night cycle in the vault\u2014most nymphs have retreated to darkness to sleep, but the lightning-marked one remains, curled near Howen like a loyal pet. Its breathing is slow and peaceful, compound eyes dimmed in rest. Howen's light dims to a gentle pulse, watching over it. Soft blue glow pulses like a nightlight over the sleeping nymph, mushrooms dimmed in 'night mode'. Style: Guardian watching, protective rest. Mood: Tender, protective, bond deepening.",
+  "caption": "It stayed. Even when the others left to sleep, it stayed.",
+  "narration": "I watched it sleep and felt something I had forgotten I could feel. Protectiveness. Care. Love, perhaps, in its simplest form.",
+  "characters": [
+    "howen",
+    "chitin"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/chitin.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "protective",
+  "technical_notes": ""
+}

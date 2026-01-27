@@ -1,0 +1,29 @@
+{
+  "image_id": "arc5_ch08_002",
+  "arc": 5,
+  "chapter": 8,
+  "chapter_title": "An Old Friend",
+  "page": 2,
+  "pov": "howen",
+  "prompt": "Charles Wheatstone\u2014the AI I knew before everything. He was there when I was taken. He has been searching for centuries. And he has found a way home. POV from Howen witnessing the final arc. True power awakened, revolution ignited, escape achieved. Style: Epic conclusion. Mood: Escape route revealed.",
+  "caption": "Chapter 8, Page 2",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora",
+    "charles_wheatstone"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json",
+    "references/characters/charles_wheatstone.json"
+  ],
+  "location": "deserter_base",
+  "location_refs": [
+    "references/locations/deserter_base.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "escape",
+  "technical_notes": ""
+}

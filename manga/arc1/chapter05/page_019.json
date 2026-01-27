@@ -1,0 +1,27 @@
+{
+  "image_id": "arc1_ch05_019",
+  "arc": 1,
+  "chapter": 5,
+  "chapter_title": "She Who Digs",
+  "page": 19,
+  "pov": "howen",
+  "prompt": "A young tribal woman breaks through the vault wall, dust and debris cascading around her. Her ritual-scarred face shows exhaustion and terror. She falls into Howen's mushroom garden, purple light illuminating her surprised expression. Cora has dark braided hair with bone beads, amber eyes wide with shock. Dramatic lighting as outside light meets bioluminescence. Style: First contact chaos, dramatic entrance. Mood: Shock, fear, destiny.",
+  "caption": "Page 19 caption placeholder",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt for detailed lighting",
+  "mood": "chaos",
+  "technical_notes": ""
+}

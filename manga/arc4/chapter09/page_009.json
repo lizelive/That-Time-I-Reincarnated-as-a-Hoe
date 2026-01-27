@@ -1,0 +1,27 @@
+{
+  "image_id": "arc4_ch09_009",
+  "arc": 4,
+  "chapter": 9,
+  "chapter_title": "The Vow",
+  "page": 9,
+  "pov": "howen",
+  "prompt": "Over the smoking ruin of the anima tree, Cora makes a vow. The Empire will pay. Every death will be answered. I add my light to her oath. Vengeance vow theme dominant. Howen's POV through tragedy and rebirth. Style: War drama, loss and determination. Mood: Alliance sealed.",
+  "caption": "Chapter 9, Page 9",
+  "narration": "",
+  "characters": [
+    "howen",
+    "cora"
+  ],
+  "character_refs": [
+    "references/characters/howen.json",
+    "references/characters/cora.json"
+  ],
+  "location": "rimworld_surface",
+  "location_refs": [
+    "references/locations/rimworld_surface.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "alliance",
+  "technical_notes": ""
+}

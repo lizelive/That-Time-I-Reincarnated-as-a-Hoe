@@ -1,0 +1,25 @@
+{
+  "image_id": "arc1_ch02_001",
+  "arc": 1,
+  "chapter": 2,
+  "chapter_title": "The Garden Grows",
+  "page": 1,
+  "pov": "howen",
+  "prompt": "A garden of bioluminescent mushrooms glows in the ancient vault, purple and blue light spreading across dusty metal floors. The mushrooms cluster in organic patterns, their caps ranging from tiny pinpricks to palm-sized orbs, each pulsing gently with inner life. In the center, a farming hoe rests on a shelf, its blue archotech core providing counterpoint to the purple fungal glow. Soft purple-blue bioluminescence creates overlapping pools of light, shadows receding to the edges of the frame. Style: Underground garden photography, alien beauty. Mood: Pride, accomplishment, life flourishing.",
+  "caption": "Days passed. Or weeks. Time moves differently when you cannot sleep.",
+  "narration": "My garden grew. Each mushroom was a victory, each new patch of light a conquest against the darkness that had imprisoned me.",
+  "characters": [
+    "howen"
+  ],
+  "character_refs": [
+    "references/characters/howen.json"
+  ],
+  "location": "vault",
+  "location_refs": [
+    "references/locations/vault.json"
+  ],
+  "visual_elements": [],
+  "lighting": "See prompt",
+  "mood": "pride",
+  "technical_notes": ""
+}
