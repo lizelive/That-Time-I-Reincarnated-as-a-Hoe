@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_012",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 12,
+  "pov": "howen",
+  "prompt": "A much larger shape looms in the deeper darkness beyond the caskets—massive, multi-segmented, mechanical. The dormant Centipede mechanoid, powered down but still terrifying. Howen's light barely reaches it, revealing only hints: segmented armor, folded legs, the cold gleam of weapons. Every instinct screams danger. Distant blue light catches just enough of the massive mechanoid to suggest its horrifying scale and purpose. Red sensor lights remain dark—for now. Style: Monster reveal, dormant threat. Mood: Dread, primal fear, something worse waiting.",
+  "caption": "And something else. Bigger. Wrong. Every instinct I have screams danger.",
+  "narration": "In the deepest shadow, something waited. Massive. Metal. Designed for one purpose: destruction.",
+  "characters": ["howen", "centipede"],
+  "character_refs": ["references/characters/howen.json", "references/characters/centipede.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["centipede mechanoid silhouette", "segmented armor hints", "folded legs", "weapon gleams", "massive scale", "dormant red sensors"],
+  "lighting": "Blue light barely reaching massive shape, hints of form, darkness concealing full horror",
+  "mood": "dread",
+  "technical_notes": "Don't show full Centipede yet—just enough to terrify. The unknown is scarier."
+}

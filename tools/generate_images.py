@@ -5,10 +5,17 @@ Image Generation Tool for "The Time I Reincarnated as a Hoe" Manga
 Uses FLUX.2-klein-9B via Hugging Face API to generate consistent manga-style images.
 Each chapter contains 24 images that tell the story from Howen's POV.
 
+Follows the FLUX.2 prompting guide:
+- Write like a novelist: Subject → Setting → Details → Lighting → Atmosphere
+- Front-load important elements
+- Include explicit lighting description
+- Add style and mood annotations
+
 Usage:
     python generate_images.py --chapter arc1/chapter01 --token YOUR_HF_TOKEN
-    python generate_images.py --chapter arc1/chapter01 --token YOUR_HF_TOKEN --image 5
+    python generate_images.py --chapter arc1/chapter01 --token YOUR_HF_TOKEN --page 5
     python generate_images.py --list-chapters
+    python generate_images.py --generate-reference howen --token YOUR_HF_TOKEN
 """
 
 import argparse
@@ -20,112 +27,116 @@ from pathlib import Path
 import requests
 from typing import Optional, List, Dict, Any
 
+# Base paths
+MANGA_PATH = Path(__file__).parent.parent / "manga"
+REFERENCES_PATH = MANGA_PATH / "references"
+
 # Hugging Face API endpoint for FLUX.2-klein-9B
-HF_API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.2-klein-9B"
-
-# Character reference descriptions for consistency
-CHARACTER_REFS = {
-    "howen": {
-        "description": "A persona hoe (farming tool) with a curved dark metal blade showing subtle archotech circuitry patterns, hardwood handle reinforced with plasteel, small glowing blue AI core where handle meets head. The tool glows faintly when communicating. Sometimes has small roots or fungal growths along the handle when emotional.",
-        "human_memory": "A woman with dark hair in a practical ponytail, calloused farmer's hands, deep brown eyes, wearing simple work-stained farmer's clothing.",
-    },
-    "cora": {
-        "description": "A 19-year-old tribal woman with honey-brown hair tied back with cloth, bright green eyes that look old for her face, calloused hands, sun-weathered skin with freckles across her nose. Lean and strong build from hard work.",
-        "arc1_attire": "Simple homespun shirt, sturdy trousers, leather boots worn thin.",
-        "arc3_attire": "Imperial auxiliary uniform, practical and well-fitted.",
-        "arc5_attire": "Deserter combat attire - leather and plasteel hybrid armor, Howen always at her hip.",
-    },
-    "chitin": {
-        "larva": "A dog-sized megascarab larva with pale white carapace, large mandibles, six stumpy legs. Has a distinctive crack in carapace forming a 'lightning bolt' pattern.",
-        "adult": "A horse-sized megascarab with iridescent black-green carapace, massive mandibles capable of crushing plasteel. The lightning bolt crack pattern is still visible.",
-    },
-    "vex": {
-        "description": "A tall, muscular woman in her 40s with close-cropped gray hair, battle scars, missing left ear. Wears an old Imperial coat with the insignia burned off.",
-    },
-    "wheatstone": {
-        "description": "An AI entity that manifests as glowing text/interface on screens, or as a holographic projection of a formal, older gentleman with kind but sad eyes.",
-    },
-}
-
-# Location reference descriptions
-LOCATION_REFS = {
-    "vault": "Ancient danger vault - dark metal walls with dormant archotech circuits, dim emergency lighting, ancient dust, cryptosleep caskets, dormant mechanoids in shadows.",
-    "mushroom_garden": "Underground cave with bioluminescent mushrooms in various colors, soft glowing light, Howen's cultivation area in the vault.",
-    "megascarab_nest": "Dark cavern with chitinous remains, insect tunnels, the smell of earth and decay, skittering sounds in the darkness.",
-    "rim_surface": "Harsh rimworld terrain - scrubby vegetation, distant mountains, alien sky with two small moons, scattered ruins.",
-    "imperial_fort": "Clean, ordered Imperial military installation - plasteel walls, energy barriers, Imperial banners, uniformed soldiers.",
-    "barleybloom_valley": "Hidden valley with golden barley fields, traditional wooden buildings with thatched roofs, peaceful farming community.",
-    "anima_grove": "Sacred clearing with seven massive anima trees that glow with inner light, luminescent moss, charged air with psychic energy.",
-    "deserter_camp": "Hidden guerrilla base in a box canyon - canvas tents, training grounds, maps on tables, hard-looking fighters.",
-}
-
-# Style guidelines for manga images
-STYLE_GUIDE = """
-Manga style, black and white with screentones, dynamic composition, 
-expressive linework, dramatic lighting. POV from Howen (the hoe) - 
-often showing Cora's face from below/side, or environmental shots 
-as if looking from ground level or being held. Include subtle 
-visual indicators of Howen's emotional state through the glow of 
-her core or plant growth along her handle.
-"""
+HF_API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
 
 
-def load_chapter_data(chapter_path: str) -> Dict[str, Any]:
-    """Load chapter JSON data from the manga directory."""
-    base_path = Path(__file__).parent.parent / "manga" / f"{chapter_path}.json"
-    if not base_path.exists():
-        raise FileNotFoundError(f"Chapter file not found: {base_path}")
+def load_character_reference(char_id: str) -> Optional[Dict[str, Any]]:
+    """Load a character reference JSON file."""
+    char_path = REFERENCES_PATH / "characters" / f"{char_id}.json"
+    if char_path.exists():
+        with open(char_path) as f:
+            return json.load(f)
+    return None
+
+
+def load_location_reference(loc_id: str) -> Optional[Dict[str, Any]]:
+    """Load a location reference JSON file."""
+    loc_path = REFERENCES_PATH / "locations" / f"{loc_id}.json"
+    if loc_path.exists():
+        with open(loc_path) as f:
+            return json.load(f)
+    return None
+
+
+def load_page_data(chapter_path: str, page_num: int) -> Dict[str, Any]:
+    """Load a single page JSON file."""
+    page_path = MANGA_PATH / chapter_path / f"page_{page_num:03d}.json"
+    if not page_path.exists():
+        raise FileNotFoundError(f"Page file not found: {page_path}")
     
-    with open(base_path, "r") as f:
+    with open(page_path) as f:
+        return json.load(f)
+
+
+def load_chapter_meta(chapter_path: str) -> Dict[str, Any]:
+    """Load chapter metadata."""
+    meta_path = MANGA_PATH / chapter_path / "chapter_meta.json"
+    if not meta_path.exists():
+        raise FileNotFoundError(f"Chapter metadata not found: {meta_path}")
+    
+    with open(meta_path) as f:
         return json.load(f)
 
 
 def list_available_chapters() -> List[str]:
-    """List all available chapter JSON files."""
-    manga_path = Path(__file__).parent.parent / "manga"
+    """List all available chapters (directories with chapter_meta.json)."""
     chapters = []
-    for json_file in manga_path.rglob("*.json"):
-        rel_path = json_file.relative_to(manga_path)
-        chapters.append(str(rel_path.with_suffix("")))
+    for meta_file in MANGA_PATH.rglob("chapter_meta.json"):
+        chapter_path = meta_file.parent.relative_to(MANGA_PATH)
+        chapters.append(str(chapter_path))
     return sorted(chapters)
 
 
-def build_prompt(image_data: Dict[str, Any], chapter_data: Dict[str, Any]) -> str:
-    """Build the full prompt for image generation including references."""
-    # Start with base style
-    prompt_parts = [STYLE_GUIDE.strip()]
+def list_chapter_pages(chapter_path: str) -> List[int]:
+    """List all available page numbers for a chapter."""
+    chapter_dir = MANGA_PATH / chapter_path
+    pages = []
+    for page_file in chapter_dir.glob("page_*.json"):
+        try:
+            page_num = int(page_file.stem.split("_")[1])
+            pages.append(page_num)
+        except (IndexError, ValueError):
+            continue
+    return sorted(pages)
+
+
+def build_prompt(page_data: Dict[str, Any]) -> str:
+    """
+    Build the full prompt for image generation following FLUX.2 guide.
     
-    # Add scene description
-    prompt_parts.append(f"Scene: {image_data['description']}")
+    Structure: Subject → Setting → Details → Lighting → Atmosphere
+    """
+    # The prompt field should already be well-formed following the guide
+    # Just return it directly - it's written as flowing prose
+    prompt = page_data.get("prompt", "")
     
-    # Add character references
-    for char in image_data.get("characters", []):
-        if char in CHARACTER_REFS:
-            char_ref = CHARACTER_REFS[char]
-            if isinstance(char_ref, dict):
-                # Get appropriate description based on context
-                if "description" in char_ref:
-                    prompt_parts.append(f"{char.title()}: {char_ref['description']}")
-            else:
-                prompt_parts.append(f"{char.title()}: {char_ref}")
+    # If no prompt, build from components (legacy support)
+    if not prompt:
+        parts = []
+        
+        # Subject/Scene description
+        if "description" in page_data:
+            parts.append(page_data["description"])
+        
+        # Add lighting if specified separately
+        if "lighting" in page_data:
+            parts.append(page_data["lighting"])
+        
+        # Add mood as style annotation
+        if "mood" in page_data:
+            parts.append(f"Mood: {page_data['mood']}")
+        
+        prompt = " ".join(parts)
     
-    # Add location reference
-    location = image_data.get("location")
-    if location and location in LOCATION_REFS:
-        prompt_parts.append(f"Setting: {LOCATION_REFS[location]}")
-    
-    # Add POV indicator
-    prompt_parts.append("POV: From Howen (the hoe) - ground level or being held perspective")
-    
-    # Add mood/emotion
-    if "mood" in image_data:
-        prompt_parts.append(f"Mood: {image_data['mood']}")
-    
-    # Add any specific visual elements
-    if "visual_elements" in image_data:
-        prompt_parts.append(f"Include: {', '.join(image_data['visual_elements'])}")
-    
-    return "\n".join(prompt_parts)
+    return prompt
+
+
+def build_reference_prompt(ref_type: str, ref_id: str) -> Optional[str]:
+    """Build prompt from a reference file."""
+    if ref_type == "character":
+        ref = load_character_reference(ref_id)
+        if ref:
+            return ref.get("reference_prompt") or ref.get("reference_prompt_adult")
+    elif ref_type == "location":
+        ref = load_location_reference(ref_id)
+        if ref:
+            return ref.get("reference_prompt")
+    return None
 
 
 def generate_image(
@@ -192,43 +203,48 @@ def generate_image(
 def generate_chapter_images(
     chapter_path: str,
     token: str,
-    specific_image: Optional[int] = None,
+    specific_page: Optional[int] = None,
     dry_run: bool = False
 ) -> None:
     """Generate all images for a chapter."""
-    chapter_data = load_chapter_data(chapter_path)
+    try:
+        chapter_meta = load_chapter_meta(chapter_path)
+    except FileNotFoundError:
+        print(f"Error: Chapter metadata not found at {chapter_path}")
+        return
     
     print(f"\n{'='*60}")
-    print(f"Chapter: {chapter_data['title']}")
-    print(f"Arc: {chapter_data['arc']}")
-    print(f"POV: {chapter_data['pov']}")
+    print(f"Chapter: {chapter_meta['chapter_title']}")
+    print(f"Arc: {chapter_meta['arc_title']}")
+    print(f"POV: {chapter_meta['pov']}")
     print(f"{'='*60}\n")
     
-    images = chapter_data["images"]
+    pages = list_chapter_pages(chapter_path)
     
-    if specific_image is not None:
-        if 1 <= specific_image <= len(images):
-            images = [(specific_image, images[specific_image - 1])]
+    if specific_page is not None:
+        if specific_page in pages:
+            pages = [specific_page]
         else:
-            print(f"Error: Image {specific_image} not found (chapter has {len(images)} images)")
+            print(f"Error: Page {specific_page} not found (available: {pages})")
             return
-    else:
-        images = list(enumerate(images, 1))
     
-    output_dir = Path(__file__).parent.parent / "manga" / "output" / chapter_path
+    output_dir = MANGA_PATH / "output" / chapter_path
     
-    for img_num, img_data in images:
-        print(f"Image {img_num}/{len(chapter_data['images'])}: {img_data.get('caption', 'No caption')}")
+    for page_num in pages:
+        page_data = load_page_data(chapter_path, page_num)
+        caption = page_data.get('caption', 'No caption')
         
-        prompt = build_prompt(img_data, chapter_data)
+        print(f"Page {page_num}/{max(pages)}: {caption[:50]}...")
+        
+        prompt = build_prompt(page_data)
         
         if dry_run:
-            print(f"  [DRY RUN] Would generate with prompt:")
-            print(f"  {prompt[:200]}...")
+            print(f"  [DRY RUN] Prompt:")
+            print(f"  {prompt[:300]}...")
             print()
             continue
         
-        output_path = output_dir / f"page_{img_num:02d}.png"
+        output_path = output_dir / f"page_{page_num:03d}.png"
         
         if output_path.exists():
             print(f"  Skipping (already exists)")
@@ -248,41 +264,135 @@ def generate_chapter_images(
     print(f"\nGeneration complete!")
 
 
-def create_chapter_template(chapter_path: str) -> None:
-    """Create a template JSON file for a new chapter."""
-    template = {
-        "title": "Chapter Title",
-        "arc": "arc1",
-        "chapter_number": 1,
+def generate_reference_image(
+    ref_type: str,
+    ref_id: str,
+    token: str,
+    dry_run: bool = False
+) -> None:
+    """Generate a reference image for a character or location."""
+    prompt = build_reference_prompt(ref_type, ref_id)
+    
+    if not prompt:
+        print(f"Error: No reference prompt found for {ref_type}/{ref_id}")
+        return
+    
+    print(f"\n{'='*60}")
+    print(f"Generating reference: {ref_type}/{ref_id}")
+    print(f"{'='*60}\n")
+    
+    if dry_run:
+        print(f"[DRY RUN] Prompt:")
+        print(f"{prompt}")
+        return
+    
+    output_dir = MANGA_PATH / "output" / "references" / f"{ref_type}s"
+    output_path = output_dir / f"{ref_id}.png"
+    
+    if output_path.exists():
+        print(f"Skipping (already exists)")
+        return
+    
+    print(f"Generating...")
+    success = generate_image(prompt, token, output_path)
+    
+    if success:
+        print(f"Saved to {output_path}")
+    else:
+        print(f"FAILED")
+
+
+def create_chapter_template(chapter_path: str, num_pages: int = 24) -> None:
+    """Create a template directory structure for a new chapter."""
+    chapter_dir = MANGA_PATH / chapter_path
+    chapter_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Create chapter metadata
+    meta = {
+        "chapter_id": chapter_path.replace("/", "_"),
+        "arc": int(chapter_path.split("/")[0].replace("arc", "")),
+        "arc_title": "Arc Title",
+        "chapter": int(chapter_path.split("/")[1].replace("chapter", "")),
+        "chapter_title": "Chapter Title",
         "pov": "howen",
-        "summary": "Brief chapter summary from Howen's perspective.",
-        "images": [
-            {
-                "page": i,
-                "description": f"Scene description for page {i}",
-                "caption": "Dialogue or narration text",
-                "characters": ["howen"],
-                "location": "vault",
-                "mood": "mysterious",
-                "visual_elements": [],
-                "reference_images": []
-            }
-            for i in range(1, 25)
-        ]
+        "total_pages": num_pages,
+        "summary": "Chapter summary from Howen's POV.",
+        "themes": [],
+        "character_development": {},
+        "key_moments": [],
+        "page_files": [f"page_{i:03d}.json" for i in range(1, num_pages + 1)],
+        "next_chapter": None,
+        "previous_chapter": None
     }
     
-    output_path = Path(__file__).parent.parent / "manga" / f"{chapter_path}.json"
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(chapter_dir / "chapter_meta.json", "w") as f:
+        json.dump(meta, f, indent=2)
     
-    with open(output_path, "w") as f:
-        json.dump(template, f, indent=2)
+    # Create page templates
+    for i in range(1, num_pages + 1):
+        page = {
+            "image_id": f"{chapter_path.replace('/', '_')}_{i:03d}",
+            "arc": meta["arc"],
+            "chapter": meta["chapter"],
+            "chapter_title": meta["chapter_title"],
+            "page": i,
+            "pov": "howen",
+            "prompt": "Write flowing prose describing: Subject → Setting → Details → Lighting → Atmosphere. Style: [style]. Mood: [mood].",
+            "caption": "Dialogue or narration text",
+            "narration": "Internal monologue from Howen's POV",
+            "characters": ["howen"],
+            "character_refs": ["references/characters/howen.json"],
+            "location": "vault",
+            "location_refs": ["references/locations/vault.json"],
+            "visual_elements": [],
+            "lighting": "Describe lighting",
+            "mood": "mysterious",
+            "technical_notes": ""
+        }
+        
+        with open(chapter_dir / f"page_{i:03d}.json", "w") as f:
+            json.dump(page, f, indent=2)
     
-    print(f"Created template: {output_path}")
+    print(f"Created chapter template at {chapter_dir}")
+    print(f"  - chapter_meta.json")
+    print(f"  - {num_pages} page files")
+
+
+def list_references() -> None:
+    """List all available reference files."""
+    print("\nCharacter References:")
+    for ref in (REFERENCES_PATH / "characters").glob("*.json"):
+        print(f"  {ref.stem}")
+    
+    print("\nLocation References:")
+    for ref in (REFERENCES_PATH / "locations").glob("*.json"):
+        print(f"  {ref.stem}")
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Generate manga images for The Time I Reincarnated as a Hoe"
+        description="Generate manga images for The Time I Reincarnated as a Hoe",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  # List available chapters
+  python generate_images.py --list-chapters
+  
+  # Generate all pages for a chapter
+  python generate_images.py --chapter arc1/chapter01 --token YOUR_TOKEN
+  
+  # Generate a specific page
+  python generate_images.py --chapter arc1/chapter01 --page 5 --token YOUR_TOKEN
+  
+  # Preview prompts without generating
+  python generate_images.py --chapter arc1/chapter01 --dry-run
+  
+  # Generate character reference image
+  python generate_images.py --generate-reference character:howen --token YOUR_TOKEN
+  
+  # List all references
+  python generate_images.py --list-references
+"""
     )
     parser.add_argument(
         "--chapter",
@@ -294,9 +404,9 @@ def main():
         default=os.environ.get("HF_TOKEN")
     )
     parser.add_argument(
-        "--image",
+        "--page",
         type=int,
-        help="Generate only a specific image number"
+        help="Generate only a specific page number"
     )
     parser.add_argument(
         "--list-chapters",
@@ -304,9 +414,19 @@ def main():
         help="List available chapters"
     )
     parser.add_argument(
+        "--list-references",
+        action="store_true",
+        help="List available reference files"
+    )
+    parser.add_argument(
         "--create-template",
         metavar="PATH",
-        help="Create a new chapter template"
+        help="Create a new chapter template (e.g., arc1/chapter03)"
+    )
+    parser.add_argument(
+        "--generate-reference",
+        metavar="TYPE:ID",
+        help="Generate a reference image (e.g., character:howen, location:vault)"
     )
     parser.add_argument(
         "--dry-run",
@@ -321,13 +441,32 @@ def main():
         if chapters:
             print("Available chapters:")
             for ch in chapters:
-                print(f"  {ch}")
+                try:
+                    meta = load_chapter_meta(ch)
+                    print(f"  {ch}: {meta.get('chapter_title', 'Untitled')}")
+                except Exception:
+                    print(f"  {ch}")
         else:
             print("No chapters found. Create one with --create-template")
         return
     
+    if args.list_references:
+        list_references()
+        return
+    
     if args.create_template:
         create_chapter_template(args.create_template)
+        return
+    
+    if args.generate_reference:
+        if ":" not in args.generate_reference:
+            print("Error: Format should be TYPE:ID (e.g., character:howen)")
+            sys.exit(1)
+        ref_type, ref_id = args.generate_reference.split(":", 1)
+        if not args.token and not args.dry_run:
+            print("Error: HF_TOKEN required. Set via --token or HF_TOKEN environment variable.")
+            sys.exit(1)
+        generate_reference_image(ref_type, ref_id, args.token or "", args.dry_run)
         return
     
     if not args.chapter:
@@ -341,7 +480,7 @@ def main():
     generate_chapter_images(
         args.chapter,
         args.token or "",
-        args.image,
+        args.page,
         args.dry_run
     )
 

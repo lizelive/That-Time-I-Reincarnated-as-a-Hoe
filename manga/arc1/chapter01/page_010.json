@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_010",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 10,
+  "pov": "howen",
+  "prompt": "The roots slowly recede back into the wood as Howen forces calm through sheer will. The blue glow stabilizes to a steady, determined pulse. The crisis passes, acceptance beginning to take hold. The surrounding dust settles. A sense of stillness returns, but different now—not the stillness of void, but of decision. Steady blue light returns, the roots withdrawing, dust particles settling slowly through the illumination. Style: Emotional recovery, willpower triumph. Mood: Resolve, acceptance, moving forward.",
+  "caption": "...It doesn't matter. Not right now. What matters is: where am I, and how do I get out?",
+  "narration": "I couldn't change what had been done. I could only decide what comes next. And I chose: survive.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["stabilizing blue glow", "roots receding into wood", "dust settling", "calm returning", "sense of resolve"],
+  "lighting": "Steady, determined blue pulse, calm after storm",
+  "mood": "resolve",
+  "technical_notes": "Transition from chaos to calm. Roots pulling back = regaining control."
+}

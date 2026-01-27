@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_018",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 18,
+  "pov": "howen",
+  "prompt": "Howen concentrates with everything she has, channeling some power she doesn't understand through her new form toward the dormant spores. The connection intensifies, blue light flowing toward the particles like water finding its path. The spores begin to glow brighter, responding, awakening. The effort is visible in the intensity of her light. Concentrated blue energy flowing toward brightening spore particles, power transfer visualization, intense focus shown through light intensity. Style: Power channeling, growth magic beginning. Mood: Concentration, effort, will made manifest.",
+  "caption": "Grow. Please. Grow for me.",
+  "narration": "I poured everything I had—everything I was—into that simple command. The farmer's eternal prayer.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["concentrated blue energy", "energy flowing to spores", "brightening response", "effort visualization", "psychic connection stream"],
+  "lighting": "Intense focused blue light channeling toward brightening particles",
+  "mood": "concentration",
+  "technical_notes": "Show energy transfer from Howen to the spores. The command made visible."
+}

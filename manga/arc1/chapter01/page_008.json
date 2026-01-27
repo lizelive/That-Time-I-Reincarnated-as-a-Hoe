@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_008",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 8,
+  "pov": "howen",
+  "prompt": "A violent memory flash tears through consciousness—a clinical white room with sterile surfaces, medical restraints visible on a table, and a shadowy figure of a woman with cold calculating eyes (Dr. Vance) holding a device that hums with terrible purpose. The image is fragmented, shattered like broken glass, pieces missing, terror filling the gaps. Bright clinical white light creates harsh shadows on the medical equipment. The memory feels like it's being viewed through cracked glass. Style: Trauma memory, medical horror, fragmented flashback. Mood: Terror, violation, the moment everything changed.",
+  "caption": "A flash—white walls, cold eyes, a machine humming, screaming—my screaming—then nothing.",
+  "narration": "Pain. I remembered pain. A woman's face—beautiful and terrible—and the sound of my own voice begging.",
+  "characters": ["howen", "dr_vance"],
+  "character_refs": ["references/characters/howen.json", "references/characters/dr_vance.json"],
+  "location": "memory_lab",
+  "location_refs": [],
+  "visual_elements": ["clinical white room", "medical restraints", "shadowy figure with cold eyes", "humming device", "shattered/fragmented view", "harsh clinical lighting"],
+  "lighting": "Harsh clinical white light, sterile and cold, memory fragmented",
+  "mood": "terror",
+  "technical_notes": "Memory sequence - should be fragmented, pieces missing. Dr. Vance shadowy but recognizable."
+}

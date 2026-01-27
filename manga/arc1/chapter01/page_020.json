@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_020",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 20,
+  "pov": "howen",
+  "prompt": "More mushrooms sprout in rapid succession, each one adding its purple light to the growing illumination. A cluster, then another, spreading outward from Howen's position. The vault begins to reveal itself—dusty floor, ancient metal walls, the shapes of caskets emerging from shadow. Light conquers darkness, one fungus at a time. Multiple bioluminescent mushrooms spreading, purple light growing, vault features emerging, shadows retreating. Style: Growth acceleration, revelation through light. Mood: Accomplishment, wonder, the world taking shape.",
+  "caption": "More. I can make more. And with light... I can finally see.",
+  "narration": "Each mushroom was a small victory. Each glow pushed back the darkness that had held me. I was making my world.",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["multiple mushroom clusters", "spreading purple light", "vault features emerging", "walls visible", "floor texture revealed", "casket shapes clearer"],
+  "lighting": "Expanding purple bioluminescence revealing architecture, mixed with blue core light",
+  "mood": "accomplishment",
+  "technical_notes": "Show growth spreading outward, light conquering darkness, vault emerging from shadow."
+}

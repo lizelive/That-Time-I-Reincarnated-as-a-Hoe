@@ -1,0 +1,19 @@
+{
+  "image_id": "arc1_ch01_014",
+  "arc": 1,
+  "chapter": 1,
+  "chapter_title": "Awakening in Darkness",
+  "page": 14,
+  "pov": "howen",
+  "prompt": "A passage of time visualization—multiple positions of Howen's blue glow shown in a single frame, like long exposure photography of her thoughts. She exists in darkness, processing, remembering, fighting despair. The glow appears in different intensities and positions, representing hours or days passing. Dust settles and rises around each position. Multiple blue glows at different positions and intensities, time passage shown through repetition and movement trails. Style: Time passage montage, contemplation visualization. Mood: Endurance, solitude, the long wait.",
+  "caption": "Hours pass. Or days. I have no way to know. I think. I remember. I try not to despair.",
+  "narration": "Time became meaningless. I existed. I remembered. I planned. What else could I do?",
+  "characters": ["howen"],
+  "character_refs": ["references/characters/howen.json"],
+  "location": "vault",
+  "location_refs": ["references/locations/vault.json"],
+  "visual_elements": ["multiple glow positions", "time passage visualization", "long exposure effect", "dust movement", "contemplative stillness"],
+  "lighting": "Multiple blue glows at varying intensities representing passage of time",
+  "mood": "contemplation",
+  "technical_notes": "Show time passing through multiple positions/intensities of the same light source."
+}

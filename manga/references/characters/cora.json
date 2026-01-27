@@ -1,0 +1,33 @@
+{
+  "character_id": "cora",
+  "name": "Cora",
+  "type": "human",
+  "age_range": "early_twenties",
+  "visual_description": "A young tribal woman in her early twenties with sun-darkened skin bearing ritual scars on her cheeks—three parallel lines on each side. Her dark hair is kept in practical braids woven with small bone beads and dried flowers. Her eyes are amber-brown, intense and wary. Her build is athletic and lean from a life of survival. She wears layered tribal clothing of tanned leather and woven plant fiber, practical for the rim.",
+  "reference_prompt": "A young tribal woman in her early twenties stands alert in dappled forest light, her sun-darkened skin bearing three parallel ritual scars on each cheek. Dark hair falls in practical braids woven with small bone beads and dried wildflowers. Her amber-brown eyes hold an intense, wary gaze that speaks of survival. Athletic and lean, she wears layered clothing of tanned leather and woven plant fiber in earth tones. Soft natural light filters through leaves above, catching the bone ornaments in her hair and illuminating the texture of her scarred skin. Style: Realistic portrait, post-apocalyptic tribal aesthetic. Mood: Fierce, survivor, untamed.",
+  "key_visual_elements": [
+    "sun-darkened skin",
+    "three parallel ritual scars on each cheek",
+    "dark hair in practical braids",
+    "bone beads and dried flowers in hair",
+    "amber-brown intense eyes",
+    "athletic lean build",
+    "layered tribal leather and woven clothing",
+    "earth tone colors"
+  ],
+  "expressions": {
+    "default": "wary, watchful",
+    "trust": "soft eyes, slight smile",
+    "combat": "fierce, teeth bared",
+    "grief": "hollow eyes, slack features",
+    "hope": "eyes bright, chin raised"
+  },
+  "arc_appearance_changes": {
+    "arc1_vault": "Cryptosleep-thinned, pale, weak. Simple sleeping gown.",
+    "arc2_rim": "Recovering strength, basic scavenged clothing.",
+    "arc3_empire": "Imperial auxiliary uniform, hair neat, scars hidden with makeup.",
+    "arc4_fall": "Torn imperial clothing, scars visible again, eyes haunted.",
+    "arc5_deserter": "Deserter gear, anima grass woven into braids, powerful stance."
+  },
+  "origin": "Last survivor of Barleybloom Tribe, cryptosleep survivor"
+}

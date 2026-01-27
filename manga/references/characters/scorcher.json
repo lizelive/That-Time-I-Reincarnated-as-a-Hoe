@@ -1,0 +1,20 @@
+{
+  "character_id": "scorcher",
+  "name": "Scorcher Mechanoid",
+  "type": "mechanoid",
+  "visual_description": "A humanoid mechanoid with a hunched posture, built around a massive flamethrower system. Dark metal body with heat vents glowing orange. Single cyclopean sensor. Fuel tanks on back. Designed to burn everything.",
+  "reference_prompt": "A hunched humanoid mechanoid stands wreathed in heat shimmer, its dark metal body built around an enormous flamethrower system that dominates its frame. A single cyclopean sensor glows orange-red where a face would be. Heat vents along its torso pulse with inner fire, while fuel tanks on its back gleam with deadly potential. The creature's posture suggests predatory intent, flamethrower raised and ready. Warm orange lighting from its own heat vents illuminates the smoke rising from its chassis, while harsh shadows define its inhuman angles. Style: Military science fiction, fire elemental machine. Mood: Destructive, relentless, burning.",
+  "key_visual_elements": [
+    "hunched humanoid posture",
+    "massive flamethrower system",
+    "single cyclopean orange sensor",
+    "heat vents glowing orange",
+    "fuel tanks on back",
+    "dark metal body with heat damage"
+  ],
+  "states": {
+    "dormant": "cold, dark sensor, still",
+    "active": "orange sensor, heat shimmering",
+    "firing": "massive flame stream, glowing red-hot"
+  }
+}
