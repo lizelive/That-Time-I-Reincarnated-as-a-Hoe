@@ -2,39 +2,7 @@
 
 > *"In this world, the sharpest blade isn't always steel. Sometimes it's purpose."*
 
-A Rimworld-based manga following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and vengeance on a deadly rimworld. **All chapters are told from Howen's POV.**
-
----
-
-## 📚 Full Wiki
-
-Explore the complete wiki for detailed character profiles, world-building, and the full 5-arc story:
-
-**[→ Enter the Wiki](./wiki/index.md)**
-
----
-
-## 🎨 Manga
-
-The story is told as a manga with 24 images per chapter, all from Howen's perspective.
-
-**[→ View Manga Chapters](./manga/README.md)**
-
-### Image Generation
-
-Generate manga images using FLUX.2-klein-9B via the included Python tool:
-
-```bash
-# Install dependencies
-pip install -r tools/requirements.txt
-
-# Generate chapter images
-python tools/generate_images.py --chapter arc1/chapter01 --token YOUR_HF_TOKEN
-```
-
-See [tools/README.md](./tools/README.md) for full documentation.
-
----
+A Rimworld-based manga following **Howen**, a human consciousness trapped in a persona hoe, as she navigates survival, friendship, and vengeance on a deadly rimworld. 
 
 ## Quick Overview
 
