@@ -78,4 +78,7 @@ A RimWorld fan josei about a Persona Hoe.
 
 ## Dispersal
 
-Leave the planet with 
+- charles whitestone, an OLD ship ai, contacts you.
+- journy across the planent to get to his ship
+- fight waves of raids as the reactor powrs up
+- Leave the planet with ai from your past
